@@ -1,0 +1,110 @@
+- link "Skip to content":
+  - /url: "#content"
+- banner "Site":
+  - link "Mynomadlawyer":
+    - /url: https://www.mynomadlawyer.com/
+    - img "Mynomadlawyer"
+  - navigation "Primary":
+    - list:
+      - link "Home":
+        - /url: https://www.mynomadlawyer.com/
+      - link "About us":
+        - /url: https://www.mynomadlawyer.com/about-us/
+      - link "Services":
+        - /url: https://www.mynomadlawyer.com/services-my-nomad-lawyer/
+      - link "Why choose us":
+        - /url: https://www.mynomadlawyer.com/why-choose-us/
+      - link "Contact":
+        - /url: https://www.mynomadlawyer.com/contact/
+      - generic: en
+- main:
+  - article:
+    - heading "Why choose us?" [level=1]
+    - paragraph: Choosing who to trust with your legal process in a foreign country is a serious decision. At My Nomad Lawyer, we combine expertise, personalized attention, and deep knowledge of immigration law to offer effective legal solutions tailored to your specific case. Our team is made up of professionals specialized in international mobility, led by a recognized immigration lawyer in Spain with years of experience advising clients from all over the world.
+    - heading "Some advantages..." [level=2]
+    - paragraph: International Reach
+    - paragraph: Professional and expanding law firm with the capacity to serve international clients
+    - paragraph: Solid Virtual Network
+    - paragraph: Strong virtual team supported by a network of strategic partners
+    - paragraph: Expert Leadership
+    - paragraph: Led by an expert lawyer with CCBE certification and member of the Immigration Subcommittee of the Málaga Bar Association
+    - paragraph: Multidisciplinary Expertise
+    - paragraph: Combined experience in immigration, international mobility, and investment
+    - paragraph: Tailored Consultations
+    - paragraph: Professional and personalized consultations
+    - paragraph: Trusted Partnerships
+    - paragraph: Recognized strategic partners to reinforce authority and trust
+    - heading "Personalized attention and real solutions for every client" [level=3]
+    - paragraph: "At My Nomad Lawyer, we don’t believe in one-size-fits-all approaches. Every client has a unique story, context, and goal. Through our specialized expat legal services, we carefully study your case to design a legal strategy that reduces risks and gets you closer to your objective: living, investing, or working legally in Spain."
+    - paragraph: If you’re exploring your relocation options, we provide clear, expert guidance on digital nomad visa requirements, helping remote professionals navigate the legal process with confidence and ease. We’re committed to guiding you through every legal step with clarity, efficiency, and a human approach. No hidden terms, no unnecessary legal jargon.
+    - paragraph: We know how complex legal and administrative procedures can be in a different country, and we’re here to simplify it all for you.
+    - link "Our services":
+      - /url: https://www.mynomadlawyer.com/services-my-nomad-lawyer/
+      - generic: Our services
+    - img "martillo justicia"
+    - img "Balanza de la justicia encima de unos libros antiguos"
+    - heading "Proven expertise in immigration" [level=3]
+    - paragraph: for Digital Nomads, Investors, and Families
+    - paragraph: Our team is led by a senior immigration advisor with institutional recognition and extensive experience in immigration procedures, residence permits, family reunification, nationality, and residency through investment. We are your ideal partner when dealing with digital nomad visa requirements, legal paperwork for investors, and family relocation processes.
+    - paragraph: Over the years, we’ve helped dozens of international clients regularize their status with legal certainty and no complications. We also collaborate with top universities, companies, and tax advisors in Spain to offer complete and reliable expat legal services.
+    - heading "Looking for an immigration lawyer who truly listens?" [level=3]
+    - paragraph: At My Nomad Lawyer, we listen, advise, and walk with you every step of the way. We know that behind every immigration process there’s a personal journey, a professional goal, or a family project. That’s why we go beyond legal advice, we provide human, transparent, and effective support.
+    - paragraph: If you need a legal team that not only understands the law, but also your priorities as a foreigner in Spain, reach out to us. We are your trusted partner for expat legal services, digital nomad visa requirements, and Spain properties invest—offering legal peace of mind from start to finish.
+    - link "Contact us!":
+      - /url: https://www.mynomadlawyer.com/contact/
+      - generic: Contact us!
+    - img "estatua de la justica"
+- complementary:
+  - figure
+  - paragraph: Your trusted law firm for digital nomads and international investors
+  - paragraph:
+    - strong: Navigation
+  - paragraph:
+    - link "Home":
+      - /url: http://mynomadlawyer.7por7.com/
+    - link "About us":
+      - /url: http://mynomadlawyer.7por7.com/about-us/
+    - link "Services":
+      - /url: http://mynomadlawyer.7por7.com/services-my-nomad-lawyer/
+    - link "Why choose us":
+      - /url: http://mynomadlawyer.7por7.com/why-choose-us/
+    - link "Testimonials":
+      - /url: http://mynomadlawyer.7por7.com/testimonials/
+    - link "Contact":
+      - /url: http://mynomadlawyer.7por7.com/contact/
+  - paragraph:
+    - strong: Contact
+  - paragraph:
+    - text: Av. Ricardo Soriano, 34, 29601 Marbella, Málaga
+    - text: gemmabueno@mynomadlawyer.com
+    - text: +34 637 456 466
+  - paragraph:
+    - strong: Navigation
+  - paragraph:
+    - link "Privacy policy":
+      - /url: https://www.mynomadlawyer.com/privacy-policy/
+    - link "Cookies policy":
+      - /url: https://www.mynomadlawyer.com/cookies-policy/
+    - link "Accessibility Statement":
+      - /url: https://www.mynomadlawyer.com/accessibility-statement/
+    - link "Legal notice":
+      - /url: https://www.mynomadlawyer.com/legal-notice/
+    - link "Site map":
+      - /url: https://www.mynomadlawyer.com/page-sitemap.xml
+- contentinfo "Site":
+  - complementary:
+    - figure:
+      - img "logotipo universidad pablo olavide"
+    - figure:
+      - img "logotipo asega"
+    - figure:
+      - img "logotipo abogacia de málaga"
+  - complementary:
+    - paragraph: Esta web está financiada por la Unión Europea- Next Generation EU
+  - complementary:
+    - figure:
+      - img "logo-KIT-DIGITAL-definitivo-color-2024"
+- generic: desktop
+- link "Whatsapp":
+  - /url: https://api.whatsapp.com/send?phone=34637456466
+  - img "Whatsapp"

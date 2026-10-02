@@ -1,0 +1,5366 @@
+[
+  {
+    "slug": "home",
+    "width": 1440,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 6156,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 622.6000366210938,
+          "key": "efccdb1",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 210,
+          "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+          "tag": "H1",
+          "w": 855,
+          "x": 284.8999938964844,
+          "y": 300
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 154.3125,
+          "key": "706e6e7",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 802.6000366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1018.9000244140624,
+          "key": "48862c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 956.9125366210938
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 94,
+          "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 991.7125244140624
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 692.1000366210938,
+          "key": "7ed5c57",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1975.8125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Meet our specialized\nimmigration law firm",
+          "tag": "H2",
+          "w": 741.7750244140625,
+          "x": 540.4000244140625,
+          "y": 2085.8125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 425.7875061035156,
+          "key": "5cdd9e4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 2667.91259765625
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H3",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 2737.91259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 337.25,
+          "key": "6810e21",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3093.699951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 553.4125366210938,
+          "key": "06fe8d0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3430.949951171875
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 3500.949951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 573.2999877929688,
+          "key": "30570c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3984.362548828125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "What do our clients say?",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 4094.362548828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 989.2000122070312,
+          "key": "aba63b4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 4557.66259765625
+        },
+        {
+          "font": "600 60px / 71px \"Cormorant Garamond\", serif",
+          "h": 142,
+          "key": "Request your profesional consultation",
+          "tag": "H3",
+          "w": 555,
+          "x": 12.40000057220459,
+          "y": 4657.66259765625
+        },
+        {
+          "font": "700 40px / 40px \"Cormorant Garamond\", serif",
+          "h": 80,
+          "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+          "tag": "H4",
+          "w": 680,
+          "x": 722.4000244140625,
+          "y": 4667.66259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 5546.86279296875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 6156,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 622.6000366210938,
+          "key": "efccdb1",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 210,
+          "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+          "tag": "H1",
+          "w": 855,
+          "x": 284.8999938964844,
+          "y": 300
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 154.3125,
+          "key": "706e6e7",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 802.6000366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1018.9000244140624,
+          "key": "48862c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 956.9125366210938
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 94,
+          "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 991.7125244140624
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 692.1000366210938,
+          "key": "7ed5c57",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1975.8125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Meet our specialized\nimmigration law firm",
+          "tag": "H2",
+          "w": 741.7750244140625,
+          "x": 540.4000244140625,
+          "y": 2085.8125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 425.7875061035156,
+          "key": "5cdd9e4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 2667.91259765625
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H3",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 2737.91259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 337.25,
+          "key": "6810e21",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3093.699951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 553.4125366210938,
+          "key": "06fe8d0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3430.949951171875
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 3500.949951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 573.2000122070312,
+          "key": "30570c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3984.362548828125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "What do our clients say?",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 4094.362548828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 989.2000122070312,
+          "key": "aba63b4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 4557.5625
+        },
+        {
+          "font": "600 60px / 71px \"Cormorant Garamond\", serif",
+          "h": 142,
+          "key": "Request your profesional consultation",
+          "tag": "H3",
+          "w": 555,
+          "x": 12.40000057220459,
+          "y": 4657.5625
+        },
+        {
+          "font": "700 40px / 40px \"Cormorant Garamond\", serif",
+          "h": 80,
+          "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+          "tag": "H4",
+          "w": 680,
+          "x": 722.4000244140625,
+          "y": 4667.5625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 5546.7626953125
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "differences": [],
+    "validationStatus": "valid-desktop-comparison"
+  },
+  {
+    "slug": "home",
+    "width": 1280,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 6156,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 622.6000366210938,
+          "key": "efccdb1",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 210,
+          "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+          "tag": "H1",
+          "w": 855,
+          "x": 284.8999938964844,
+          "y": 300
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 154.3125,
+          "key": "706e6e7",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 802.6000366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1018.9000244140624,
+          "key": "48862c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 956.9125366210938
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 94,
+          "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 991.7125244140624
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 692.1000366210938,
+          "key": "7ed5c57",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1975.8125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Meet our specialized\nimmigration law firm",
+          "tag": "H2",
+          "w": 741.7750244140625,
+          "x": 540.4000244140625,
+          "y": 2085.8125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 425.7875061035156,
+          "key": "5cdd9e4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 2667.91259765625
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H3",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 2737.91259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 337.25,
+          "key": "6810e21",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3093.699951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 553.4125366210938,
+          "key": "06fe8d0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3430.949951171875
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 3500.949951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 573.2999877929688,
+          "key": "30570c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3984.362548828125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "What do our clients say?",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 4094.362548828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 989.2000122070312,
+          "key": "aba63b4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 4557.66259765625
+        },
+        {
+          "font": "600 60px / 71px \"Cormorant Garamond\", serif",
+          "h": 142,
+          "key": "Request your profesional consultation",
+          "tag": "H3",
+          "w": 555,
+          "x": 12.40000057220459,
+          "y": 4657.66259765625
+        },
+        {
+          "font": "700 40px / 40px \"Cormorant Garamond\", serif",
+          "h": 80,
+          "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+          "tag": "H4",
+          "w": 680,
+          "x": 722.4000244140625,
+          "y": 4667.66259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 5546.86279296875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 6045,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 514.6000366210938,
+          "key": "efccdb1",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 56px / 56px \"Cormorant Garamond\", serif",
+          "h": 168,
+          "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+          "tag": "H1",
+          "w": 760,
+          "x": 252.40000915527344,
+          "y": 280
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 115.5625,
+          "key": "706e6e7",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 694.6000366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1076.4000244140625,
+          "key": "48862c4",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 810.1625366210938
+        },
+        {
+          "font": "700 36px / 36px \"Cormorant Garamond\", serif",
+          "h": 72,
+          "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+          "tag": "H2",
+          "w": 780,
+          "x": 242.40000915527344,
+          "y": 864.9625244140625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 787.6000366210938,
+          "key": "7ed5c57",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 1886.5625
+        },
+        {
+          "font": "600 49px / 42px \"Cormorant Garamond\", serif",
+          "h": 84,
+          "key": "Meet our specialized\nimmigration law firm",
+          "tag": "H2",
+          "w": 438.1875,
+          "x": 594.2125244140625,
+          "y": 1966.5625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 453.75,
+          "key": "5cdd9e4",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 2674.16259765625
+        },
+        {
+          "font": "700 45px / 45px \"Cormorant Garamond\", serif",
+          "h": 45,
+          "key": "Our network of strategic partners",
+          "tag": "H3",
+          "w": 780,
+          "x": 242.40000915527344,
+          "y": 2764.16259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 296.51251220703125,
+          "key": "6810e21",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 3127.91259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 595.6000366210938,
+          "key": "06fe8d0",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 3424.425048828125
+        },
+        {
+          "font": "600 45px / 42px \"Cormorant Garamond\", serif",
+          "h": 42,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 780,
+          "x": 242.40000915527344,
+          "y": 3514.425048828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 448.2000122070313,
+          "key": "30570c4",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 4020.025146484375
+        },
+        {
+          "font": "600 47px / 42px \"Cormorant Garamond\", serif",
+          "h": 42,
+          "key": "What do our clients say?",
+          "tag": "H3",
+          "w": 800,
+          "x": 232.40000915527344,
+          "y": 4080.025146484375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 967.2000122070312,
+          "key": "aba63b4",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 4468.22509765625
+        },
+        {
+          "font": "600 41px / 49px \"Cormorant Garamond\", serif",
+          "h": 147,
+          "key": "Request your profesional consultation",
+          "tag": "H3",
+          "w": 356,
+          "x": 232.40000915527344,
+          "y": 4548.22509765625
+        },
+        {
+          "font": "700 29px / 29px \"Cormorant Garamond\", serif",
+          "h": 58,
+          "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+          "tag": "H4",
+          "w": 380,
+          "x": 628.4000244140625,
+          "y": 4548.22509765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 5435.42529296875
+        }
+      ],
+      "scrollWidth": 1265,
+      "width": 1280
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -160,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "efccdb1",
+        "dx": 0,
+        "dy": 0,
+        "dw": -160,
+        "dh": -108,
+        "fontMatch": true
+      },
+      {
+        "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+        "dx": -32.49998474121094,
+        "dy": -20,
+        "dw": -95,
+        "dh": -42,
+        "fontMatch": false
+      },
+      {
+        "key": "706e6e7",
+        "dx": 0,
+        "dy": -108,
+        "dw": -160,
+        "dh": -38.75,
+        "fontMatch": true
+      },
+      {
+        "key": "48862c4",
+        "dx": 0,
+        "dy": -146.75,
+        "dw": -160,
+        "dh": 57.500000000000114,
+        "fontMatch": true
+      },
+      {
+        "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+        "dx": 90,
+        "dy": -126.74999999999989,
+        "dw": -340,
+        "dh": -22,
+        "fontMatch": false
+      },
+      {
+        "key": "7ed5c57",
+        "dx": 0,
+        "dy": -89.25,
+        "dw": -160,
+        "dh": 95.5,
+        "fontMatch": true
+      },
+      {
+        "key": "Meet our specialized\nimmigration law firm",
+        "dx": 53.8125,
+        "dy": -119.25,
+        "dw": -303.5875244140625,
+        "dh": -20,
+        "fontMatch": false
+      },
+      {
+        "key": "5cdd9e4",
+        "dx": 0,
+        "dy": 6.25,
+        "dw": -160,
+        "dh": 27.962493896484375,
+        "fontMatch": true
+      },
+      {
+        "key": "Our network of strategic partners",
+        "dx": 90,
+        "dy": 26.25,
+        "dw": -340,
+        "dh": -2,
+        "fontMatch": false
+      },
+      {
+        "key": "6810e21",
+        "dx": 0,
+        "dy": 34.212646484375,
+        "dw": -160,
+        "dh": -40.73748779296875,
+        "fontMatch": true
+      },
+      {
+        "key": "06fe8d0",
+        "dx": 0,
+        "dy": -6.52490234375,
+        "dw": -160,
+        "dh": 42.1875,
+        "fontMatch": true
+      },
+      {
+        "key": "Full legal services for international clients",
+        "dx": 220.00000953674316,
+        "dy": 13.47509765625,
+        "dw": -600,
+        "dh": -10,
+        "fontMatch": false
+      },
+      {
+        "key": "30570c4",
+        "dx": 0,
+        "dy": 35.66259765625,
+        "dw": -160,
+        "dh": -125.09997558593744,
+        "fontMatch": true
+      },
+      {
+        "key": "What do our clients say?",
+        "dx": 210.00000953674316,
+        "dy": -14.33740234375,
+        "dw": -580,
+        "dh": -10,
+        "fontMatch": false
+      },
+      {
+        "key": "aba63b4",
+        "dx": 0,
+        "dy": -89.4375,
+        "dw": -160,
+        "dh": -22,
+        "fontMatch": true
+      },
+      {
+        "key": "Request your profesional consultation",
+        "dx": 220.00000858306885,
+        "dy": -109.4375,
+        "dw": -199,
+        "dh": 5,
+        "fontMatch": false
+      },
+      {
+        "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+        "dx": -94,
+        "dy": -119.4375,
+        "dw": -300,
+        "dh": -22,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": -111.4375,
+        "dw": -160,
+        "dh": 0,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "home",
+    "width": 1024,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 6156,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 622.6000366210938,
+          "key": "efccdb1",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 210,
+          "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+          "tag": "H1",
+          "w": 855,
+          "x": 284.8999938964844,
+          "y": 300
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 154.3125,
+          "key": "706e6e7",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 802.6000366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1018.9000244140624,
+          "key": "48862c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 956.9125366210938
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 94,
+          "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 991.7125244140624
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 692.1000366210938,
+          "key": "7ed5c57",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1975.8125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Meet our specialized\nimmigration law firm",
+          "tag": "H2",
+          "w": 741.7750244140625,
+          "x": 540.4000244140625,
+          "y": 2085.8125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 425.7875061035156,
+          "key": "5cdd9e4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 2667.91259765625
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H3",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 2737.91259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 337.25,
+          "key": "6810e21",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3093.699951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 553.4125366210938,
+          "key": "06fe8d0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3430.949951171875
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 3500.949951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 573.2999877929688,
+          "key": "30570c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3984.362548828125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "What do our clients say?",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 4094.362548828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 989.2000122070312,
+          "key": "aba63b4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 4557.66259765625
+        },
+        {
+          "font": "600 60px / 71px \"Cormorant Garamond\", serif",
+          "h": 142,
+          "key": "Request your profesional consultation",
+          "tag": "H3",
+          "w": 555,
+          "x": 12.40000057220459,
+          "y": 4657.66259765625
+        },
+        {
+          "font": "700 40px / 40px \"Cormorant Garamond\", serif",
+          "h": 80,
+          "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+          "tag": "H4",
+          "w": 680,
+          "x": 722.4000244140625,
+          "y": 4667.66259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 5546.86279296875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 6969,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 465.6000061035156,
+          "key": "efccdb1",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 45px / 45px \"Cormorant Garamond\", serif",
+          "h": 135,
+          "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+          "tag": "H1",
+          "w": 560,
+          "x": 224.40000915527344,
+          "y": 260
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 100.4375,
+          "key": "706e6e7",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 645.6000366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 976.9000244140624,
+          "key": "48862c4",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 746.0375366210938
+        },
+        {
+          "font": "700 30px / 30px \"Cormorant Garamond\", serif",
+          "h": 60,
+          "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+          "tag": "H2",
+          "w": 654,
+          "x": 177.40000915527344,
+          "y": 800.8375244140625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 978.7750244140624,
+          "key": "7ed5c57",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 1722.9375
+        },
+        {
+          "font": "600 45px / 49.5px \"Cormorant Garamond\", serif",
+          "h": 99,
+          "key": "Meet our specialized\nimmigration law firm",
+          "tag": "H2",
+          "w": 600,
+          "x": 204.40000915527344,
+          "y": 2147.612548828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 420.2625122070313,
+          "key": "5cdd9e4",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 2701.712646484375
+        },
+        {
+          "font": "700 35px / 35px \"Cormorant Garamond\", serif",
+          "h": 35,
+          "key": "Our network of strategic partners",
+          "tag": "H3",
+          "w": 580,
+          "x": 214.40000915527344,
+          "y": 2771.712646484375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 301.0500183105469,
+          "key": "6810e21",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 3121.97509765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 753.1000366210938,
+          "key": "06fe8d0",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 3423.025146484375
+        },
+        {
+          "font": "600 45px / 49.5px \"Cormorant Garamond\", serif",
+          "h": 99,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 580,
+          "x": 214.40000915527344,
+          "y": 3493.025146484375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 455.7000122070313,
+          "key": "30570c4",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 4176.125
+        },
+        {
+          "font": "600 45px / 49.5px \"Cormorant Garamond\", serif",
+          "h": 49.5,
+          "key": "What do our clients say?",
+          "tag": "H3",
+          "w": 600,
+          "x": 204.40000915527344,
+          "y": 4236.125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1252.2000732421875,
+          "key": "aba63b4",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 4631.8251953125
+        },
+        {
+          "font": "600 45px / 49.5px \"Cormorant Garamond\", serif",
+          "h": 99,
+          "key": "Request your profesional consultation",
+          "tag": "H3",
+          "w": 600,
+          "x": 204.40000915527344,
+          "y": 4691.8251953125
+        },
+        {
+          "font": "700 35px / 35px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+          "tag": "H4",
+          "w": 600,
+          "x": 204.40000915527344,
+          "y": 5049.8251953125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1084.875,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 5884.02490234375
+        }
+      ],
+      "scrollWidth": 1009,
+      "width": 1024
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -416.00006103515625,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "efccdb1",
+        "dx": 0,
+        "dy": 0,
+        "dw": -416.00006103515625,
+        "dh": -157.00003051757812,
+        "fontMatch": true
+      },
+      {
+        "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+        "dx": -60.49998474121094,
+        "dy": -40,
+        "dw": -295,
+        "dh": -75,
+        "fontMatch": false
+      },
+      {
+        "key": "706e6e7",
+        "dx": 0,
+        "dy": -157,
+        "dw": -416.00006103515625,
+        "dh": -53.875,
+        "fontMatch": true
+      },
+      {
+        "key": "48862c4",
+        "dx": 0,
+        "dy": -210.875,
+        "dw": -416.00006103515625,
+        "dh": -42,
+        "fontMatch": true
+      },
+      {
+        "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+        "dx": 25,
+        "dy": -190.8749999999999,
+        "dw": -466,
+        "dh": -34,
+        "fontMatch": false
+      },
+      {
+        "key": "7ed5c57",
+        "dx": 0,
+        "dy": -252.875,
+        "dw": -416.00006103515625,
+        "dh": 286.67498779296864,
+        "fontMatch": true
+      },
+      {
+        "key": "Meet our specialized\nimmigration law firm",
+        "dx": -336.00001525878906,
+        "dy": 61.800048828125,
+        "dw": -141.7750244140625,
+        "dh": -5,
+        "fontMatch": false
+      },
+      {
+        "key": "5cdd9e4",
+        "dx": 0,
+        "dy": 33.800048828125,
+        "dw": -416.00006103515625,
+        "dh": -5.524993896484318,
+        "fontMatch": true
+      },
+      {
+        "key": "Our network of strategic partners",
+        "dx": 62,
+        "dy": 33.800048828125,
+        "dw": -540,
+        "dh": -12,
+        "fontMatch": false
+      },
+      {
+        "key": "6810e21",
+        "dx": 0,
+        "dy": 28.275146484375,
+        "dw": -416.00006103515625,
+        "dh": -36.199981689453125,
+        "fontMatch": true
+      },
+      {
+        "key": "06fe8d0",
+        "dx": 0,
+        "dy": -7.9248046875,
+        "dw": -416.00006103515625,
+        "dh": 199.6875,
+        "fontMatch": true
+      },
+      {
+        "key": "Full legal services for international clients",
+        "dx": 192.00000953674316,
+        "dy": -7.9248046875,
+        "dw": -800,
+        "dh": 47,
+        "fontMatch": false
+      },
+      {
+        "key": "30570c4",
+        "dx": 0,
+        "dy": 191.762451171875,
+        "dw": -416.00006103515625,
+        "dh": -117.59997558593744,
+        "fontMatch": true
+      },
+      {
+        "key": "What do our clients say?",
+        "dx": 182.00000953674316,
+        "dy": 141.762451171875,
+        "dw": -780,
+        "dh": -2.5,
+        "fontMatch": false
+      },
+      {
+        "key": "aba63b4",
+        "dx": 0,
+        "dy": 74.16259765625,
+        "dw": -416.00006103515625,
+        "dh": 263.00006103515625,
+        "fontMatch": true
+      },
+      {
+        "key": "Request your profesional consultation",
+        "dx": 192.00000858306885,
+        "dy": 34.16259765625,
+        "dw": 45,
+        "dh": -43,
+        "fontMatch": false
+      },
+      {
+        "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+        "dx": -518.0000152587891,
+        "dy": 382.16259765625,
+        "dw": -80,
+        "dh": -10,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": 337.162109375,
+        "dw": -416.00006103515625,
+        "dh": 475.7249755859375,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "home",
+    "width": 768,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 6156,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 622.6000366210938,
+          "key": "efccdb1",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 210,
+          "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+          "tag": "H1",
+          "w": 855,
+          "x": 284.8999938964844,
+          "y": 300
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 154.3125,
+          "key": "706e6e7",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 802.6000366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1018.9000244140624,
+          "key": "48862c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 956.9125366210938
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 94,
+          "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 991.7125244140624
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 692.1000366210938,
+          "key": "7ed5c57",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1975.8125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Meet our specialized\nimmigration law firm",
+          "tag": "H2",
+          "w": 741.7750244140625,
+          "x": 540.4000244140625,
+          "y": 2085.8125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 425.7875061035156,
+          "key": "5cdd9e4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 2667.91259765625
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H3",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 2737.91259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 337.25,
+          "key": "6810e21",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3093.699951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 553.4125366210938,
+          "key": "06fe8d0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3430.949951171875
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 3500.949951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 573.2999877929688,
+          "key": "30570c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3984.362548828125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "What do our clients say?",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 4094.362548828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 989.2000122070312,
+          "key": "aba63b4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 4557.66259765625
+        },
+        {
+          "font": "600 60px / 71px \"Cormorant Garamond\", serif",
+          "h": 142,
+          "key": "Request your profesional consultation",
+          "tag": "H3",
+          "w": 555,
+          "x": 12.40000057220459,
+          "y": 4657.66259765625
+        },
+        {
+          "font": "700 40px / 40px \"Cormorant Garamond\", serif",
+          "h": 80,
+          "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+          "tag": "H4",
+          "w": 680,
+          "x": 722.4000244140625,
+          "y": 4667.66259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 5546.86279296875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 6863,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 465.6000061035156,
+          "key": "efccdb1",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 45px / 45px \"Cormorant Garamond\", serif",
+          "h": 135,
+          "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+          "tag": "H1",
+          "w": 560,
+          "x": 96.4000015258789,
+          "y": 260
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 100.4375,
+          "key": "706e6e7",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 645.6000366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 976.9000244140624,
+          "key": "48862c4",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 746.0375366210938
+        },
+        {
+          "font": "700 30px / 30px \"Cormorant Garamond\", serif",
+          "h": 60,
+          "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+          "tag": "H2",
+          "w": 654,
+          "x": 49.400001525878906,
+          "y": 800.8375244140625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 978.7750244140624,
+          "key": "7ed5c57",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 1722.9375
+        },
+        {
+          "font": "600 45px / 49.5px \"Cormorant Garamond\", serif",
+          "h": 99,
+          "key": "Meet our specialized\nimmigration law firm",
+          "tag": "H2",
+          "w": 600,
+          "x": 76.4000015258789,
+          "y": 2147.612548828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 420.2625122070313,
+          "key": "5cdd9e4",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 2701.712646484375
+        },
+        {
+          "font": "700 35px / 35px \"Cormorant Garamond\", serif",
+          "h": 35,
+          "key": "Our network of strategic partners",
+          "tag": "H3",
+          "w": 580,
+          "x": 86.4000015258789,
+          "y": 2771.712646484375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 243.8125,
+          "key": "6810e21",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 3121.97509765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 753.1000366210938,
+          "key": "06fe8d0",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 3365.78759765625
+        },
+        {
+          "font": "600 45px / 49.5px \"Cormorant Garamond\", serif",
+          "h": 99,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 580,
+          "x": 86.4000015258789,
+          "y": 3435.78759765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 455.7000122070313,
+          "key": "30570c4",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 4118.8876953125
+        },
+        {
+          "font": "600 45px / 49.5px \"Cormorant Garamond\", serif",
+          "h": 49.5,
+          "key": "What do our clients say?",
+          "tag": "H3",
+          "w": 600,
+          "x": 76.4000015258789,
+          "y": 4178.8876953125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1252.2000732421875,
+          "key": "aba63b4",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 4574.58740234375
+        },
+        {
+          "font": "600 45px / 49.5px \"Cormorant Garamond\", serif",
+          "h": 99,
+          "key": "Request your profesional consultation",
+          "tag": "H3",
+          "w": 600,
+          "x": 76.4000015258789,
+          "y": 4634.58740234375
+        },
+        {
+          "font": "700 35px / 35px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+          "tag": "H4",
+          "w": 600,
+          "x": 76.4000015258789,
+          "y": 4992.58740234375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1036.050048828125,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 5826.78759765625
+        }
+      ],
+      "scrollWidth": 753,
+      "width": 768
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -672.0000610351562,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "efccdb1",
+        "dx": 0,
+        "dy": 0,
+        "dw": -672.0000610351562,
+        "dh": -157.00003051757812,
+        "fontMatch": true
+      },
+      {
+        "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+        "dx": -188.49999237060547,
+        "dy": -40,
+        "dw": -295,
+        "dh": -75,
+        "fontMatch": false
+      },
+      {
+        "key": "706e6e7",
+        "dx": 0,
+        "dy": -157,
+        "dw": -672.0000610351562,
+        "dh": -53.875,
+        "fontMatch": true
+      },
+      {
+        "key": "48862c4",
+        "dx": 0,
+        "dy": -210.875,
+        "dw": -672.0000610351562,
+        "dh": -42,
+        "fontMatch": true
+      },
+      {
+        "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+        "dx": -103.00000762939453,
+        "dy": -190.8749999999999,
+        "dw": -466,
+        "dh": -34,
+        "fontMatch": false
+      },
+      {
+        "key": "7ed5c57",
+        "dx": 0,
+        "dy": -252.875,
+        "dw": -672.0000610351562,
+        "dh": 286.67498779296864,
+        "fontMatch": true
+      },
+      {
+        "key": "Meet our specialized\nimmigration law firm",
+        "dx": -464.0000228881836,
+        "dy": 61.800048828125,
+        "dw": -141.7750244140625,
+        "dh": -5,
+        "fontMatch": false
+      },
+      {
+        "key": "5cdd9e4",
+        "dx": 0,
+        "dy": 33.800048828125,
+        "dw": -672.0000610351562,
+        "dh": -5.524993896484318,
+        "fontMatch": true
+      },
+      {
+        "key": "Our network of strategic partners",
+        "dx": -66.00000762939453,
+        "dy": 33.800048828125,
+        "dw": -540,
+        "dh": -12,
+        "fontMatch": false
+      },
+      {
+        "key": "6810e21",
+        "dx": 0,
+        "dy": 28.275146484375,
+        "dw": -672.0000610351562,
+        "dh": -93.4375,
+        "fontMatch": true
+      },
+      {
+        "key": "06fe8d0",
+        "dx": 0,
+        "dy": -65.162353515625,
+        "dw": -672.0000610351562,
+        "dh": 199.6875,
+        "fontMatch": true
+      },
+      {
+        "key": "Full legal services for international clients",
+        "dx": 64.00000190734863,
+        "dy": -65.162353515625,
+        "dw": -800,
+        "dh": 47,
+        "fontMatch": false
+      },
+      {
+        "key": "30570c4",
+        "dx": 0,
+        "dy": 134.525146484375,
+        "dw": -672.0000610351562,
+        "dh": -117.59997558593744,
+        "fontMatch": true
+      },
+      {
+        "key": "What do our clients say?",
+        "dx": 54.00000190734863,
+        "dy": 84.525146484375,
+        "dw": -780,
+        "dh": -2.5,
+        "fontMatch": false
+      },
+      {
+        "key": "aba63b4",
+        "dx": 0,
+        "dy": 16.9248046875,
+        "dw": -672.0000610351562,
+        "dh": 263.00006103515625,
+        "fontMatch": true
+      },
+      {
+        "key": "Request your profesional consultation",
+        "dx": 64.00000095367432,
+        "dy": -23.0751953125,
+        "dw": 45,
+        "dh": -43,
+        "fontMatch": false
+      },
+      {
+        "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+        "dx": -646.0000228881836,
+        "dy": 324.9248046875,
+        "dw": -80,
+        "dh": -10,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": 279.9248046875,
+        "dw": -672.0000610351562,
+        "dh": 426.9000244140625,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "home",
+    "width": 430,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 6156,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 622.6000366210938,
+          "key": "efccdb1",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 210,
+          "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+          "tag": "H1",
+          "w": 855,
+          "x": 284.8999938964844,
+          "y": 300
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 154.3125,
+          "key": "706e6e7",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 802.6000366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1018.9000244140624,
+          "key": "48862c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 956.9125366210938
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 94,
+          "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 991.7125244140624
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 692.1000366210938,
+          "key": "7ed5c57",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1975.8125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Meet our specialized\nimmigration law firm",
+          "tag": "H2",
+          "w": 741.7750244140625,
+          "x": 540.4000244140625,
+          "y": 2085.8125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 425.7875061035156,
+          "key": "5cdd9e4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 2667.91259765625
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H3",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 2737.91259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 337.25,
+          "key": "6810e21",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3093.699951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 553.4125366210938,
+          "key": "06fe8d0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3430.949951171875
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 3500.949951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 573.2999877929688,
+          "key": "30570c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3984.362548828125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "What do our clients say?",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 4094.362548828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 989.2000122070312,
+          "key": "aba63b4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 4557.66259765625
+        },
+        {
+          "font": "600 60px / 71px \"Cormorant Garamond\", serif",
+          "h": 142,
+          "key": "Request your profesional consultation",
+          "tag": "H3",
+          "w": 555,
+          "x": 12.40000057220459,
+          "y": 4657.66259765625
+        },
+        {
+          "font": "700 40px / 40px \"Cormorant Garamond\", serif",
+          "h": 80,
+          "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+          "tag": "H4",
+          "w": 680,
+          "x": 722.4000244140625,
+          "y": 4667.66259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 5546.86279296875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 8354,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 517.1000366210938,
+          "key": "efccdb1",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 31px / 31px \"Cormorant Garamond\", serif",
+          "h": 124,
+          "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+          "tag": "H1",
+          "w": 300,
+          "x": 57.60000228881836,
+          "y": 240
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 314.88751220703125,
+          "key": "706e6e7",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 697.1000366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1424.4000244140625,
+          "key": "48862c4",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 1011.9874877929688
+        },
+        {
+          "font": "700 23px / 23px \"Cormorant Garamond\", serif",
+          "h": 69,
+          "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+          "tag": "H2",
+          "w": 335.20001220703125,
+          "x": 40,
+          "y": 1056.7874755859375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1051.737548828125,
+          "key": "7ed5c57",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 2436.387451171875
+        },
+        {
+          "font": "600 31px / 34.1px \"Cormorant Garamond\", serif",
+          "h": 68.20000457763672,
+          "key": "Meet our specialized\nimmigration law firm",
+          "tag": "H2",
+          "w": 335.20001220703125,
+          "x": 40,
+          "y": 2784.824951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 592.7999877929688,
+          "key": "5cdd9e4",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 3488.125
+        },
+        {
+          "font": "700 26px / 26px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Our network of strategic partners",
+          "tag": "H3",
+          "w": 315.20001220703125,
+          "x": 50,
+          "y": 3538.125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 168.33750915527344,
+          "key": "6810e21",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 4080.925048828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1266.5,
+          "key": "06fe8d0",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 4249.2626953125
+        },
+        {
+          "font": "600 28px / 30.8px \"Cormorant Garamond\", serif",
+          "h": 61.60000228881836,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 315.20001220703125,
+          "x": 50,
+          "y": 4299.2626953125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 468.3000183105469,
+          "key": "30570c4",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 5515.7626953125
+        },
+        {
+          "font": "600 31px / 34.1px \"Cormorant Garamond\", serif",
+          "h": 34.10000228881836,
+          "key": "What do our clients say?",
+          "tag": "H3",
+          "w": 355.20001220703125,
+          "x": 30,
+          "y": 5575.7626953125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1348.4000244140625,
+          "key": "aba63b4",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 5984.0625
+        },
+        {
+          "font": "600 31px / 34.1px \"Cormorant Garamond\", serif",
+          "h": 68.20000457763672,
+          "key": "Request your profesional consultation",
+          "tag": "H3",
+          "w": 335.20001220703125,
+          "x": 40,
+          "y": 6044.0625
+        },
+        {
+          "font": "700 26px / 26px \"Cormorant Garamond\", serif",
+          "h": 78,
+          "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+          "tag": "H4",
+          "w": 335.20001220703125,
+          "x": 40,
+          "y": 6430.2626953125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1022.3250122070312,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 7332.46240234375
+        }
+      ],
+      "scrollWidth": 415,
+      "width": 430
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -1009.6000366210938,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "efccdb1",
+        "dx": 0,
+        "dy": 0,
+        "dw": -1009.6000366210938,
+        "dh": -105.5,
+        "fontMatch": true
+      },
+      {
+        "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+        "dx": -227.29999160766602,
+        "dy": -60,
+        "dw": -555,
+        "dh": -86,
+        "fontMatch": false
+      },
+      {
+        "key": "706e6e7",
+        "dx": 0,
+        "dy": -105.5,
+        "dw": -1009.6000366210938,
+        "dh": 160.57501220703125,
+        "fontMatch": true
+      },
+      {
+        "key": "48862c4",
+        "dx": 0,
+        "dy": 55.074951171875,
+        "dw": -1009.6000366210938,
+        "dh": 405.5000000000001,
+        "fontMatch": true
+      },
+      {
+        "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+        "dx": -112.40000915527344,
+        "dy": 65.07495117187511,
+        "dw": -784.7999877929688,
+        "dh": -25,
+        "fontMatch": false
+      },
+      {
+        "key": "7ed5c57",
+        "dx": 0,
+        "dy": 460.574951171875,
+        "dw": -1009.6000366210938,
+        "dh": 359.63751220703125,
+        "fontMatch": true
+      },
+      {
+        "key": "Meet our specialized\nimmigration law firm",
+        "dx": -500.4000244140625,
+        "dy": 699.012451171875,
+        "dw": -406.57501220703125,
+        "dh": -35.79999542236328,
+        "fontMatch": false
+      },
+      {
+        "key": "5cdd9e4",
+        "dx": 0,
+        "dy": 820.21240234375,
+        "dw": -1009.6000366210938,
+        "dh": 167.01248168945312,
+        "fontMatch": true
+      },
+      {
+        "key": "Our network of strategic partners",
+        "dx": -102.40000915527344,
+        "dy": 800.21240234375,
+        "dw": -804.7999877929688,
+        "dh": 5,
+        "fontMatch": false
+      },
+      {
+        "key": "6810e21",
+        "dx": 0,
+        "dy": 987.22509765625,
+        "dw": -1009.6000366210938,
+        "dh": -168.91249084472656,
+        "fontMatch": true
+      },
+      {
+        "key": "06fe8d0",
+        "dx": 0,
+        "dy": 818.312744140625,
+        "dw": -1009.6000366210938,
+        "dh": 713.0874633789062,
+        "fontMatch": true
+      },
+      {
+        "key": "Full legal services for international clients",
+        "dx": 27.600000381469727,
+        "dy": 798.312744140625,
+        "dw": -1064.7999877929688,
+        "dh": 9.60000228881836,
+        "fontMatch": false
+      },
+      {
+        "key": "30570c4",
+        "dx": 0,
+        "dy": 1531.400146484375,
+        "dw": -1009.6000366210938,
+        "dh": -104.99996948242188,
+        "fontMatch": true
+      },
+      {
+        "key": "What do our clients say?",
+        "dx": 7.600000381469727,
+        "dy": 1481.400146484375,
+        "dw": -1024.7999877929688,
+        "dh": -17.89999771118164,
+        "fontMatch": false
+      },
+      {
+        "key": "aba63b4",
+        "dx": 0,
+        "dy": 1426.39990234375,
+        "dw": -1009.6000366210938,
+        "dh": 359.20001220703125,
+        "fontMatch": true
+      },
+      {
+        "key": "Request your profesional consultation",
+        "dx": 27.59999942779541,
+        "dy": 1386.39990234375,
+        "dw": -219.79998779296875,
+        "dh": -73.79999542236328,
+        "fontMatch": false
+      },
+      {
+        "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+        "dx": -682.4000244140625,
+        "dy": 1762.60009765625,
+        "dw": -344.79998779296875,
+        "dh": -2,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": 1785.599609375,
+        "dw": -1009.6000366210938,
+        "dh": 413.17498779296875,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "home",
+    "width": 390,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 6156,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 622.6000366210938,
+          "key": "efccdb1",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 210,
+          "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+          "tag": "H1",
+          "w": 855,
+          "x": 284.8999938964844,
+          "y": 300
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 154.3125,
+          "key": "706e6e7",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 802.6000366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1018.9000244140624,
+          "key": "48862c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 956.9125366210938
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 94,
+          "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 991.7125244140624
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 692.1000366210938,
+          "key": "7ed5c57",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1975.8125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Meet our specialized\nimmigration law firm",
+          "tag": "H2",
+          "w": 741.7750244140625,
+          "x": 540.4000244140625,
+          "y": 2085.8125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 425.7875061035156,
+          "key": "5cdd9e4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 2667.91259765625
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H3",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 2737.91259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 337.25,
+          "key": "6810e21",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3093.699951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 553.4125366210938,
+          "key": "06fe8d0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3430.949951171875
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 3500.949951171875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 573.2999877929688,
+          "key": "30570c4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3984.362548828125
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "What do our clients say?",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 4094.362548828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 989.2000122070312,
+          "key": "aba63b4",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 4557.66259765625
+        },
+        {
+          "font": "600 60px / 71px \"Cormorant Garamond\", serif",
+          "h": 142,
+          "key": "Request your profesional consultation",
+          "tag": "H3",
+          "w": 555,
+          "x": 12.40000057220459,
+          "y": 4657.66259765625
+        },
+        {
+          "font": "700 40px / 40px \"Cormorant Garamond\", serif",
+          "h": 80,
+          "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+          "tag": "H4",
+          "w": 680,
+          "x": 722.4000244140625,
+          "y": 4667.66259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 5546.86279296875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 8403,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 517.1000366210938,
+          "key": "efccdb1",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 31px / 31px \"Cormorant Garamond\", serif",
+          "h": 124,
+          "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+          "tag": "H1",
+          "w": 295.20001220703125,
+          "x": 40,
+          "y": 240
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 292.2749938964844,
+          "key": "706e6e7",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 697.1000366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1447.4000244140625,
+          "key": "48862c4",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 989.375
+        },
+        {
+          "font": "700 23px / 23px \"Cormorant Garamond\", serif",
+          "h": 92,
+          "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+          "tag": "H2",
+          "w": 295.20001220703125,
+          "x": 40,
+          "y": 1034.175048828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1087.2000732421875,
+          "key": "7ed5c57",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 2436.775146484375
+        },
+        {
+          "font": "600 31px / 34.1px \"Cormorant Garamond\", serif",
+          "h": 68.20000457763672,
+          "key": "Meet our specialized\nimmigration law firm",
+          "tag": "H2",
+          "w": 295.20001220703125,
+          "x": 40,
+          "y": 2753.175048828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 584.1875,
+          "key": "5cdd9e4",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 3523.97509765625
+        },
+        {
+          "font": "700 26px / 26px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Our network of strategic partners",
+          "tag": "H3",
+          "w": 275.20001220703125,
+          "x": 50,
+          "y": 3573.97509765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 159.40000915527344,
+          "key": "6810e21",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 4108.16259765625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1289,
+          "key": "06fe8d0",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 4267.5625
+        },
+        {
+          "font": "600 28px / 30.8px \"Cormorant Garamond\", serif",
+          "h": 61.60000228881836,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 275.20001220703125,
+          "x": 50,
+          "y": 4317.5625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 468.3000183105469,
+          "key": "30570c4",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 5556.5625
+        },
+        {
+          "font": "600 31px / 34.1px \"Cormorant Garamond\", serif",
+          "h": 34.10000228881836,
+          "key": "What do our clients say?",
+          "tag": "H3",
+          "w": 315.20001220703125,
+          "x": 30,
+          "y": 5616.5625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1363.4000244140625,
+          "key": "aba63b4",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 6024.86279296875
+        },
+        {
+          "font": "600 31px / 34.1px \"Cormorant Garamond\", serif",
+          "h": 68.20000457763672,
+          "key": "Request your profesional consultation",
+          "tag": "H3",
+          "w": 295.20001220703125,
+          "x": 40,
+          "y": 6084.86279296875
+        },
+        {
+          "font": "700 26px / 26px \"Cormorant Garamond\", serif",
+          "h": 78,
+          "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+          "tag": "H4",
+          "w": 295.20001220703125,
+          "x": 40,
+          "y": 6471.0625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1014.9125366210938,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 7388.2626953125
+        }
+      ],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -1049.6000366210938,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "efccdb1",
+        "dx": 0,
+        "dy": 0,
+        "dw": -1049.6000366210938,
+        "dh": -105.5,
+        "fontMatch": true
+      },
+      {
+        "key": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+        "dx": -244.89999389648438,
+        "dy": -60,
+        "dw": -559.7999877929688,
+        "dh": -86,
+        "fontMatch": false
+      },
+      {
+        "key": "706e6e7",
+        "dx": 0,
+        "dy": -105.5,
+        "dw": -1049.6000366210938,
+        "dh": 137.96249389648438,
+        "fontMatch": true
+      },
+      {
+        "key": "48862c4",
+        "dx": 0,
+        "dy": 32.46246337890625,
+        "dw": -1049.6000366210938,
+        "dh": 428.5000000000001,
+        "fontMatch": true
+      },
+      {
+        "key": "Experts in immigration, investment, and international mobility, with a personalized approa",
+        "dx": -112.40000915527344,
+        "dy": 42.462524414062614,
+        "dw": -824.7999877929688,
+        "dh": -2,
+        "fontMatch": false
+      },
+      {
+        "key": "7ed5c57",
+        "dx": 0,
+        "dy": 460.962646484375,
+        "dw": -1049.6000366210938,
+        "dh": 395.10003662109375,
+        "fontMatch": true
+      },
+      {
+        "key": "Meet our specialized\nimmigration law firm",
+        "dx": -500.4000244140625,
+        "dy": 667.362548828125,
+        "dw": -446.57501220703125,
+        "dh": -35.79999542236328,
+        "fontMatch": false
+      },
+      {
+        "key": "5cdd9e4",
+        "dx": 0,
+        "dy": 856.0625,
+        "dw": -1049.6000366210938,
+        "dh": 158.39999389648438,
+        "fontMatch": true
+      },
+      {
+        "key": "Our network of strategic partners",
+        "dx": -102.40000915527344,
+        "dy": 836.0625,
+        "dw": -844.7999877929688,
+        "dh": 5,
+        "fontMatch": false
+      },
+      {
+        "key": "6810e21",
+        "dx": 0,
+        "dy": 1014.462646484375,
+        "dw": -1049.6000366210938,
+        "dh": -177.84999084472656,
+        "fontMatch": true
+      },
+      {
+        "key": "06fe8d0",
+        "dx": 0,
+        "dy": 836.612548828125,
+        "dw": -1049.6000366210938,
+        "dh": 735.5874633789062,
+        "fontMatch": true
+      },
+      {
+        "key": "Full legal services for international clients",
+        "dx": 27.600000381469727,
+        "dy": 816.612548828125,
+        "dw": -1104.7999877929688,
+        "dh": 9.60000228881836,
+        "fontMatch": false
+      },
+      {
+        "key": "30570c4",
+        "dx": 0,
+        "dy": 1572.199951171875,
+        "dw": -1049.6000366210938,
+        "dh": -104.99996948242188,
+        "fontMatch": true
+      },
+      {
+        "key": "What do our clients say?",
+        "dx": 7.600000381469727,
+        "dy": 1522.199951171875,
+        "dw": -1064.7999877929688,
+        "dh": -17.89999771118164,
+        "fontMatch": false
+      },
+      {
+        "key": "aba63b4",
+        "dx": 0,
+        "dy": 1467.2001953125,
+        "dw": -1049.6000366210938,
+        "dh": 374.20001220703125,
+        "fontMatch": true
+      },
+      {
+        "key": "Request your profesional consultation",
+        "dx": 27.59999942779541,
+        "dy": 1427.2001953125,
+        "dw": -259.79998779296875,
+        "dh": -73.79999542236328,
+        "fontMatch": false
+      },
+      {
+        "key": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+        "dx": -682.4000244140625,
+        "dy": 1803.39990234375,
+        "dw": -384.79998779296875,
+        "dh": -2,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": 1841.39990234375,
+        "dw": -1049.6000366210938,
+        "dh": 405.76251220703125,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "about-us",
+    "width": 1440,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 2322,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "0fbcae0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "About us",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 816.9750366210938,
+          "key": "ce0a87e",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Get to know our specialized\nlaw firm",
+          "tag": "H2",
+          "w": 514.7875366210938,
+          "x": 712.4000244140625,
+          "y": 580
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 465.7875061035156,
+          "key": "436dafa",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1246.9749755859375
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 1316.9749755859375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1712.7625732421875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 2322,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "0fbcae0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "About us",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 816.9750366210938,
+          "key": "ce0a87e",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Get to know our specialized\nlaw firm",
+          "tag": "H2",
+          "w": 514.7875366210938,
+          "x": 712.4000244140625,
+          "y": 580
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 465.7875061035156,
+          "key": "436dafa",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1246.9749755859375
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 1316.9749755859375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1712.7625732421875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "differences": [],
+    "validationStatus": "valid-desktop-comparison"
+  },
+  {
+    "slug": "about-us",
+    "width": 1280,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 2322,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "0fbcae0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "About us",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 816.9750366210938,
+          "key": "ce0a87e",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Get to know our specialized\nlaw firm",
+          "tag": "H2",
+          "w": 514.7875366210938,
+          "x": 712.4000244140625,
+          "y": 580
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 465.7875061035156,
+          "key": "436dafa",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1246.9749755859375
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 1316.9749755859375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1712.7625732421875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 2206,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 176,
+          "key": "0fbcae0",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 56px / 56px \"Cormorant Garamond\", serif",
+          "h": 56,
+          "key": "About us",
+          "tag": "H1",
+          "w": 1120,
+          "x": 72.4000015258789,
+          "y": 240
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 763.6000366210938,
+          "key": "ce0a87e",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 356
+        },
+        {
+          "font": "600 49px / 42px \"Cormorant Garamond\", serif",
+          "h": 84,
+          "key": "Get to know our specialized\nlaw firm",
+          "tag": "H2",
+          "w": 380,
+          "x": 628.4000244140625,
+          "y": 436
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 477.75,
+          "key": "436dafa",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 1119.5999755859375
+        },
+        {
+          "font": "700 45px / 45px \"Cormorant Garamond\", serif",
+          "h": 45,
+          "key": "Our network of strategic partners",
+          "tag": "H2",
+          "w": 780,
+          "x": 242.40000915527344,
+          "y": 1209.5999755859375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 1597.3499755859375
+        }
+      ],
+      "scrollWidth": 1265,
+      "width": 1280
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -160,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "0fbcae0",
+        "dx": 0,
+        "dy": 0,
+        "dw": -160,
+        "dh": -74,
+        "fontMatch": true
+      },
+      {
+        "key": "About us",
+        "dx": -80.00000762939453,
+        "dy": -30,
+        "dw": 0,
+        "dh": -14,
+        "fontMatch": false
+      },
+      {
+        "key": "ce0a87e",
+        "dx": 0,
+        "dy": -74,
+        "dw": -160,
+        "dh": -53.375,
+        "fontMatch": true
+      },
+      {
+        "key": "Get to know our specialized\nlaw firm",
+        "dx": -84,
+        "dy": -144,
+        "dw": -134.78753662109375,
+        "dh": -20,
+        "fontMatch": false
+      },
+      {
+        "key": "436dafa",
+        "dx": 0,
+        "dy": -127.375,
+        "dw": -160,
+        "dh": 11.962493896484375,
+        "fontMatch": true
+      },
+      {
+        "key": "Our network of strategic partners",
+        "dx": 90,
+        "dy": -107.375,
+        "dw": -340,
+        "dh": -2,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": -115.41259765625,
+        "dw": -160,
+        "dh": 0,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "about-us",
+    "width": 1024,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 2322,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "0fbcae0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "About us",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 816.9750366210938,
+          "key": "ce0a87e",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Get to know our specialized\nlaw firm",
+          "tag": "H2",
+          "w": 514.7875366210938,
+          "x": 712.4000244140625,
+          "y": 580
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 465.7875061035156,
+          "key": "436dafa",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1246.9749755859375
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 1316.9749755859375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1712.7625732421875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 2894,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 176,
+          "key": "0fbcae0",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 56px / 56px \"Cormorant Garamond\", serif",
+          "h": 56,
+          "key": "About us",
+          "tag": "H1",
+          "w": 988.7999877929688,
+          "x": 10,
+          "y": 240
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1032.9375,
+          "key": "ce0a87e",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 356
+        },
+        {
+          "font": "600 51px / 56.1px \"Cormorant Garamond\", serif",
+          "h": 112.20000457763672,
+          "key": "Get to know our specialized\nlaw firm",
+          "tag": "H2",
+          "w": 600,
+          "x": 204.40000915527344,
+          "y": 866.6375122070312
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 420.2625122070313,
+          "key": "436dafa",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 1388.9375
+        },
+        {
+          "font": "700 35px / 35px \"Cormorant Garamond\", serif",
+          "h": 35,
+          "key": "Our network of strategic partners",
+          "tag": "H2",
+          "w": 580,
+          "x": 214.40000915527344,
+          "y": 1458.9375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1084.875,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 1809.2000732421875
+        }
+      ],
+      "scrollWidth": 1009,
+      "width": 1024
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -416.00006103515625,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "0fbcae0",
+        "dx": 0,
+        "dy": 0,
+        "dw": -416.00006103515625,
+        "dh": -74,
+        "fontMatch": true
+      },
+      {
+        "key": "About us",
+        "dx": -142.40000915527344,
+        "dy": -30,
+        "dw": -131.20001220703125,
+        "dh": -14,
+        "fontMatch": false
+      },
+      {
+        "key": "ce0a87e",
+        "dx": 0,
+        "dy": -74,
+        "dw": -416.00006103515625,
+        "dh": 215.96246337890625,
+        "fontMatch": true
+      },
+      {
+        "key": "Get to know our specialized\nlaw firm",
+        "dx": -508.00001525878906,
+        "dy": 286.63751220703125,
+        "dw": 85.21246337890625,
+        "dh": 8.200004577636719,
+        "fontMatch": false
+      },
+      {
+        "key": "436dafa",
+        "dx": 0,
+        "dy": 141.9625244140625,
+        "dw": -416.00006103515625,
+        "dh": -45.52499389648432,
+        "fontMatch": true
+      },
+      {
+        "key": "Our network of strategic partners",
+        "dx": 62,
+        "dy": 141.9625244140625,
+        "dw": -540,
+        "dh": -12,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": 96.4375,
+        "dw": -416.00006103515625,
+        "dh": 475.7249755859375,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "about-us",
+    "width": 768,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 2322,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "0fbcae0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "About us",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 816.9750366210938,
+          "key": "ce0a87e",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Get to know our specialized\nlaw firm",
+          "tag": "H2",
+          "w": 514.7875366210938,
+          "x": 712.4000244140625,
+          "y": 580
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 465.7875061035156,
+          "key": "436dafa",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1246.9749755859375
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 1316.9749755859375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1712.7625732421875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 2846,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 176,
+          "key": "0fbcae0",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 56px / 56px \"Cormorant Garamond\", serif",
+          "h": 56,
+          "key": "About us",
+          "tag": "H1",
+          "w": 732.7999877929688,
+          "x": 10,
+          "y": 240
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1032.9375,
+          "key": "ce0a87e",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 356
+        },
+        {
+          "font": "600 51px / 56.1px \"Cormorant Garamond\", serif",
+          "h": 112.20000457763672,
+          "key": "Get to know our specialized\nlaw firm",
+          "tag": "H2",
+          "w": 600,
+          "x": 76.4000015258789,
+          "y": 866.6375122070312
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 420.2625122070313,
+          "key": "436dafa",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 1388.9375
+        },
+        {
+          "font": "700 35px / 35px \"Cormorant Garamond\", serif",
+          "h": 35,
+          "key": "Our network of strategic partners",
+          "tag": "H2",
+          "w": 580,
+          "x": 86.4000015258789,
+          "y": 1458.9375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1036.050048828125,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 1809.2000732421875
+        }
+      ],
+      "scrollWidth": 753,
+      "width": 768
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -672.0000610351562,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "0fbcae0",
+        "dx": 0,
+        "dy": 0,
+        "dw": -672.0000610351562,
+        "dh": -74,
+        "fontMatch": true
+      },
+      {
+        "key": "About us",
+        "dx": -142.40000915527344,
+        "dy": -30,
+        "dw": -387.20001220703125,
+        "dh": -14,
+        "fontMatch": false
+      },
+      {
+        "key": "ce0a87e",
+        "dx": 0,
+        "dy": -74,
+        "dw": -672.0000610351562,
+        "dh": 215.96246337890625,
+        "fontMatch": true
+      },
+      {
+        "key": "Get to know our specialized\nlaw firm",
+        "dx": -636.0000228881836,
+        "dy": 286.63751220703125,
+        "dw": 85.21246337890625,
+        "dh": 8.200004577636719,
+        "fontMatch": false
+      },
+      {
+        "key": "436dafa",
+        "dx": 0,
+        "dy": 141.9625244140625,
+        "dw": -672.0000610351562,
+        "dh": -45.52499389648432,
+        "fontMatch": true
+      },
+      {
+        "key": "Our network of strategic partners",
+        "dx": -66.00000762939453,
+        "dy": 141.9625244140625,
+        "dw": -540,
+        "dh": -12,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": 96.4375,
+        "dw": -672.0000610351562,
+        "dh": 426.9000244140625,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "about-us",
+    "width": 430,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 2322,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "0fbcae0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "About us",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 816.9750366210938,
+          "key": "ce0a87e",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Get to know our specialized\nlaw firm",
+          "tag": "H2",
+          "w": 514.7875366210938,
+          "x": 712.4000244140625,
+          "y": 580
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 465.7875061035156,
+          "key": "436dafa",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1246.9749755859375
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 1316.9749755859375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1712.7625732421875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 2989,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 100,
+          "key": "0fbcae0",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 40px / 40px \"Cormorant Garamond\", serif",
+          "h": 40,
+          "key": "About us",
+          "tag": "H1",
+          "w": 395.2000122070313,
+          "x": 10,
+          "y": 210
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1067.5250244140625,
+          "key": "ce0a87e",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 280
+        },
+        {
+          "font": "600 31px / 34.1px \"Cormorant Garamond\", serif",
+          "h": 68.20000457763672,
+          "key": "Get to know our specialized\nlaw firm",
+          "tag": "H2",
+          "w": 335.20001220703125,
+          "x": 40,
+          "y": 738.2250366210938
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 619.2999877929688,
+          "key": "436dafa",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 1347.5250244140625
+        },
+        {
+          "font": "700 30px / 30px \"Cormorant Garamond\", serif",
+          "h": 60,
+          "key": "Our network of strategic partners",
+          "tag": "H2",
+          "w": 315.20001220703125,
+          "x": 50,
+          "y": 1397.5250244140625
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1022.3250122070312,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 1966.8250732421875
+        }
+      ],
+      "scrollWidth": 415,
+      "width": 430
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -1009.6000366210938,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "0fbcae0",
+        "dx": 0,
+        "dy": 0,
+        "dw": -1009.6000366210938,
+        "dh": -150,
+        "fontMatch": true
+      },
+      {
+        "key": "About us",
+        "dx": -142.40000915527344,
+        "dy": -60,
+        "dw": -724.7999877929688,
+        "dh": -30,
+        "fontMatch": false
+      },
+      {
+        "key": "ce0a87e",
+        "dx": 0,
+        "dy": -150,
+        "dw": -1009.6000366210938,
+        "dh": 250.54998779296875,
+        "fontMatch": true
+      },
+      {
+        "key": "Get to know our specialized\nlaw firm",
+        "dx": -672.4000244140625,
+        "dy": 158.22503662109375,
+        "dw": -179.5875244140625,
+        "dh": -35.79999542236328,
+        "fontMatch": false
+      },
+      {
+        "key": "436dafa",
+        "dx": 0,
+        "dy": 100.550048828125,
+        "dw": -1009.6000366210938,
+        "dh": 153.51248168945312,
+        "fontMatch": true
+      },
+      {
+        "key": "Our network of strategic partners",
+        "dx": -102.40000915527344,
+        "dy": 80.550048828125,
+        "dw": -804.7999877929688,
+        "dh": 13,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": 254.0625,
+        "dw": -1009.6000366210938,
+        "dh": 413.17498779296875,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "about-us",
+    "width": 390,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 2322,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "0fbcae0",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "About us",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 816.9750366210938,
+          "key": "ce0a87e",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 104,
+          "key": "Get to know our specialized\nlaw firm",
+          "tag": "H2",
+          "w": 514.7875366210938,
+          "x": 712.4000244140625,
+          "y": 580
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 465.7875061035156,
+          "key": "436dafa",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1246.9749755859375
+        },
+        {
+          "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+          "h": 47,
+          "key": "Our network of strategic partners",
+          "tag": "H2",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 1316.9749755859375
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1712.7625732421875
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 2971,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 100,
+          "key": "0fbcae0",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 40px / 40px \"Cormorant Garamond\", serif",
+          "h": 40,
+          "key": "About us",
+          "tag": "H1",
+          "w": 355.20001220703125,
+          "x": 10,
+          "y": 210
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1065.487548828125,
+          "key": "ce0a87e",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 280
+        },
+        {
+          "font": "600 31px / 34.1px \"Cormorant Garamond\", serif",
+          "h": 68.20000457763672,
+          "key": "Get to know our specialized\nlaw firm",
+          "tag": "H2",
+          "w": 295.20001220703125,
+          "x": 40,
+          "y": 691.1875
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 610.6875,
+          "key": "436dafa",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 1345.487548828125
+        },
+        {
+          "font": "700 30px / 30px \"Cormorant Garamond\", serif",
+          "h": 60,
+          "key": "Our network of strategic partners",
+          "tag": "H2",
+          "w": 275.20001220703125,
+          "x": 50,
+          "y": 1395.487548828125
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1014.9125366210938,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 1956.175048828125
+        }
+      ],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -1049.6000366210938,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "0fbcae0",
+        "dx": 0,
+        "dy": 0,
+        "dw": -1049.6000366210938,
+        "dh": -150,
+        "fontMatch": true
+      },
+      {
+        "key": "About us",
+        "dx": -142.40000915527344,
+        "dy": -60,
+        "dw": -764.7999877929688,
+        "dh": -30,
+        "fontMatch": false
+      },
+      {
+        "key": "ce0a87e",
+        "dx": 0,
+        "dy": -150,
+        "dw": -1049.6000366210938,
+        "dh": 248.51251220703125,
+        "fontMatch": true
+      },
+      {
+        "key": "Get to know our specialized\nlaw firm",
+        "dx": -672.4000244140625,
+        "dy": 111.1875,
+        "dw": -219.5875244140625,
+        "dh": -35.79999542236328,
+        "fontMatch": false
+      },
+      {
+        "key": "436dafa",
+        "dx": 0,
+        "dy": 98.5125732421875,
+        "dw": -1049.6000366210938,
+        "dh": 144.89999389648438,
+        "fontMatch": true
+      },
+      {
+        "key": "Our network of strategic partners",
+        "dx": -102.40000915527344,
+        "dy": 78.5125732421875,
+        "dw": -844.7999877929688,
+        "dh": 13,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": 243.4124755859375,
+        "dw": -1049.6000366210938,
+        "dh": 405.76251220703125,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "services-my-nomad-lawyer",
+    "width": 1440,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 2165,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "00d5c11",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "Our services",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1125.8125,
+          "key": "4b9289c",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 500
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1555.8125
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 2165,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "00d5c11",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "Our services",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1125.8125,
+          "key": "4b9289c",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 500
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1555.8125
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "differences": [],
+    "validationStatus": "valid-desktop-comparison"
+  },
+  {
+    "slug": "services-my-nomad-lawyer",
+    "width": 1280,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 2165,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "00d5c11",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "Our services",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1125.8125,
+          "key": "4b9289c",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 500
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1555.8125
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 2045,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 176,
+          "key": "00d5c11",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 56px / 56px \"Cormorant Garamond\", serif",
+          "h": 56,
+          "key": "Our services",
+          "tag": "H1",
+          "w": 1120,
+          "x": 72.4000015258789,
+          "y": 240
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1079.800048828125,
+          "key": "4b9289c",
+          "tag": "SECTION",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 356
+        },
+        {
+          "font": "600 45px / 42px \"Cormorant Garamond\", serif",
+          "h": 42,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 780,
+          "x": 242.40000915527344,
+          "y": 446
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 1435.800048828125
+        }
+      ],
+      "scrollWidth": 1265,
+      "width": 1280
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -160,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "00d5c11",
+        "dx": 0,
+        "dy": 0,
+        "dw": -160,
+        "dh": -74,
+        "fontMatch": true
+      },
+      {
+        "key": "Our services",
+        "dx": -80.00000762939453,
+        "dy": -30,
+        "dw": 0,
+        "dh": -14,
+        "fontMatch": false
+      },
+      {
+        "key": "4b9289c",
+        "dx": 0,
+        "dy": -74,
+        "dw": -160,
+        "dh": -46.012451171875,
+        "fontMatch": true
+      },
+      {
+        "key": "Full legal services for international clients",
+        "dx": 220.00000953674316,
+        "dy": -54,
+        "dw": -600,
+        "dh": -10,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": -120.012451171875,
+        "dw": -160,
+        "dh": 0,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "services-my-nomad-lawyer",
+    "width": 1024,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 2165,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "00d5c11",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "Our services",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1125.8125,
+          "key": "4b9289c",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 500
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1555.8125
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 2521,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 176,
+          "key": "00d5c11",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 56px / 56px \"Cormorant Garamond\", serif",
+          "h": 56,
+          "key": "Our services",
+          "tag": "H1",
+          "w": 988.7999877929688,
+          "x": 10,
+          "y": 240
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1080.3125,
+          "key": "4b9289c",
+          "tag": "SECTION",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 356
+        },
+        {
+          "font": "600 45px / 49.5px \"Cormorant Garamond\", serif",
+          "h": 99,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 580,
+          "x": 214.40000915527344,
+          "y": 426
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1084.875,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1008.7999877929688,
+          "x": 0,
+          "y": 1436.3125
+        }
+      ],
+      "scrollWidth": 1009,
+      "width": 1024
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -416.00006103515625,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "00d5c11",
+        "dx": 0,
+        "dy": 0,
+        "dw": -416.00006103515625,
+        "dh": -74,
+        "fontMatch": true
+      },
+      {
+        "key": "Our services",
+        "dx": -142.40000915527344,
+        "dy": -30,
+        "dw": -131.20001220703125,
+        "dh": -14,
+        "fontMatch": false
+      },
+      {
+        "key": "4b9289c",
+        "dx": 0,
+        "dy": -74,
+        "dw": -416.00006103515625,
+        "dh": -45.5,
+        "fontMatch": true
+      },
+      {
+        "key": "Full legal services for international clients",
+        "dx": 192.00000953674316,
+        "dy": -74,
+        "dw": -800,
+        "dh": 47,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": -119.5,
+        "dw": -416.00006103515625,
+        "dh": 475.7249755859375,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "services-my-nomad-lawyer",
+    "width": 768,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 2165,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "00d5c11",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "Our services",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1125.8125,
+          "key": "4b9289c",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 500
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1555.8125
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 2472,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 176,
+          "key": "00d5c11",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 56px / 56px \"Cormorant Garamond\", serif",
+          "h": 56,
+          "key": "Our services",
+          "tag": "H1",
+          "w": 732.7999877929688,
+          "x": 10,
+          "y": 240
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1080.3125,
+          "key": "4b9289c",
+          "tag": "SECTION",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 356
+        },
+        {
+          "font": "600 45px / 49.5px \"Cormorant Garamond\", serif",
+          "h": 99,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 580,
+          "x": 86.4000015258789,
+          "y": 426
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1036.050048828125,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 752.7999877929688,
+          "x": 0,
+          "y": 1436.3125
+        }
+      ],
+      "scrollWidth": 753,
+      "width": 768
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -672.0000610351562,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "00d5c11",
+        "dx": 0,
+        "dy": 0,
+        "dw": -672.0000610351562,
+        "dh": -74,
+        "fontMatch": true
+      },
+      {
+        "key": "Our services",
+        "dx": -142.40000915527344,
+        "dy": -30,
+        "dw": -387.20001220703125,
+        "dh": -14,
+        "fontMatch": false
+      },
+      {
+        "key": "4b9289c",
+        "dx": 0,
+        "dy": -74,
+        "dw": -672.0000610351562,
+        "dh": -45.5,
+        "fontMatch": true
+      },
+      {
+        "key": "Full legal services for international clients",
+        "dx": 64.00000190734863,
+        "dy": -74,
+        "dw": -800,
+        "dh": 47,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": -119.5,
+        "dw": -672.0000610351562,
+        "dh": 426.9000244140625,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "services-my-nomad-lawyer",
+    "width": 430,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 2165,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "00d5c11",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "Our services",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1125.8125,
+          "key": "4b9289c",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 500
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1555.8125
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 3082,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 100,
+          "key": "00d5c11",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 40px / 40px \"Cormorant Garamond\", serif",
+          "h": 40,
+          "key": "Our services",
+          "tag": "H1",
+          "w": 395.2000122070313,
+          "x": 10,
+          "y": 210
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1779.6624755859375,
+          "key": "4b9289c",
+          "tag": "SECTION",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 280
+        },
+        {
+          "font": "600 28px / 30.8px \"Cormorant Garamond\", serif",
+          "h": 61.60000228881836,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 315.20001220703125,
+          "x": 50,
+          "y": 330
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1022.3250122070312,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 415.2000122070313,
+          "x": 0,
+          "y": 2059.66259765625
+        }
+      ],
+      "scrollWidth": 415,
+      "width": 430
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -1009.6000366210938,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "00d5c11",
+        "dx": 0,
+        "dy": 0,
+        "dw": -1009.6000366210938,
+        "dh": -150,
+        "fontMatch": true
+      },
+      {
+        "key": "Our services",
+        "dx": -142.40000915527344,
+        "dy": -60,
+        "dw": -724.7999877929688,
+        "dh": -30,
+        "fontMatch": false
+      },
+      {
+        "key": "4b9289c",
+        "dx": 0,
+        "dy": -150,
+        "dw": -1009.6000366210938,
+        "dh": 653.8499755859375,
+        "fontMatch": true
+      },
+      {
+        "key": "Full legal services for international clients",
+        "dx": 27.600000381469727,
+        "dy": -170,
+        "dw": -1064.7999877929688,
+        "dh": 9.60000228881836,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": 503.85009765625,
+        "dw": -1009.6000366210938,
+        "dh": 413.17498779296875,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  },
+  {
+    "slug": "services-my-nomad-lawyer",
+    "width": 390,
+    "original": {
+      "broken": [
+        "",
+        ""
+      ],
+      "height": 2165,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 250,
+          "key": "00d5c11",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+          "h": 70,
+          "key": "Our services",
+          "tag": "H1",
+          "w": 1120,
+          "x": 152.40000915527344,
+          "y": 270
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1125.8125,
+          "key": "4b9289c",
+          "tag": "SECTION",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 430
+        },
+        {
+          "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+          "h": 52,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 1380,
+          "x": 22.399999618530273,
+          "y": 500
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 609.1500244140625,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 1555.8125
+        }
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    "local": {
+      "broken": [],
+      "height": 3163,
+      "items": [
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 180,
+          "key": "masthead",
+          "tag": "HEADER",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 100,
+          "key": "00d5c11",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 180
+        },
+        {
+          "font": "600 40px / 40px \"Cormorant Garamond\", serif",
+          "h": 40,
+          "key": "Our services",
+          "tag": "H1",
+          "w": 355.20001220703125,
+          "x": 10,
+          "y": 210
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1868.2625732421875,
+          "key": "4b9289c",
+          "tag": "SECTION",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 280
+        },
+        {
+          "font": "600 28px / 30.8px \"Cormorant Garamond\", serif",
+          "h": 61.60000228881836,
+          "key": "Full legal services for international clients",
+          "tag": "H3",
+          "w": 275.20001220703125,
+          "x": 50,
+          "y": 330
+        },
+        {
+          "font": "17px / 25.5px \"DM Sans\", sans-serif",
+          "h": 1014.9125366210938,
+          "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+          "tag": "DIV",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 2148.262451171875
+        }
+      ],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    "differences": [
+      {
+        "key": "masthead",
+        "dx": 0,
+        "dy": 0,
+        "dw": -1049.6000366210938,
+        "dh": 0,
+        "fontMatch": true
+      },
+      {
+        "key": "00d5c11",
+        "dx": 0,
+        "dy": 0,
+        "dw": -1049.6000366210938,
+        "dh": -150,
+        "fontMatch": true
+      },
+      {
+        "key": "Our services",
+        "dx": -142.40000915527344,
+        "dy": -60,
+        "dw": -764.7999877929688,
+        "dh": -30,
+        "fontMatch": false
+      },
+      {
+        "key": "4b9289c",
+        "dx": 0,
+        "dy": -150,
+        "dw": -1049.6000366210938,
+        "dh": 742.4500732421875,
+        "fontMatch": true
+      },
+      {
+        "key": "Full legal services for international clients",
+        "dx": 27.600000381469727,
+        "dy": -170,
+        "dw": -1104.7999877929688,
+        "dh": 9.60000228881836,
+        "fontMatch": false
+      },
+      {
+        "key": "Your trusted law firm for digital nomads and international investors\n\n\n\n\n\n\n\n\n\nNavigation\n\n",
+        "dx": 0,
+        "dy": 592.449951171875,
+        "dw": -1049.6000366210938,
+        "dh": 405.76251220703125,
+        "fontMatch": true
+      }
+    ],
+    "validationStatus": "invalid-mismatched-viewports",
+    "validationNote": "Original tab remained at 1440px while the local tab was resized. Do not use the differences as visual validation."
+  }
+]

@@ -1,0 +1,257 @@
+{
+  "forms": [
+    {
+      "action": "https://www.mynomadlawyer.com/contact/",
+      "fields": [
+        {
+          "name": "wpforms[fields][9]",
+          "options": "",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "text"
+        },
+        {
+          "name": "wpforms[fields][1]",
+          "options": "",
+          "placeholder": "*Name",
+          "required": true,
+          "tag": "INPUT",
+          "type": "text"
+        },
+        {
+          "name": "wpforms[fields][2]",
+          "options": "",
+          "placeholder": "*E-mail address",
+          "required": true,
+          "tag": "INPUT",
+          "type": "email"
+        },
+        {
+          "name": "wpforms[fields][4]",
+          "options": "",
+          "placeholder": "Purpose of the consultation",
+          "required": false,
+          "tag": "INPUT",
+          "type": "text"
+        },
+        {
+          "name": "wpforms[fields][5]",
+          "options": "",
+          "placeholder": "Date and time for the consultation",
+          "required": false,
+          "tag": "INPUT",
+          "type": "text"
+        },
+        {
+          "name": "wpforms[fields][7]",
+          "options": "Digital Nomad Visa\nReal Estate\nOther",
+          "placeholder": "",
+          "required": false,
+          "tag": "SELECT",
+          "type": "select-one"
+        },
+        {
+          "name": "wpforms[fields][3]",
+          "options": "",
+          "placeholder": "Message",
+          "required": false,
+          "tag": "TEXTAREA",
+          "type": "textarea"
+        },
+        {
+          "name": "wpforms[fields][8]",
+          "options": "",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "text"
+        },
+        {
+          "name": "wpforms[fields][6][]",
+          "options": "",
+          "placeholder": "",
+          "required": true,
+          "tag": "INPUT",
+          "type": "checkbox"
+        },
+        {
+          "name": "wpforms[recaptcha]",
+          "options": "",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "hidden"
+        },
+        {
+          "name": "wpforms[id]",
+          "options": "",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "hidden"
+        },
+        {
+          "name": "page_title",
+          "options": "",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "hidden"
+        },
+        {
+          "name": "page_url",
+          "options": "",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "hidden"
+        },
+        {
+          "name": "url_referer",
+          "options": "",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "hidden"
+        },
+        {
+          "name": "page_id",
+          "options": "",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "hidden"
+        },
+        {
+          "name": "wpforms[post_id]",
+          "options": "",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "hidden"
+        }
+      ]
+    }
+  ],
+  "headings": [
+    {
+      "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+      "text": "Contact us"
+    },
+    {
+      "font": "600 60px / 71px \"Cormorant Garamond\", serif",
+      "text": "Request your profesional consultation"
+    },
+    {
+      "font": "700 40px / 40px \"Cormorant Garamond\", serif",
+      "text": "Please fill out this form and we’ll get back to you as soon as possible."
+    }
+  ],
+  "iframes": [
+    {
+      "src": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcA0BIsAAAAADNF_lVN8l7ZWIJ2NAp_pks-_48w&co=aHR0cHM6Ly93d3cubXlub21hZGxhd3llci5jb206NDQz&hl=es&v=BnqMGSY_YP4cCmbNINHpJPkd&size=invisible&anchor-ms=20000&execute-ms=30000&cb=64glmxq1fwdb",
+      "title": "reCAPTCHA"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.mynomadlawyer.com/contact/#content",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/",
+      "text": "Home"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/about-us/",
+      "text": "About us"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/services-my-nomad-lawyer/",
+      "text": "Services"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/why-choose-us/",
+      "text": "Why choose us"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/contact/",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/contact/#",
+      "text": "English"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/contact/#",
+      "text": "Spanish"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/",
+      "text": "Home"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/about-us/",
+      "text": "About us"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/services-my-nomad-lawyer/",
+      "text": "Services"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/why-choose-us/",
+      "text": "Why choose us"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/testimonials/",
+      "text": "Testimonials"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/contact/",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/privacy-policy/",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/cookies-policy/",
+      "text": "Cookies policy"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/accessibility-statement/",
+      "text": "Accessibility Statement"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/legal-notice/",
+      "text": "Legal notice"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/page-sitemap.xml",
+      "text": "Site map"
+    },
+    {
+      "href": "https://api.whatsapp.com/send?phone=34637456466",
+      "text": ""
+    }
+  ],
+  "sections": [
+    {
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-contact.jpg\") repeat scroll 50% 50% / cover padding-box border-box",
+      "id": "29cd6a1",
+      "padding": "80px 0px",
+      "text": "Contact us"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "id": "1c20b4f",
+      "padding": "100px 0px",
+      "text": "Request your profesional consultation\n\nOur immigration attorneys in Spain are ready to assist you. All consultations are professional and paid. Choose the option that best suits your needs and schedule your online or in-person appointment.\n\nAv. Ricardo Soriano, 34, 29601 Marbella, Málaga\ngemmabueno@mynomadlawyer.com\n+34 637 456 466\nPlease fill out this form and we’ll get back to you as soon as possible.\nNombre *\nCorreo electrónico *\nPurpose of the consultation\nDate and time\nI am interested in...\nDigital Nomad Visa\nReal Estate\nOther\nMessage\nResponsible: My Nomad Lawyer. Purpose: To be able to attend to your request regarding services and commercial prospecting Legitimation: Consent of the interested party Recipients: Other related companies Rights: Access, rectify and delete data, as well as other rights as explained in the additional information Additional information: You can consult additional and detailed information on Data Protection in our Privacy Policy.\nconsultation Message in...\nPolicies *\n*I accept the privacy policies\nEnviar"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mynomadlawyer-local",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Faithful local static reconstruction of the public My Nomad Lawyer website.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=20.11" }
+}

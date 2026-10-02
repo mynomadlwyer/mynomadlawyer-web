@@ -1,0 +1,150 @@
+{
+  "controls": [
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Menu"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Menu"
+    }
+  ],
+  "headings": [
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+      "text": "About us"
+    },
+    {
+      "color": "rgb(0, 0, 0)",
+      "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+      "text": "Get to know our specialized law firm"
+    },
+    {
+      "color": "rgb(0, 0, 0)",
+      "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+      "text": "Our network of strategic partners"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.mynomadlawyer.com/about-us/#content",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/",
+      "text": "Home"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/about-us/",
+      "text": "About us"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/services-my-nomad-lawyer/",
+      "text": "Services"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/why-choose-us/",
+      "text": "Why choose us"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/contact/",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/about-us/#",
+      "text": "English"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/about-us/#",
+      "text": "Spanish"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/services-my-nomad-lawyer/",
+      "text": "Our services"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/",
+      "text": "Home"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/about-us/",
+      "text": "About us"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/services-my-nomad-lawyer/",
+      "text": "Services"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/why-choose-us/",
+      "text": "Why choose us"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/testimonials/",
+      "text": "Testimonials"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/contact/",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/privacy-policy/",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/cookies-policy/",
+      "text": "Cookies policy"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/accessibility-statement/",
+      "text": "Accessibility Statement"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/legal-notice/",
+      "text": "Legal notice"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/page-sitemap.xml",
+      "text": "Site map"
+    },
+    {
+      "href": "https://api.whatsapp.com/send?phone=34637456466",
+      "text": ""
+    }
+  ],
+  "sections": [
+    {
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-0fbcae0 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+      "css": {
+        "background": "rgba(0, 0, 0, 0) url(\"https://www.mynomadlawyer.com/wp-content/uploads/2025/11/banner-about-us.jpg\") repeat scroll 50% 50% / cover padding-box border-box",
+        "padding": "80px 0px"
+      },
+      "id": "0fbcae0",
+      "text": "About us"
+    },
+    {
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-ce0a87e elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+      "css": {
+        "background": "rgb(234, 230, 206) none repeat scroll 0% 0% / auto padding-box border-box",
+        "padding": "100px 0px"
+      },
+      "id": "ce0a87e",
+      "text": "Get to know our specialized law firm\n\nLED BY GEMMA BUENO\n\nMy Nomad Lawyer is a growing law firm that combines international experience, in-depth knowledge of immigration and investment law, and a comprehensive, personalized approach. Led by Gemma Bueno, an expert immigration lawyer and member of the Immigration Subcommittee of the Malaga Bar Association, we provide reliable and efficient solutions for digital nomads and foreign investors.\n\nGemma holds the European Lawyer’s Card (CCBE), certifying her status as a recognized lawyer in any EU Member State. This allows her to represent clients before European courts and institutions, ensuring a legal service that meets the highest European standards.\n\nOur services"
+    },
+    {
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-436dafa elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+      "css": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "padding": "60px 0px 100px"
+      },
+      "id": "436dafa",
+      "text": "Our network of strategic partners\n\nThrough our network of strategic partners – Asega Consulting, Pablo de Olavide University, and Dipla Partner – we offer a comprehensive and professional service, providing confidence and peace of mind every step of the way."
+    }
+  ]
+}

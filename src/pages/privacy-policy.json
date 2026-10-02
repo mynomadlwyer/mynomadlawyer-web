@@ -1,0 +1,38 @@
+{
+  "slug": "privacy-policy",
+  "path": "/privacy-policy/",
+  "title": "Privacy Policy | My Nomad Lawyer",
+  "description": "Privacy Policy of My Nomad Lawyer. How we collect, use and protect your personal data in accordance with GDPR and applicable data protection laws.",
+  "bodyClass": "privacy-policy wp-singular page-template page-template-elementor_header_footer page page-id-3 wp-custom-logo wp-embed-responsive wp-theme-generatepress wp-child-theme-generatepress_child no-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover full-width-content elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-3",
+  "wrapper": "elementor elementor-3",
+  "styles": [
+    "/styles/observed-bb30c393cf.css",
+    "/styles/observed-ab27bae3ee.css",
+    "/styles/observed-0198c17b36.css",
+    "/styles/observed-971440c8dc.css",
+    "/styles/352e87b7e7-widget-areas.min.css",
+    "/styles/7a7082fe29-main.min.css",
+    "/styles/observed-01fd43cbec.css",
+    "/styles/589f25b091-style.css",
+    "/styles/7c1f654f1a-css.css",
+    "/styles/64697660f7-custom-frontend.min.css",
+    "/styles/fc68fab282-post-5.css",
+    "/styles/32a059a2d9-widget-heading.min.css",
+    "/styles/59b5a1cc98-post-3.css",
+    "/styles/8dbc24682e-css.css",
+    "/styles/4ae34f319c-css.css",
+    "/styles/757f733146-css.css",
+    "/styles/23ea013a9a-css.css",
+    "/styles/observed-9d1d741b1a.css",
+    "/styles/observed-873adc00d1.css",
+    "/styles/observed-6b4b7dd4d9.css",
+    "/styles/observed-415c1d95cb.css",
+    "/styles/observed-a00ee65ed5.css",
+    "/styles/observed-0d9c879260.css",
+    "/styles/observed-d8411b6a9e.css"
+  ],
+  "sections": [
+    "privacy-policy/01-LegalContent.html"
+  ],
+  "hasForm": false
+}

@@ -1,0 +1,18 @@
+/* Local replacements for remote runtime behavior. Observed visual styles stay in separate files. */
+main.site-content{display:block}main:focus{outline:none}
+[hidden]{display:none!important}
+.gt-current-lang{cursor:pointer}.gt-current-lang:focus-visible,.ti-read-more:focus-visible,.ti-next:focus-visible,.ti-prev:focus-visible{outline:2px solid #083d04;outline-offset:3px}
+.language-status{position:fixed;right:24px;top:150px;max-width:340px;padding:16px;background:#fff;color:#383838;box-shadow:0 3px 18px #0003;z-index:10000;font-size:14px;border:1px solid #083d04}
+.consent-open{overflow:hidden}.cky-modal.cky-hide,.cky-overlay.cky-hide,.cky-consent-container.cky-hide{display:none!important}
+.cky-accordion-active .cky-accordion-body{display:block}.cky-accordion-active .cky-chevron-right{transform:rotate(45deg)}
+.cky-preference-content-wrapper.description-expanded{max-height:none}
+.local-form-status{padding:16px;border:1px solid #083d04;color:#083d04;font-size:15px;margin-top:18px}
+.local-recaptcha{position:fixed;right:-186px;bottom:14px;width:256px;height:60px;border-radius:3px;background:#fafafa;box-shadow:0 0 5px #777;display:flex;flex-direction:row-reverse;z-index:9999;transition:right .3s;font-family:Arial,sans-serif}
+.local-recaptcha:hover{right:0}.local-recaptcha>div{flex:0 0 70px;text-align:center;padding:6px 0}.local-recaptcha img{display:block;margin:0 auto 1px}.local-recaptcha small{display:block;font:9px/10px Arial,sans-serif;color:#555}.local-recaptcha small:last-child{font-size:7px}.local-recaptcha>span{flex:1;align-self:center;font:12px/16px Arial,sans-serif;color:#555;padding:8px}
+.ti-widget .ti-reviews-container-wrapper{scrollbar-width:none;scroll-behavior:smooth}.ti-widget .ti-reviews-container-wrapper::-webkit-scrollbar{display:none}
+.ti-widget.ti-goog .ti-review-item{flex:0 0 calc(100% / var(--review-columns,4));width:calc(100% / var(--review-columns,4))!important;min-width:0!important;position:relative}
+.ti-widget.ti-goog .ti-review-content{height:87px!important;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.ti-widget.ti-goog .review-expanded .ti-review-content{height:auto!important;display:block;-webkit-line-clamp:unset}
+.ti-read-more{cursor:pointer;color:rgba(0,0,0,.5)!important}.whatsapp-contact img{display:block}
+.animated{animation-duration:1.25s;animation-fill-mode:both}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}

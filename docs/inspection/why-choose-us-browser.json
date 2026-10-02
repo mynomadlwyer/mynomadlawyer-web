@@ -1,0 +1,274 @@
+{
+  "controls": [
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Personalizar"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Rechazar todo"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Aceptar todo"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Mostrar más"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Necesaria"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Funcional"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Analítica"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "El rendimiento"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Anuncio"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Rechazar todo"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Guardar mis preferencias"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Aceptar todo"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Menu"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Menu"
+    }
+  ],
+  "headings": [
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+      "text": "Why choose us?"
+    },
+    {
+      "color": "rgb(0, 0, 0)",
+      "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+      "text": "Some advantages..."
+    },
+    {
+      "color": "rgb(0, 0, 0)",
+      "font": "600 60px / 60px \"Cormorant Garamond\", serif",
+      "text": "Personalized attention and real solutions for every client"
+    },
+    {
+      "color": "rgb(0, 0, 0)",
+      "font": "600 53px / 56px \"Cormorant Garamond\", serif",
+      "text": "Proven expertise in immigration"
+    },
+    {
+      "color": "rgb(0, 0, 0)",
+      "font": "600 60px / 60px \"Cormorant Garamond\", serif",
+      "text": "Looking for an immigration lawyer who truly listens?"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=powered-by-cookieyes",
+      "text": ""
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/why-choose-us/#content",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/",
+      "text": "Home"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/about-us/",
+      "text": "About us"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/services-my-nomad-lawyer/",
+      "text": "Services"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/why-choose-us/",
+      "text": "Why choose us"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/contact/",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/why-choose-us/#",
+      "text": "English"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/why-choose-us/#",
+      "text": "Spanish"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/services-my-nomad-lawyer/",
+      "text": "Our services"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/contact/",
+      "text": "Contact us!"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/",
+      "text": "Home"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/about-us/",
+      "text": "About us"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/services-my-nomad-lawyer/",
+      "text": "Services"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/why-choose-us/",
+      "text": "Why choose us"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/testimonials/",
+      "text": "Testimonials"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/contact/",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/privacy-policy/",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/cookies-policy/",
+      "text": "Cookies policy"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/accessibility-statement/",
+      "text": "Accessibility Statement"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/legal-notice/",
+      "text": "Legal notice"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/page-sitemap.xml",
+      "text": "Site map"
+    },
+    {
+      "href": "https://api.whatsapp.com/send?phone=34637456466",
+      "text": ""
+    }
+  ],
+  "sections": [
+    {
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-63a1c89 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+      "css": {
+        "background": "rgba(0, 0, 0, 0) url(\"https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-why-choose-us.jpg\") repeat scroll 50% 50% / cover padding-box border-box",
+        "padding": "80px 0px"
+      },
+      "id": "63a1c89",
+      "text": "Why choose us?"
+    },
+    {
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-4dd3b49 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+      "css": {
+        "background": "rgb(8, 61, 4) none repeat scroll 0% 0% / auto padding-box border-box",
+        "padding": "40px 0px"
+      },
+      "id": "4dd3b49",
+      "text": "Choosing who to trust with your legal process in a foreign country is a serious decision. At My Nomad Lawyer, we combine expertise, personalized attention, and deep knowledge of immigration law to offer effective legal solutions tailored to your specific case. Our team is made up of professionals specialized in international mobility, led by a recognized immigration lawyer in Spain with years of experience advising clients from all over the world."
+    },
+    {
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-d78b990 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+      "css": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "padding": "100px 0px"
+      },
+      "id": "d78b990",
+      "text": "Some advantages...\n\nInternational Reach\n\nProfessional and expanding law firm with the capacity to serve international clients\n\nSolid Virtual Network\n\nStrong virtual team supported by a network of strategic partners\n\nExpert Leadership\n\nLed by an expert lawyer with CCBE certification and member of the Immigration Subcommittee of the Málaga Bar Association\n\nMultidisciplinary Expertise\n\nCombined experience in immigration, international mobility, and investment\n\nTailored Consultations\n\nProfessional and personalized consultations\n\nTrusted Partnerships\n\nRecognized strategic partners to reinforce authority and trust"
+    },
+    {
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-9ca4b0b elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+      "css": {
+        "background": "rgb(234, 230, 206) none repeat scroll 0% 0% / auto padding-box border-box",
+        "padding": "100px 0px"
+      },
+      "id": "9ca4b0b",
+      "text": "Personalized attention and real solutions for every client\n\nAt My Nomad Lawyer, we don’t believe in one-size-fits-all approaches. Every client has a unique story, context, and goal. Through our specialized expat legal services, we carefully study your case to design a legal strategy that reduces risks and gets you closer to your objective: living, investing, or working legally in Spain.\n\nIf you’re exploring your relocation options, we provide clear, expert guidance on digital nomad visa requirements, helping remote professionals navigate the legal process with confidence and ease. We’re committed to guiding you through every legal step with clarity, efficiency, and a human approach. No hidden terms, no unnecessary legal jargon.\n\nWe know how complex legal and administrative procedures can be in a different country, and we’re here to simplify it all for you.\n\nOur services"
+    },
+    {
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-7ddb1b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+      "css": {
+        "background": "rgba(0, 0, 0, 0) url(\"https://www.mynomadlawyer.com/wp-content/uploads/2025/11/imagen-slider-why-choose-us-2.jpg\") no-repeat fixed 50% 50% / cover padding-box border-box",
+        "padding": "30px 0px"
+      },
+      "id": "7ddb1b5",
+      "text": ""
+    },
+    {
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-dc6488c elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+      "css": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "padding": "80px 0px"
+      },
+      "id": "dc6488c",
+      "text": "Proven expertise in immigration\n\nFOR DIGITAL NOMADS, INVESTORS, AND FAMILIES\n\nOur team is led by a senior immigration advisor with institutional recognition and extensive experience in immigration procedures, residence permits, family reunification, nationality, and residency through investment. We are your ideal partner when dealing with digital nomad visa requirements, legal paperwork for investors, and family relocation processes.\n\nOver the years, we’ve helped dozens of international clients regularize their status with legal certainty and no complications. We also collaborate with top universities, companies, and tax advisors in Spain to offer complete and reliable expat legal services."
+    },
+    {
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-3e634e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+      "css": {
+        "background": "rgb(234, 230, 206) none repeat scroll 0% 0% / auto padding-box border-box",
+        "padding": "100px 0px"
+      },
+      "id": "3e634e3",
+      "text": "Looking for an immigration lawyer who truly listens?\n\nAt My Nomad Lawyer, we listen, advise, and walk with you every step of the way. We know that behind every immigration process there’s a personal journey, a professional goal, or a family project. That’s why we go beyond legal advice, we provide human, transparent, and effective support.\n\nIf you need a legal team that not only understands the law, but also your priorities as a foreigner in Spain, reach out to us. We are your trusted partner for expat legal services, digital nomad visa requirements, and Spain properties invest—offering legal peace of mind from start to finish.\n\nContact us!"
+    }
+  ]
+}

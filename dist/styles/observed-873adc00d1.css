@@ -1,0 +1,303 @@
+
+@import url('/styles/a613691e7d-css2.css');
+@import url('/styles/45c8108c33-css2.css');
+
+*:not(i){font-family:'DM Sans',sans-serif;}
+
+/* Selectores más específicos para los títulos */
+h1, h1 *, 
+h2, h2 *, 
+h3, h3 *, 
+h4, h4 *, 
+h5, h5 * {
+    font-family:'Cormorant Garamond',serif !important;
+}
+
+/* HEADER */
+.grid-container { 
+    margin-left: auto; 
+    margin-right: auto; 
+    max-width: 1600px;
+}
+header#masthead {
+    width: 100%;
+    position: relative;
+    background: #ffffff;
+    padding-top: 10px;
+}
+header#masthead .main-navigation {
+    background-color: rgba(0,0,0,0);
+    color: #636363;
+}
+
+/* Elemento activo en menú desktop */
+.main-navigation .main-nav ul li[class*="current-menu-"] > a {
+    font-weight: 700;
+    color: #083d04 !important;
+}
+
+/* MENÚ MÓVIL Y TABLET */
+@media (max-width: 1024px) {
+    /* Fondo para el menú móvil/tablet cuando está abierto */
+    .mobile-menu-open header#masthead {
+        background: #ffffff !important; 
+    }
+    
+    /* Fondo para la navegación móvil/tablet */
+    .main-navigation.toggled .main-nav {
+        background: #ffffff !important;
+        padding: 20px 0;
+    }
+    
+    /* Estilo para los enlaces del menú móvil/tablet */
+    .main-navigation.toggled .main-nav ul li a {
+        color: #636363 !important;
+        padding: 15px 20px;
+        border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+    
+    /* Elemento activo en menú móvil/tablet - COLOR verde */
+    .main-navigation.toggled .main-nav ul li[class*="current-menu-"] > a,
+    .main-navigation.toggled .main-nav ul li.current-menu-item > a,
+    .main-navigation.toggled .main-nav ul li.current_page_item > a {
+        color: #083d04 !important;
+        font-weight: 700 !important;
+    }
+}  
+    
+
+
+/* MENÚ */
+@media(max-width:1024px){
+	header#masthead .inside-header{flex-wrap:wrap;}
+	header#masthead .main-navigation#mobile-menu-control-wrapper{display:flex;}
+	header#masthead .main-navigation#mobile-menu-control-wrapper .menu-toggle{display:block;}
+	header#masthead .main-navigation#site-navigation{flex-basis:100%;}
+	header#masthead .main-navigation#site-navigation .menu{display:none;}
+	header#masthead .main-navigation.toggled#site-navigation .menu{display:block;} 
+    header #site-navigation{order:4;}
+	header .header-widget{order:3;} 
+}
+
+
+@media(max-width:768px){
+	.has-inline-mobile-toggle .header-widget{flex-basis:auto;margin:0 0 0 20px;}
+}
+
+
+/* Eliminar líneas en menú móvil */
+@media(max-width:1024px){
+    .menu li { 
+        border-right: none!important; 
+        margin-right: 0;
+        padding-right: 0;
+    }
+}
+	
+/* Elemento activo en menú móvil - Color verde */
+@media(max-width:1024px){
+.main-navigation.toggled#site-navigation .menu li[class*="current-menu-"] > a {
+        color: #083d04;
+        font-weight: 700;
+    }
+}
+
+/* LÍNEA ENTRE EL MENÚ */
+.main-navigation .main-nav ul li a { 
+    line-height: 25px;
+    padding: 0 15px; /* Añade espacio interno a los enlaces */
+}
+
+.menu li {
+  margin-right: 15px; /* Aumentado de 3px a 15px */
+  padding-right: 15px; /* Añade padding antes de la línea */
+  border-right: 1px solid #636363;
+}
+
+/*Quitar la línea del último elemento del menú*/
+.menu li:last-child {
+  border-right: none;
+  margin-right: 0; /* Elimina el margen del último elemento */
+}
+
+.menu a {
+    text-decoration: none; 
+    color: #636363; 
+    font-size: 16px;
+}
+
+/* FORMS CONTACTO */
+/* Botón formulario */
+.wpforms-form#wpforms-form-332 .wpforms-submit{
+    border-radius: 0px; 
+    padding-left: 40px; 
+    padding-right: 40px; 
+    background-color: #083D04 !important; 
+    color: #ffffff !important; /* Texto blanco */
+} 
+
+/* Campos */
+.wpforms-container-full input[type=text],.wpforms-container-full input,.wpforms-form textarea, .wpforms-form select{
+    border-radius: 0px !important;
+	border-color: #083D04 !important;
+    background-color: #ffffff !important;
+} 
+
+/* Etiqueta */
+.wpforms-field-label-inline {
+    color: #383838!important;
+}
+
+.wpforms-container .wpforms-field {
+    padding: 10px 0 !important; 
+    position: relative !important;
+} 
+
+/* Cambiar color texto dentro de las casillas */
+::placeholder{
+    color: #383838 !important; 
+    font-family: "DM Sans" !important;  
+}
+::-ms-input-placeholder { 
+    color: #383838 !important; 
+    font-family: "DM Sans" !important;  
+}
+:-moz-placeholder{ 
+    color: #383838 !important; 
+    font-family: "DM Sans" !important; 
+}
+::-webkit-input-placeholder{ 
+    color: #383838 !important; 
+    font-family: "DM Sans" !important;  
+}
+
+
+/* FOOTER */
+.footer-widgets {
+    padding-top: 25px;
+    padding-bottom: 25px; 
+    background-color: #083D04; 
+    color: #fff;
+}
+
+.footer-widgets a {
+    color: #fff; 
+    text-decoration: underline; 
+    font-family: "DM Sans" !important;
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    line-height: 1.6;
+}
+
+/* ALINEACIÓN PRINCIPAL DEL FOOTER - ESTO ES LO MÁS IMPORTANTE */
+#footer-widgets .wp-block-columns {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: flex-start !important; /* Alineación superior */
+    gap: 20px; /* Espacio entre columnas */
+}
+
+#footer-widgets .wp-block-columns > .wp-block-column {
+    align-self: flex-start !important; /* Cada columna empieza arriba */
+    vertical-align: top !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+}
+
+/* Asegurar que los títulos y contenido empiecen arriba */
+#footer-widgets .wp-block-columns > .wp-block-column > * {
+    margin-top: 0 !important;
+}
+
+#footer-widgets .wp-block-columns > .wp-block-column h2,
+#footer-widgets .wp-block-columns > .wp-block-column h3,
+#footer-widgets .wp-block-columns > .wp-block-column h4 {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* Media queries para responsive - TABLET Y MÓVIL */
+@media(max-width: 1024px) {
+    #footer-widgets .wp-block-columns {
+        flex-direction: column !important;
+        align-items: center !important;
+        text-align: center !important;
+        gap: 30px;
+    }
+    
+    #footer-widgets .wp-block-columns > .wp-block-column {
+        flex-basis: 100% !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        align-items: center !important;
+        text-align: center !important;
+        margin-bottom: 0; /* El gap ya maneja el espaciado */
+    }
+    
+    /* Centrar todo el contenido dentro de cada columna */
+    .footer-widgets .widget,
+    .footer-widgets p,
+    .footer-widgets h2,
+    .footer-widgets h3,
+    .footer-widgets h4 {
+        text-align: center !important;
+    }
+    
+    /* Centrar listas también */
+    .footer-widgets ul {
+        text-align: center !important;
+        padding-left: 0 !important;
+    }
+    
+    .footer-widgets ul li {
+        display: inline-block;
+        margin: 0 10px 10px 10px; /* Espacio uniforme alrededor */
+    }
+}
+
+/* Estilos específicos solo para móvil */
+@media(max-width: 767px) {
+    #footer-widgets .wp-block-columns {
+        gap: 25px;
+    }
+    
+    /* Más espacio en móviles */
+    .footer-widgets a {
+        margin-right: 8px;
+        margin-left: 8px;
+        margin-bottom: 10px;
+    }
+    
+    .footer-widgets ul li {
+        margin: 0 8px 10px 8px;
+    }
+}
+
+.footer-widgets p { 
+    margin-bottom: 0.5em;
+    line-height: 1.8;
+}
+
+.footer-widgets .widget :last-child, 
+.sidebar .widget :last-child { 
+    margin-bottom: 0; 
+    text-align: left;
+}
+
+/* Espacio adicional para listas de enlaces */
+.footer-widgets ul {
+    margin-bottom: 1.5em;
+}
+
+.footer-widgets li {
+    margin-bottom: 5px;
+}
+
+/* Si los enlaces están en una lista horizontal */
+.footer-widgets ul li {
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}

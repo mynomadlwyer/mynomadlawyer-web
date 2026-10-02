@@ -1,0 +1,2225 @@
+Listado de rutas de carpetas
+El n�mero de serie del volumen es 8601-9808
+C:.
+|   .gitignore
+|   package.json
+|   README.md
+|   
++---dist
+|   |   index.html
+|   |   page-sitemap.xml
+|   |   robots.txt
+|   |   
+|   +---about-us
+|   |       index.html
+|   |       
+|   +---accessibility-statement
+|   |       index.html
+|   |       
+|   +---contact
+|   |       index.html
+|   |       
+|   +---cookies-policy
+|   |       index.html
+|   |       
+|   +---fonts
+|   |       0348c5b8c3-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf
+|   |       0569c822ca-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+|   |       066b073354-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJtRSW3z.ttf
+|   |       091f1e65ee-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDV30TGI.ttf
+|   |       0aa657d289-latin.woff2
+|   |       0e814212f4-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+|   |       1046be7602-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1RSW3z.ttf
+|   |       13523a93dc-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf
+|   |       18e69125ce-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+|   |       190e133148-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm3z.ttf
+|   |       1ceddeab15-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9KnTOjw.ttf
+|   |       1d1b2dc337-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+|   |       1d4906a72b-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV30TGI.ttf
+|   |       1d93757d4a-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+|   |       212ed85bd6-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+|   |       21353ee092-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+|   |       2171226d5d-latin-ext.woff2
+|   |       24ba74e1b3-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+|   |       25f9e0e134-latin-ext-600.woff2
+|   |       27f3d81f0e-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW3z.ttf
+|   |       2c5c0bffea-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5LDf-iNM5.ttf
+|   |       3001ffbd8d-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+|   |       33da2dd2cc-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+|   |       374c6c52ce-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jDOjw.ttf
+|   |       3c93c68b7b-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+|   |       40cf398994-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5rDD-iNM5.ttf
+|   |       4115341c2f-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCl30TGI.ttf
+|   |       430bc50ffe-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+|   |       47620e6d59-devanagari-italic-600.woff2
+|   |       57840d188d-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+|   |       57b8628104-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZtRSW3z.ttf
+|   |       59f804a0f6-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+|   |       5b3d973cf4-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+|   |       5be0cab9a7-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5FTf-iNM5.ttf
+|   |       5d3a12fc90-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86KnTOjw.ttf
+|   |       5da69473dd-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+|   |       5e6e7a1784-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl30TGI.ttf
+|   |       5f87e563b3-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDV30TGI.ttf
+|   |       613415ecf5-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+|   |       6da1d0270e-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOjw.ttf
+|   |       6f59110dc1-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxRSW3z.ttf
+|   |       705776b623-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9GnM.ttf
+|   |       70e074455d-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+|   |       712df8cd03-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+|   |       718146c322-devanagari-600.woff2
+|   |       73152f8d0c-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDDOjw.ttf
+|   |       75407d2218-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06GnM.ttf
+|   |       8257aa2626-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+|   |       86b5709fc7-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+|   |       8b5dd3c6f5-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+|   |       8d315135e0-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCl30TGI.ttf
+|   |       8ebef1be98-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+|   |       911bf559d2-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6GnM.ttf
+|   |       953d52f7fa-latin-ext-italic.woff2
+|   |       9872c1a09b-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5LDfOjw.ttf
+|   |       98b910f020-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+|   |       9a061fd2c1-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRSW3z.ttf
+|   |       9bd8ba39c9-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+|   |       9ca12861e4-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf
+|   |       9d323db1de-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCl30TGI.ttf
+|   |       9d44391107-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+|   |       9eef09fb0c-latin-600.woff2
+|   |       a0ab9869be-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+|   |       a212f3396d-latin-italic.woff2
+|   |       a44854ad44-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+|   |       a91ed538c7-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9KnTOjw.ttf
+|   |       a94867f6c4-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+|   |       a9565983a6-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9GnM.ttf
+|   |       a9a89d88d7-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+|   |       acfcbeb83b-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5FTfOjw.ttf
+|   |       ae5fe26220-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+|   |       b1918663f0-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5rDDOjw.ttf
+|   |       b244372da1-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRSW3z.ttf
+|   |       b6d6d270b7-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDV30TGI.ttf
+|   |       bb8f3c3b0c-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86GnM.ttf
+|   |       bc745f8460-devanagari.woff2
+|   |       bcef0588e6-latin-ext-italic-600.woff2
+|   |       bd3286149a-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf
+|   |       bde69cf682-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxRSW3z.ttf
+|   |       bfd455f5a9-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM5.ttf
+|   |       c44a41dc0c-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+|   |       c961e282dd-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+|   |       d5826d83b5-latin-italic-600.woff2
+|   |       d834c54376-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6KnTOjw.ttf
+|   |       d8b35333e9-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+|   |       def8cea2b3-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+|   |       e7f62cb72d-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf
+|   |       ed22fb6d94-devanagari-italic.woff2
+|   |       eeb3191b4f-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+|   |       f4e8a65e4d-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG3z.ttf
+|   |       f5d666d1c6-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIptRSW3z.ttf
+|   |       f806d8eb08-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jD-iNM5.ttf
+|   |       f95ccbf472-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDF30TGI.ttf
+|   |       fa6d7d8703-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+|   |       fe5eb4d77e-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf
+|   |       
+|   +---icons
+|   |       0cebf4e396-s.svg
+|   |       161c70f7e6-ti-verified-black.svg
+|   |       1b83d6cf27-cky-placeholder.svg
+|   |       2159bb67f3-close.svg
+|   |       2cb2bb3a4d-poweredbtcky.svg
+|   |       60d0a76a46-f.svg
+|   |       6f6d23aefc-ti-verified.svg
+|   |       8b136d5373-ti-info-light.svg
+|   |       9142b4cc8f-ti-verified-green.svg
+|   |       a3e3bd3e1d-es.svg
+|   |       be969175fd-ti-info-regular.svg
+|   |       c47f9e32b4-submit-spin.svg
+|   |       c65b47bfb3-ti-quote.svg
+|   |       c6ee0349fc-icon.svg
+|   |       d9b7d679c6-en.svg
+|   |       df29beacd7-revisit.svg
+|   |       eddce22194-icon.svg
+|   |       recaptcha.png
+|   |       whatsapp.png
+|   |       
+|   +---images
+|   |       019abbe07a-ALV-UjWXpVHJRp9SUsEAwJhu0AbcZy15YAHUPGZPXppINNpjFUftFAdI-w80-h80-c-rp-mo-ba12-br100.bin
+|   |       0a22b66707-banner-about-us.jpg
+|   |       0da7ca79c9-ACg8ocIN7B69wGM9ipDj5BZlKHNuPi1P7p9DMOZ3JEit2o3ySuwM-w40-h40-c-rp-mo-br100.bin
+|   |       0fa084c3a2-Asega_Marca_Color_RGB.jpg
+|   |       100556268d-slider-contact.jpg
+|   |       15e16bb24e-estatua-justica-2-137x300.png
+|   |       16ac21f300-imagen-pasaporte.png
+|   |       1feeb3f07b-cropped-favicon-my-nomad-lawyer-192x192.jpg
+|   |       211a0c5a03-imagen-hero.jpg
+|   |       24da976884-06.png
+|   |       2534b2f7f8-ACg8ocLeteSreBRsmqwSPfGMcQyv2aodbajuN_DiMmclp-yUJPAoOw-w80-h80-c-rp-mo-br100.bin
+|   |       2856cdb288-logotipo-abogacia-de-malaga-ok.png
+|   |       2972f57ff6-imagen-slider-why-choose-us-2.jpg
+|   |       29c3149073-slider-why-choose-us-1-1024x314.jpg
+|   |       2f74d4ecfb-logo-KIT-DIGITAL-definitivo-color-2024-1024x61.jpg
+|   |       31d3376d74-ACg8ocKJRn3fSC1ulRMnF9kDFjnbhBjP0qG3O5PaMaJSz4S8xLcDrw-w80-h80-c-rp-mo-br100.bin
+|   |       337046c5ac-foto-gemma-202x300.png
+|   |       3465f5a576-martillo-justicia-300x276.png
+|   |       3569c3e55d-all-in-one.jpg
+|   |       369df1f266-Logo-FUPO-positivo-1024x794.jpg
+|   |       37dd9e1ca0-Logo-FUPO-positivo-768x596.jpg
+|   |       3f3f3a8d08-googlelogo_color_42x16dp.png
+|   |       401b4fbfbb-slider-martillo.jpg
+|   |       40993c585c-Asega_Marca_Color_RGB-1024x799.jpg
+|   |       4a6f470f2c-ACg8ocLNzeZxSD77PLL9SDMRDxmUUP-tDntyhzu1yGbcbZqRF3yNXw-w80-h80-c-rp-mo-br100.bin
+|   |       4d715bc1b8-fondo-espana.png
+|   |       4f82783af9-icono-residency-visas.jpg
+|   |       55d775ad9a-04.png
+|   |       5cd5b7ad4d-05.png
+|   |       61e706b268-slider-why-choose-us-1-1536x470.jpg
+|   |       641bbe6558-loading_dots.gif
+|   |       647ff8a166-ALV-UjWXpVHJRp9SUsEAwJhu0AbcZy15YAHUPGZPXppINNpjFUftFAdI-w40-h40-c-rp-mo-ba12-br100.bin
+|   |       64d5b1313c-logotipo-asega-ok-300x113.png
+|   |       6893fa6268-investment-and-real-estate.jpg
+|   |       6a004fd809-Logo-FUPO-positivo-300x233.jpg
+|   |       71717e13bc-nationality-y-residency-ties.jpg
+|   |       75059c60de-logo-KIT-DIGITAL-definitivo-color-2024.jpg
+|   |       782355ad53-testimonio-2-300x140.png
+|   |       7cc45cf39e-Asega_Marca_Color_RGB-768x599.jpg
+|   |       7d2d82a3d3-ACg8ocKJRn3fSC1ulRMnF9kDFjnbhBjP0qG3O5PaMaJSz4S8xLcDrw-w40-h40-c-rp-mo-br100.bin
+|   |       7d58228f4d-logotipo-asega-ok.png
+|   |       84e5eefaf2-cropped-favicon-my-nomad-lawyer-32x32.jpg
+|   |       8925305c66-03.png
+|   |       8c4365fa02-ACg8ocLNzeZxSD77PLL9SDMRDxmUUP-tDntyhzu1yGbcbZqRF3yNXw-w40-h40-c-rp-mo-br100.bin
+|   |       8e0a1a959e-Asega_Marca_Color_RGB-300x234.jpg
+|   |       91088eb8b1-cropped-favicon-my-nomad-lawyer-180x180.jpg
+|   |       91d63fc954-logo-KIT-DIGITAL-definitivo-color-2024-300x18.jpg
+|   |       962bea0b64-inheritance-y-wills.jpg
+|   |       997673ee6a-02.png
+|   |       9ab88385e6-testimonio-1-300x140.png
+|   |       9bc0dfddfe-Logo-FUPO-positivo.jpg
+|   |       9d2f5068cc-logotipo-footer.png
+|   |       9de361bd58-logotipo-abogacia-de-malaga-ok-300x113.png
+|   |       9fc826d241-ACg8ocIN7B69wGM9ipDj5BZlKHNuPi1P7p9DMOZ3JEit2o3ySuwM-w80-h80-c-rp-mo-br100.bin
+|   |       a324c08fed-testimonio-2.png
+|   |       a47a5c6dc4-slider-martillo-1024x314.jpg
+|   |       a4edee01c1-cropped-logotipo-my-nomad-lawyer.jpg
+|   |       a71a1455b9-slider-why-choose-us-1-768x235.jpg
+|   |       a7fdd4ce3b-ACg8ocKwhsTWjl1dLC9XhZ3XfzoNzSNk3LbYjVtbg357OJOrt_IF7g-w80-h80-c-rp-mo-br100.bin
+|   |       a9c115f7e2-slider-martillo-768x235.jpg
+|   |       ab72518faa-slider-martillo-1536x470.jpg
+|   |       abbb893e59-logotipo-uni-pablo-olavide-ok-300x113.png
+|   |       b426a3166d-slider-why-choose-us-1-300x92.jpg
+|   |       b4c1740dfb-ACg8ocKwhsTWjl1dLC9XhZ3XfzoNzSNk3LbYjVtbg357OJOrt_IF7g-w40-h40-c-rp-mo-br100.bin
+|   |       b4ebcbf6cc-logotipo-uni-pablo-olavide-ok.png
+|   |       b56841b2b9-prueba-1.png
+|   |       b639206c8b-testimonio-1.png
+|   |       b7bde3e850-slider-testimonials.jpg
+|   |       be0e892017-imagen-pasaporte-296x300.png
+|   |       cac2c894e6-slider-our-services.jpg
+|   |       cf6523d546-ALV-UjW_1D-Q2fzDEweBrSoBWzTDu9jBn6kPHueBcfzSqQA9Rz2GOw8-w80-h80-c-rp-mo-br100.bin
+|   |       d24c3a3996-slider-why-choose-us.jpg
+|   |       eace68076a-logo-KIT-DIGITAL-definitivo-color-2024-768x46.jpg
+|   |       ebc00aca4a-slider-martillo-300x92.jpg
+|   |       ee9cbe605f-martillo-justicia.png
+|   |       f005000452-slider-why-choose-us-1.jpg
+|   |       f215b5efd1-estatua-justica-2.png
+|   |       f2c02e77fb-ALV-UjW_1D-Q2fzDEweBrSoBWzTDu9jBn6kPHueBcfzSqQA9Rz2GOw8-w40-h40-c-rp-mo-br100.bin
+|   |       fbde8923ee-ACg8ocLeteSreBRsmqwSPfGMcQyv2aodbajuN_DiMmclp-yUJPAoOw-w40-h40-c-rp-mo-br100.bin
+|   |       fc3ccd7516-foto-gemma.png
+|   |       
+|   +---legal-notice
+|   |       index.html
+|   |       
+|   +---privacy-policy
+|   |       index.html
+|   |       
+|   +---scripts
+|   |       app.js
+|   |       consent.js
+|   |       forms.js
+|   |       navigation.js
+|   |       reviews.js
+|   |       
+|   +---services-my-nomad-lawyer
+|   |       index.html
+|   |       
+|   +---styles
+|   |       008a4ff4fb-post-418.css
+|   |       0ab471d16b-trustindex-google-widget.css
+|   |       17afc2f2ca-post-710.css
+|   |       23ea013a9a-css.css
+|   |       29973e4c18-post-495.css
+|   |       32a059a2d9-widget-heading.min.css
+|   |       352e87b7e7-widget-areas.min.css
+|   |       3bbb03f52b-fadeInDown.min.css
+|   |       45c8108c33-css2.css
+|   |       4ae34f319c-css.css
+|   |       589f25b091-style.css
+|   |       59b5a1cc98-post-3.css
+|   |       6069ad9ec6-wpforms-full.min.css
+|   |       64697660f7-custom-frontend.min.css
+|   |       6740ccaf21-post-697.css
+|   |       757f733146-css.css
+|   |       7a7082fe29-main.min.css
+|   |       7c1f654f1a-css.css
+|   |       85504d430d-post-504.css
+|   |       88e1a303e4-widget-divider.min.css
+|   |       8dbc24682e-css.css
+|   |       92fa0907df-post-702.css
+|   |       97523194a7-post-480.css
+|   |       9daacca608-widget-image.min.css
+|   |       a19da7451b-post-2.css
+|   |       a613691e7d-css2.css
+|   |       a80d27ba30-custom-widget-icon-list.min.css
+|   |       cafad2a778-post-354.css
+|   |       fc68fab282-post-5.css
+|   |       local.css
+|   |       observed-0198c17b36.css
+|   |       observed-01fd43cbec.css
+|   |       observed-0d9c879260.css
+|   |       observed-20e586a5ba.css
+|   |       observed-415c1d95cb.css
+|   |       observed-6b4b7dd4d9.css
+|   |       observed-873adc00d1.css
+|   |       observed-971440c8dc.css
+|   |       observed-9d1d741b1a.css
+|   |       observed-a00ee65ed5.css
+|   |       observed-ab27bae3ee.css
+|   |       observed-bb30c393cf.css
+|   |       observed-d8411b6a9e.css
+|   |       
+|   +---testimonials
+|   |       index.html
+|   |       
+|   \---why-choose-us
+|           index.html
+|           
++---docs
+|   |   file-tree.txt
+|   |   location-verification.md
+|   |   page-structure.md
+|   |   site-audit.md
+|   |   visual-validation.md
+|   |   
+|   +---inspection
+|   |   |   about-us-1440.png
+|   |   |   about-us-390.png
+|   |   |   about-us-768.png
+|   |   |   about-us-browser.json
+|   |   |   about-us-dom.txt
+|   |   |   about-us.html
+|   |   |   accessibility-statement-1440.png
+|   |   |   accessibility-statement-390.png
+|   |   |   accessibility-statement-768.png
+|   |   |   accessibility-statement-browser.json
+|   |   |   accessibility-statement-dom.txt
+|   |   |   accessibility-statement.html
+|   |   |   architecture.json
+|   |   |   assets.json
+|   |   |   assets.mjs
+|   |   |   collect.mjs
+|   |   |   consent-modal.png
+|   |   |   contact-1440.png
+|   |   |   contact-390.png
+|   |   |   contact-768.png
+|   |   |   contact-browser.json
+|   |   |   contact-dom.txt
+|   |   |   contact.html
+|   |   |   cookie-description-full.html
+|   |   |   cookies-policy-1440.png
+|   |   |   cookies-policy-390.png
+|   |   |   cookies-policy-768.png
+|   |   |   cookies-policy-browser.json
+|   |   |   cookies-policy-dom.txt
+|   |   |   cookies-policy.html
+|   |   |   dynamic.json
+|   |   |   home-1024.png
+|   |   |   home-1280.png
+|   |   |   home-1440.png
+|   |   |   home-390.png
+|   |   |   home-430.png
+|   |   |   home-768.png
+|   |   |   home-responsive.json
+|   |   |   home.html
+|   |   |   language-open.png
+|   |   |   legal-notice-1440.png
+|   |   |   legal-notice-390.png
+|   |   |   legal-notice-768.png
+|   |   |   legal-notice-browser.json
+|   |   |   legal-notice-dom.txt
+|   |   |   legal-notice.html
+|   |   |   local-home-first.json
+|   |   |   mobile-menu.png
+|   |   |   page-sitemap.xml
+|   |   |   privacy-policy-1440.png
+|   |   |   privacy-policy-390.png
+|   |   |   privacy-policy-768.png
+|   |   |   privacy-policy-browser.json
+|   |   |   privacy-policy-dom.txt
+|   |   |   privacy-policy.html
+|   |   |   reviews-expanded.png
+|   |   |   reviews-rendered.html
+|   |   |   routes.json
+|   |   |   services-my-nomad-lawyer-1440.png
+|   |   |   services-my-nomad-lawyer-390.png
+|   |   |   services-my-nomad-lawyer-768.png
+|   |   |   services-my-nomad-lawyer-browser.json
+|   |   |   services-my-nomad-lawyer-dom.txt
+|   |   |   services-my-nomad-lawyer.html
+|   |   |   testimonials-1440.png
+|   |   |   testimonials-390.png
+|   |   |   testimonials-768.png
+|   |   |   testimonials-browser.json
+|   |   |   testimonials-dom.txt
+|   |   |   testimonials.html
+|   |   |   why-choose-us-1440.png
+|   |   |   why-choose-us-390.png
+|   |   |   why-choose-us-768.png
+|   |   |   why-choose-us-browser.json
+|   |   |   why-choose-us-dom.txt
+|   |   |   why-choose-us.html
+|   |   |   
+|   |   \---tooling
+|   |       |   package-lock.json
+|   |       |   package.json
+|   |       |   
+|   |       \---node_modules
+|   |           |   .package-lock.json
+|   |           |   
+|   |           +---boolbase
+|   |           |       index.js
+|   |           |       package.json
+|   |           |       README.md
+|   |           |       
+|   |           +---cheerio
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   Readme.md
+|   |           |   |   
+|   |           |   +---dist
+|   |           |   |   +---browser
+|   |           |   |   |   |   cheerio.d.ts
+|   |           |   |   |   |   cheerio.d.ts.map
+|   |           |   |   |   |   cheerio.js
+|   |           |   |   |   |   cheerio.js.map
+|   |           |   |   |   |   index-browser.d.mts.map
+|   |           |   |   |   |   index-browser.mjs.map
+|   |           |   |   |   |   index.d.ts
+|   |           |   |   |   |   index.js
+|   |           |   |   |   |   load-parse.d.ts
+|   |           |   |   |   |   load-parse.d.ts.map
+|   |           |   |   |   |   load-parse.js
+|   |           |   |   |   |   load-parse.js.map
+|   |           |   |   |   |   load.d.ts
+|   |           |   |   |   |   load.d.ts.map
+|   |           |   |   |   |   load.js
+|   |           |   |   |   |   load.js.map
+|   |           |   |   |   |   options.d.ts
+|   |           |   |   |   |   options.d.ts.map
+|   |           |   |   |   |   options.js
+|   |           |   |   |   |   options.js.map
+|   |           |   |   |   |   package.json
+|   |           |   |   |   |   parse.d.ts
+|   |           |   |   |   |   parse.d.ts.map
+|   |           |   |   |   |   parse.js
+|   |           |   |   |   |   parse.js.map
+|   |           |   |   |   |   slim.d.ts
+|   |           |   |   |   |   slim.d.ts.map
+|   |           |   |   |   |   slim.js
+|   |           |   |   |   |   slim.js.map
+|   |           |   |   |   |   static.d.ts
+|   |           |   |   |   |   static.d.ts.map
+|   |           |   |   |   |   static.js
+|   |           |   |   |   |   static.js.map
+|   |           |   |   |   |   types.d.ts
+|   |           |   |   |   |   types.d.ts.map
+|   |           |   |   |   |   types.js
+|   |           |   |   |   |   types.js.map
+|   |           |   |   |   |   utils.d.ts
+|   |           |   |   |   |   utils.d.ts.map
+|   |           |   |   |   |   utils.js
+|   |           |   |   |   |   utils.js.map
+|   |           |   |   |   |   
+|   |           |   |   |   +---api
+|   |           |   |   |   |       attributes.d.ts
+|   |           |   |   |   |       attributes.d.ts.map
+|   |           |   |   |   |       attributes.js
+|   |           |   |   |   |       attributes.js.map
+|   |           |   |   |   |       css.d.ts
+|   |           |   |   |   |       css.d.ts.map
+|   |           |   |   |   |       css.js
+|   |           |   |   |   |       css.js.map
+|   |           |   |   |   |       extract.d.ts
+|   |           |   |   |   |       extract.d.ts.map
+|   |           |   |   |   |       extract.js
+|   |           |   |   |   |       extract.js.map
+|   |           |   |   |   |       forms.d.ts
+|   |           |   |   |   |       forms.d.ts.map
+|   |           |   |   |   |       forms.js
+|   |           |   |   |   |       forms.js.map
+|   |           |   |   |   |       manipulation.d.ts
+|   |           |   |   |   |       manipulation.d.ts.map
+|   |           |   |   |   |       manipulation.js
+|   |           |   |   |   |       manipulation.js.map
+|   |           |   |   |   |       traversing.d.ts
+|   |           |   |   |   |       traversing.d.ts.map
+|   |           |   |   |   |       traversing.js
+|   |           |   |   |   |       traversing.js.map
+|   |           |   |   |   |       
+|   |           |   |   |   \---parsers
+|   |           |   |   |           parse5-adapter.d.ts
+|   |           |   |   |           parse5-adapter.d.ts.map
+|   |           |   |   |           parse5-adapter.js
+|   |           |   |   |           parse5-adapter.js.map
+|   |           |   |   |           
+|   |           |   |   +---commonjs
+|   |           |   |   |   |   cheerio.d.ts
+|   |           |   |   |   |   cheerio.d.ts.map
+|   |           |   |   |   |   cheerio.js
+|   |           |   |   |   |   cheerio.js.map
+|   |           |   |   |   |   index.d.ts
+|   |           |   |   |   |   index.d.ts.map
+|   |           |   |   |   |   index.js
+|   |           |   |   |   |   index.js.map
+|   |           |   |   |   |   load-parse.d.ts
+|   |           |   |   |   |   load-parse.d.ts.map
+|   |           |   |   |   |   load-parse.js
+|   |           |   |   |   |   load-parse.js.map
+|   |           |   |   |   |   load.d.ts
+|   |           |   |   |   |   load.d.ts.map
+|   |           |   |   |   |   load.js
+|   |           |   |   |   |   load.js.map
+|   |           |   |   |   |   options.d.ts
+|   |           |   |   |   |   options.d.ts.map
+|   |           |   |   |   |   options.js
+|   |           |   |   |   |   options.js.map
+|   |           |   |   |   |   package.json
+|   |           |   |   |   |   parse.d.ts
+|   |           |   |   |   |   parse.d.ts.map
+|   |           |   |   |   |   parse.js
+|   |           |   |   |   |   parse.js.map
+|   |           |   |   |   |   slim.d.ts
+|   |           |   |   |   |   slim.d.ts.map
+|   |           |   |   |   |   slim.js
+|   |           |   |   |   |   slim.js.map
+|   |           |   |   |   |   static.d.ts
+|   |           |   |   |   |   static.d.ts.map
+|   |           |   |   |   |   static.js
+|   |           |   |   |   |   static.js.map
+|   |           |   |   |   |   types.d.ts
+|   |           |   |   |   |   types.d.ts.map
+|   |           |   |   |   |   types.js
+|   |           |   |   |   |   types.js.map
+|   |           |   |   |   |   utils.d.ts
+|   |           |   |   |   |   utils.d.ts.map
+|   |           |   |   |   |   utils.js
+|   |           |   |   |   |   utils.js.map
+|   |           |   |   |   |   
+|   |           |   |   |   +---api
+|   |           |   |   |   |       attributes.d.ts
+|   |           |   |   |   |       attributes.d.ts.map
+|   |           |   |   |   |       attributes.js
+|   |           |   |   |   |       attributes.js.map
+|   |           |   |   |   |       css.d.ts
+|   |           |   |   |   |       css.d.ts.map
+|   |           |   |   |   |       css.js
+|   |           |   |   |   |       css.js.map
+|   |           |   |   |   |       extract.d.ts
+|   |           |   |   |   |       extract.d.ts.map
+|   |           |   |   |   |       extract.js
+|   |           |   |   |   |       extract.js.map
+|   |           |   |   |   |       forms.d.ts
+|   |           |   |   |   |       forms.d.ts.map
+|   |           |   |   |   |       forms.js
+|   |           |   |   |   |       forms.js.map
+|   |           |   |   |   |       manipulation.d.ts
+|   |           |   |   |   |       manipulation.d.ts.map
+|   |           |   |   |   |       manipulation.js
+|   |           |   |   |   |       manipulation.js.map
+|   |           |   |   |   |       traversing.d.ts
+|   |           |   |   |   |       traversing.d.ts.map
+|   |           |   |   |   |       traversing.js
+|   |           |   |   |   |       traversing.js.map
+|   |           |   |   |   |       
+|   |           |   |   |   \---parsers
+|   |           |   |   |           parse5-adapter.d.ts
+|   |           |   |   |           parse5-adapter.d.ts.map
+|   |           |   |   |           parse5-adapter.js
+|   |           |   |   |           parse5-adapter.js.map
+|   |           |   |   |           
+|   |           |   |   \---esm
+|   |           |   |       |   cheerio.d.ts
+|   |           |   |       |   cheerio.d.ts.map
+|   |           |   |       |   cheerio.js
+|   |           |   |       |   cheerio.js.map
+|   |           |   |       |   index.d.ts
+|   |           |   |       |   index.d.ts.map
+|   |           |   |       |   index.js
+|   |           |   |       |   index.js.map
+|   |           |   |       |   load-parse.d.ts
+|   |           |   |       |   load-parse.d.ts.map
+|   |           |   |       |   load-parse.js
+|   |           |   |       |   load-parse.js.map
+|   |           |   |       |   load.d.ts
+|   |           |   |       |   load.d.ts.map
+|   |           |   |       |   load.js
+|   |           |   |       |   load.js.map
+|   |           |   |       |   options.d.ts
+|   |           |   |       |   options.d.ts.map
+|   |           |   |       |   options.js
+|   |           |   |       |   options.js.map
+|   |           |   |       |   package.json
+|   |           |   |       |   parse.d.ts
+|   |           |   |       |   parse.d.ts.map
+|   |           |   |       |   parse.js
+|   |           |   |       |   parse.js.map
+|   |           |   |       |   slim.d.ts
+|   |           |   |       |   slim.d.ts.map
+|   |           |   |       |   slim.js
+|   |           |   |       |   slim.js.map
+|   |           |   |       |   static.d.ts
+|   |           |   |       |   static.d.ts.map
+|   |           |   |       |   static.js
+|   |           |   |       |   static.js.map
+|   |           |   |       |   types.d.ts
+|   |           |   |       |   types.d.ts.map
+|   |           |   |       |   types.js
+|   |           |   |       |   types.js.map
+|   |           |   |       |   utils.d.ts
+|   |           |   |       |   utils.d.ts.map
+|   |           |   |       |   utils.js
+|   |           |   |       |   utils.js.map
+|   |           |   |       |   
+|   |           |   |       +---api
+|   |           |   |       |       attributes.d.ts
+|   |           |   |       |       attributes.d.ts.map
+|   |           |   |       |       attributes.js
+|   |           |   |       |       attributes.js.map
+|   |           |   |       |       css.d.ts
+|   |           |   |       |       css.d.ts.map
+|   |           |   |       |       css.js
+|   |           |   |       |       css.js.map
+|   |           |   |       |       extract.d.ts
+|   |           |   |       |       extract.d.ts.map
+|   |           |   |       |       extract.js
+|   |           |   |       |       extract.js.map
+|   |           |   |       |       forms.d.ts
+|   |           |   |       |       forms.d.ts.map
+|   |           |   |       |       forms.js
+|   |           |   |       |       forms.js.map
+|   |           |   |       |       manipulation.d.ts
+|   |           |   |       |       manipulation.d.ts.map
+|   |           |   |       |       manipulation.js
+|   |           |   |       |       manipulation.js.map
+|   |           |   |       |       traversing.d.ts
+|   |           |   |       |       traversing.d.ts.map
+|   |           |   |       |       traversing.js
+|   |           |   |       |       traversing.js.map
+|   |           |   |       |       
+|   |           |   |       \---parsers
+|   |           |   |               parse5-adapter.d.ts
+|   |           |   |               parse5-adapter.d.ts.map
+|   |           |   |               parse5-adapter.js
+|   |           |   |               parse5-adapter.js.map
+|   |           |   |               
+|   |           |   \---src
+|   |           |       |   cheerio.ts
+|   |           |       |   index-browser.mts
+|   |           |       |   index.ts
+|   |           |       |   load-parse.ts
+|   |           |       |   load.ts
+|   |           |       |   options.ts
+|   |           |       |   parse.ts
+|   |           |       |   slim.ts
+|   |           |       |   static.ts
+|   |           |       |   types.ts
+|   |           |       |   utils.ts
+|   |           |       |   
+|   |           |       +---api
+|   |           |       |       attributes.ts
+|   |           |       |       css.ts
+|   |           |       |       extract.ts
+|   |           |       |       forms.ts
+|   |           |       |       manipulation.ts
+|   |           |       |       traversing.ts
+|   |           |       |       
+|   |           |       \---parsers
+|   |           |               parse5-adapter.ts
+|   |           |               
+|   |           +---cheerio-select
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   README.md
+|   |           |   |   
+|   |           |   \---lib
+|   |           |       |   helpers.d.ts
+|   |           |       |   helpers.d.ts.map
+|   |           |       |   helpers.js
+|   |           |       |   helpers.js.map
+|   |           |       |   index.d.ts
+|   |           |       |   index.d.ts.map
+|   |           |       |   index.js
+|   |           |       |   index.js.map
+|   |           |       |   positionals.d.ts
+|   |           |       |   positionals.d.ts.map
+|   |           |       |   positionals.js
+|   |           |       |   positionals.js.map
+|   |           |       |   
+|   |           |       \---esm
+|   |           |               helpers.d.ts
+|   |           |               helpers.d.ts.map
+|   |           |               helpers.js
+|   |           |               helpers.js.map
+|   |           |               index.d.ts
+|   |           |               index.d.ts.map
+|   |           |               index.js
+|   |           |               index.js.map
+|   |           |               package.json
+|   |           |               positionals.d.ts
+|   |           |               positionals.d.ts.map
+|   |           |               positionals.js
+|   |           |               positionals.js.map
+|   |           |               
+|   |           +---css-select
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   README.md
+|   |           |   |   
+|   |           |   \---lib
+|   |           |       |   attributes.d.ts
+|   |           |       |   attributes.d.ts.map
+|   |           |       |   attributes.js
+|   |           |       |   attributes.js.map
+|   |           |       |   compile.d.ts
+|   |           |       |   compile.d.ts.map
+|   |           |       |   compile.js
+|   |           |       |   compile.js.map
+|   |           |       |   general.d.ts
+|   |           |       |   general.d.ts.map
+|   |           |       |   general.js
+|   |           |       |   general.js.map
+|   |           |       |   index.d.ts
+|   |           |       |   index.d.ts.map
+|   |           |       |   index.js
+|   |           |       |   index.js.map
+|   |           |       |   sort.d.ts
+|   |           |       |   sort.d.ts.map
+|   |           |       |   sort.js
+|   |           |       |   sort.js.map
+|   |           |       |   types.d.ts
+|   |           |       |   types.d.ts.map
+|   |           |       |   types.js
+|   |           |       |   types.js.map
+|   |           |       |   
+|   |           |       +---esm
+|   |           |       |   |   attributes.d.ts
+|   |           |       |   |   attributes.d.ts.map
+|   |           |       |   |   attributes.js
+|   |           |       |   |   attributes.js.map
+|   |           |       |   |   compile.d.ts
+|   |           |       |   |   compile.d.ts.map
+|   |           |       |   |   compile.js
+|   |           |       |   |   compile.js.map
+|   |           |       |   |   general.d.ts
+|   |           |       |   |   general.d.ts.map
+|   |           |       |   |   general.js
+|   |           |       |   |   general.js.map
+|   |           |       |   |   index.d.ts
+|   |           |       |   |   index.d.ts.map
+|   |           |       |   |   index.js
+|   |           |       |   |   index.js.map
+|   |           |       |   |   package.json
+|   |           |       |   |   sort.d.ts
+|   |           |       |   |   sort.d.ts.map
+|   |           |       |   |   sort.js
+|   |           |       |   |   sort.js.map
+|   |           |       |   |   types.d.ts
+|   |           |       |   |   types.d.ts.map
+|   |           |       |   |   types.js
+|   |           |       |   |   types.js.map
+|   |           |       |   |   
+|   |           |       |   +---helpers
+|   |           |       |   |       cache.d.ts
+|   |           |       |   |       cache.d.ts.map
+|   |           |       |   |       cache.js
+|   |           |       |   |       cache.js.map
+|   |           |       |   |       querying.d.ts
+|   |           |       |   |       querying.d.ts.map
+|   |           |       |   |       querying.js
+|   |           |       |   |       querying.js.map
+|   |           |       |   |       selectors.d.ts
+|   |           |       |   |       selectors.d.ts.map
+|   |           |       |   |       selectors.js
+|   |           |       |   |       selectors.js.map
+|   |           |       |   |       
+|   |           |       |   \---pseudo-selectors
+|   |           |       |           aliases.d.ts
+|   |           |       |           aliases.d.ts.map
+|   |           |       |           aliases.js
+|   |           |       |           aliases.js.map
+|   |           |       |           filters.d.ts
+|   |           |       |           filters.d.ts.map
+|   |           |       |           filters.js
+|   |           |       |           filters.js.map
+|   |           |       |           index.d.ts
+|   |           |       |           index.d.ts.map
+|   |           |       |           index.js
+|   |           |       |           index.js.map
+|   |           |       |           pseudos.d.ts
+|   |           |       |           pseudos.d.ts.map
+|   |           |       |           pseudos.js
+|   |           |       |           pseudos.js.map
+|   |           |       |           subselects.d.ts
+|   |           |       |           subselects.d.ts.map
+|   |           |       |           subselects.js
+|   |           |       |           subselects.js.map
+|   |           |       |           
+|   |           |       +---helpers
+|   |           |       |       cache.d.ts
+|   |           |       |       cache.d.ts.map
+|   |           |       |       cache.js
+|   |           |       |       cache.js.map
+|   |           |       |       querying.d.ts
+|   |           |       |       querying.d.ts.map
+|   |           |       |       querying.js
+|   |           |       |       querying.js.map
+|   |           |       |       selectors.d.ts
+|   |           |       |       selectors.d.ts.map
+|   |           |       |       selectors.js
+|   |           |       |       selectors.js.map
+|   |           |       |       
+|   |           |       \---pseudo-selectors
+|   |           |               aliases.d.ts
+|   |           |               aliases.d.ts.map
+|   |           |               aliases.js
+|   |           |               aliases.js.map
+|   |           |               filters.d.ts
+|   |           |               filters.d.ts.map
+|   |           |               filters.js
+|   |           |               filters.js.map
+|   |           |               index.d.ts
+|   |           |               index.d.ts.map
+|   |           |               index.js
+|   |           |               index.js.map
+|   |           |               pseudos.d.ts
+|   |           |               pseudos.d.ts.map
+|   |           |               pseudos.js
+|   |           |               pseudos.js.map
+|   |           |               subselects.d.ts
+|   |           |               subselects.d.ts.map
+|   |           |               subselects.js
+|   |           |               subselects.js.map
+|   |           |               
+|   |           +---css-what
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   readme.md
+|   |           |   |   
+|   |           |   \---lib
+|   |           |       +---commonjs
+|   |           |       |       index.d.ts
+|   |           |       |       index.d.ts.map
+|   |           |       |       index.js
+|   |           |       |       parse.d.ts
+|   |           |       |       parse.d.ts.map
+|   |           |       |       parse.js
+|   |           |       |       stringify.d.ts
+|   |           |       |       stringify.d.ts.map
+|   |           |       |       stringify.js
+|   |           |       |       types.d.ts
+|   |           |       |       types.d.ts.map
+|   |           |       |       types.js
+|   |           |       |       
+|   |           |       \---es
+|   |           |               index.d.ts
+|   |           |               index.d.ts.map
+|   |           |               index.js
+|   |           |               parse.d.ts
+|   |           |               parse.d.ts.map
+|   |           |               parse.js
+|   |           |               stringify.d.ts
+|   |           |               stringify.d.ts.map
+|   |           |               stringify.js
+|   |           |               types.d.ts
+|   |           |               types.d.ts.map
+|   |           |               types.js
+|   |           |               
+|   |           +---dom-serializer
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   README.md
+|   |           |   |   
+|   |           |   \---lib
+|   |           |       |   foreignNames.d.ts
+|   |           |       |   foreignNames.d.ts.map
+|   |           |       |   foreignNames.js
+|   |           |       |   index.d.ts
+|   |           |       |   index.d.ts.map
+|   |           |       |   index.js
+|   |           |       |   
+|   |           |       \---esm
+|   |           |               foreignNames.d.ts
+|   |           |               foreignNames.d.ts.map
+|   |           |               foreignNames.js
+|   |           |               index.d.ts
+|   |           |               index.d.ts.map
+|   |           |               index.js
+|   |           |               package.json
+|   |           |               
+|   |           +---domelementtype
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   readme.md
+|   |           |   |   
+|   |           |   \---lib
+|   |           |       |   index.d.ts
+|   |           |       |   index.d.ts.map
+|   |           |       |   index.js
+|   |           |       |   
+|   |           |       \---esm
+|   |           |               index.d.ts
+|   |           |               index.d.ts.map
+|   |           |               index.js
+|   |           |               package.json
+|   |           |               
+|   |           +---domhandler
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   readme.md
+|   |           |   |   
+|   |           |   \---lib
+|   |           |       |   index.d.ts
+|   |           |       |   index.d.ts.map
+|   |           |       |   index.js
+|   |           |       |   node.d.ts
+|   |           |       |   node.d.ts.map
+|   |           |       |   node.js
+|   |           |       |   
+|   |           |       \---esm
+|   |           |               index.d.ts
+|   |           |               index.d.ts.map
+|   |           |               index.js
+|   |           |               node.d.ts
+|   |           |               node.d.ts.map
+|   |           |               node.js
+|   |           |               package.json
+|   |           |               
+|   |           +---domutils
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   readme.md
+|   |           |   |   
+|   |           |   \---lib
+|   |           |       |   feeds.d.ts
+|   |           |       |   feeds.d.ts.map
+|   |           |       |   feeds.js
+|   |           |       |   feeds.js.map
+|   |           |       |   helpers.d.ts
+|   |           |       |   helpers.d.ts.map
+|   |           |       |   helpers.js
+|   |           |       |   helpers.js.map
+|   |           |       |   index.d.ts
+|   |           |       |   index.d.ts.map
+|   |           |       |   index.js
+|   |           |       |   index.js.map
+|   |           |       |   legacy.d.ts
+|   |           |       |   legacy.d.ts.map
+|   |           |       |   legacy.js
+|   |           |       |   legacy.js.map
+|   |           |       |   manipulation.d.ts
+|   |           |       |   manipulation.d.ts.map
+|   |           |       |   manipulation.js
+|   |           |       |   manipulation.js.map
+|   |           |       |   querying.d.ts
+|   |           |       |   querying.d.ts.map
+|   |           |       |   querying.js
+|   |           |       |   querying.js.map
+|   |           |       |   stringify.d.ts
+|   |           |       |   stringify.d.ts.map
+|   |           |       |   stringify.js
+|   |           |       |   stringify.js.map
+|   |           |       |   traversal.d.ts
+|   |           |       |   traversal.d.ts.map
+|   |           |       |   traversal.js
+|   |           |       |   traversal.js.map
+|   |           |       |   
+|   |           |       \---esm
+|   |           |               feeds.d.ts
+|   |           |               feeds.d.ts.map
+|   |           |               feeds.js
+|   |           |               feeds.js.map
+|   |           |               helpers.d.ts
+|   |           |               helpers.d.ts.map
+|   |           |               helpers.js
+|   |           |               helpers.js.map
+|   |           |               index.d.ts
+|   |           |               index.d.ts.map
+|   |           |               index.js
+|   |           |               index.js.map
+|   |           |               legacy.d.ts
+|   |           |               legacy.d.ts.map
+|   |           |               legacy.js
+|   |           |               legacy.js.map
+|   |           |               manipulation.d.ts
+|   |           |               manipulation.d.ts.map
+|   |           |               manipulation.js
+|   |           |               manipulation.js.map
+|   |           |               package.json
+|   |           |               querying.d.ts
+|   |           |               querying.d.ts.map
+|   |           |               querying.js
+|   |           |               querying.js.map
+|   |           |               stringify.d.ts
+|   |           |               stringify.d.ts.map
+|   |           |               stringify.js
+|   |           |               stringify.js.map
+|   |           |               traversal.d.ts
+|   |           |               traversal.d.ts.map
+|   |           |               traversal.js
+|   |           |               traversal.js.map
+|   |           |               
+|   |           +---encoding-sniffer
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   README.md
+|   |           |   |   sniffer.d.ts
+|   |           |   |   sniffer.js
+|   |           |   |   
+|   |           |   \---dist
+|   |           |       +---commonjs
+|   |           |       |       index.d.ts
+|   |           |       |       index.d.ts.map
+|   |           |       |       index.js
+|   |           |       |       index.js.map
+|   |           |       |       package.json
+|   |           |       |       sniffer.d.ts
+|   |           |       |       sniffer.d.ts.map
+|   |           |       |       sniffer.js
+|   |           |       |       sniffer.js.map
+|   |           |       |       
+|   |           |       \---esm
+|   |           |               index.d.ts
+|   |           |               index.d.ts.map
+|   |           |               index.js
+|   |           |               index.js.map
+|   |           |               package.json
+|   |           |               sniffer.d.ts
+|   |           |               sniffer.d.ts.map
+|   |           |               sniffer.js
+|   |           |               sniffer.js.map
+|   |           |               
+|   |           +---entities
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   readme.md
+|   |           |   |   
+|   |           |   \---lib
+|   |           |       |   decode.d.ts
+|   |           |       |   decode.d.ts.map
+|   |           |       |   decode.js
+|   |           |       |   decode.js.map
+|   |           |       |   decode_codepoint.d.ts
+|   |           |       |   decode_codepoint.d.ts.map
+|   |           |       |   decode_codepoint.js
+|   |           |       |   decode_codepoint.js.map
+|   |           |       |   encode.d.ts
+|   |           |       |   encode.d.ts.map
+|   |           |       |   encode.js
+|   |           |       |   encode.js.map
+|   |           |       |   escape.d.ts
+|   |           |       |   escape.d.ts.map
+|   |           |       |   escape.js
+|   |           |       |   escape.js.map
+|   |           |       |   index.d.ts
+|   |           |       |   index.d.ts.map
+|   |           |       |   index.js
+|   |           |       |   index.js.map
+|   |           |       |   
+|   |           |       +---esm
+|   |           |       |   |   decode.d.ts
+|   |           |       |   |   decode.d.ts.map
+|   |           |       |   |   decode.js
+|   |           |       |   |   decode.js.map
+|   |           |       |   |   decode_codepoint.d.ts
+|   |           |       |   |   decode_codepoint.d.ts.map
+|   |           |       |   |   decode_codepoint.js
+|   |           |       |   |   decode_codepoint.js.map
+|   |           |       |   |   encode.d.ts
+|   |           |       |   |   encode.d.ts.map
+|   |           |       |   |   encode.js
+|   |           |       |   |   encode.js.map
+|   |           |       |   |   escape.d.ts
+|   |           |       |   |   escape.d.ts.map
+|   |           |       |   |   escape.js
+|   |           |       |   |   escape.js.map
+|   |           |       |   |   index.d.ts
+|   |           |       |   |   index.d.ts.map
+|   |           |       |   |   index.js
+|   |           |       |   |   index.js.map
+|   |           |       |   |   package.json
+|   |           |       |   |   
+|   |           |       |   \---generated
+|   |           |       |           decode-data-html.d.ts
+|   |           |       |           decode-data-html.d.ts.map
+|   |           |       |           decode-data-html.js
+|   |           |       |           decode-data-html.js.map
+|   |           |       |           decode-data-xml.d.ts
+|   |           |       |           decode-data-xml.d.ts.map
+|   |           |       |           decode-data-xml.js
+|   |           |       |           decode-data-xml.js.map
+|   |           |       |           encode-html.d.ts
+|   |           |       |           encode-html.d.ts.map
+|   |           |       |           encode-html.js
+|   |           |       |           encode-html.js.map
+|   |           |       |           
+|   |           |       \---generated
+|   |           |               decode-data-html.d.ts
+|   |           |               decode-data-html.d.ts.map
+|   |           |               decode-data-html.js
+|   |           |               decode-data-html.js.map
+|   |           |               decode-data-xml.d.ts
+|   |           |               decode-data-xml.d.ts.map
+|   |           |               decode-data-xml.js
+|   |           |               decode-data-xml.js.map
+|   |           |               encode-html.d.ts
+|   |           |               encode-html.d.ts.map
+|   |           |               encode-html.js
+|   |           |               encode-html.js.map
+|   |           |               
+|   |           +---htmlparser2
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   README.md
+|   |           |   |   WritableStream.js
+|   |           |   |   
+|   |           |   +---dist
+|   |           |   |   +---commonjs
+|   |           |   |   |       index.d.ts
+|   |           |   |   |       index.d.ts.map
+|   |           |   |   |       index.js
+|   |           |   |   |       index.js.map
+|   |           |   |   |       package.json
+|   |           |   |   |       Parser.d.ts
+|   |           |   |   |       Parser.d.ts.map
+|   |           |   |   |       Parser.js
+|   |           |   |   |       Parser.js.map
+|   |           |   |   |       Tokenizer.d.ts
+|   |           |   |   |       Tokenizer.d.ts.map
+|   |           |   |   |       Tokenizer.js
+|   |           |   |   |       Tokenizer.js.map
+|   |           |   |   |       WritableStream.d.ts
+|   |           |   |   |       WritableStream.d.ts.map
+|   |           |   |   |       WritableStream.js
+|   |           |   |   |       WritableStream.js.map
+|   |           |   |   |       
+|   |           |   |   \---esm
+|   |           |   |           index.d.ts
+|   |           |   |           index.d.ts.map
+|   |           |   |           index.js
+|   |           |   |           index.js.map
+|   |           |   |           package.json
+|   |           |   |           Parser.d.ts
+|   |           |   |           Parser.d.ts.map
+|   |           |   |           Parser.js
+|   |           |   |           Parser.js.map
+|   |           |   |           Tokenizer.d.ts
+|   |           |   |           Tokenizer.d.ts.map
+|   |           |   |           Tokenizer.js
+|   |           |   |           Tokenizer.js.map
+|   |           |   |           WritableStream.d.ts
+|   |           |   |           WritableStream.d.ts.map
+|   |           |   |           WritableStream.js
+|   |           |   |           WritableStream.js.map
+|   |           |   |           
+|   |           |   +---node_modules
+|   |           |   |   \---entities
+|   |           |   |       |   decode.d.ts
+|   |           |   |       |   decode.js
+|   |           |   |       |   escape.d.ts
+|   |           |   |       |   escape.js
+|   |           |   |       |   LICENSE
+|   |           |   |       |   package.json
+|   |           |   |       |   readme.md
+|   |           |   |       |   
+|   |           |   |       +---dist
+|   |           |   |       |   +---commonjs
+|   |           |   |       |   |   |   decode-codepoint.d.ts
+|   |           |   |       |   |   |   decode-codepoint.d.ts.map
+|   |           |   |       |   |   |   decode-codepoint.js
+|   |           |   |       |   |   |   decode-codepoint.js.map
+|   |           |   |       |   |   |   decode.d.ts
+|   |           |   |       |   |   |   decode.d.ts.map
+|   |           |   |       |   |   |   decode.js
+|   |           |   |       |   |   |   decode.js.map
+|   |           |   |       |   |   |   encode.d.ts
+|   |           |   |       |   |   |   encode.d.ts.map
+|   |           |   |       |   |   |   encode.js
+|   |           |   |       |   |   |   encode.js.map
+|   |           |   |       |   |   |   escape.d.ts
+|   |           |   |       |   |   |   escape.d.ts.map
+|   |           |   |       |   |   |   escape.js
+|   |           |   |       |   |   |   escape.js.map
+|   |           |   |       |   |   |   index.d.ts
+|   |           |   |       |   |   |   index.d.ts.map
+|   |           |   |       |   |   |   index.js
+|   |           |   |       |   |   |   index.js.map
+|   |           |   |       |   |   |   package.json
+|   |           |   |       |   |   |   
+|   |           |   |       |   |   +---generated
+|   |           |   |       |   |   |       decode-data-html.d.ts
+|   |           |   |       |   |   |       decode-data-html.d.ts.map
+|   |           |   |       |   |   |       decode-data-html.js
+|   |           |   |       |   |   |       decode-data-html.js.map
+|   |           |   |       |   |   |       decode-data-xml.d.ts
+|   |           |   |       |   |   |       decode-data-xml.d.ts.map
+|   |           |   |       |   |   |       decode-data-xml.js
+|   |           |   |       |   |   |       decode-data-xml.js.map
+|   |           |   |       |   |   |       encode-html.d.ts
+|   |           |   |       |   |   |       encode-html.d.ts.map
+|   |           |   |       |   |   |       encode-html.js
+|   |           |   |       |   |   |       encode-html.js.map
+|   |           |   |       |   |   |       
+|   |           |   |       |   |   \---internal
+|   |           |   |       |   |           bin-trie-flags.d.ts
+|   |           |   |       |   |           bin-trie-flags.d.ts.map
+|   |           |   |       |   |           bin-trie-flags.js
+|   |           |   |       |   |           bin-trie-flags.js.map
+|   |           |   |       |   |           decode-shared.d.ts
+|   |           |   |       |   |           decode-shared.d.ts.map
+|   |           |   |       |   |           decode-shared.js
+|   |           |   |       |   |           decode-shared.js.map
+|   |           |   |       |   |           encode-shared.d.ts
+|   |           |   |       |   |           encode-shared.d.ts.map
+|   |           |   |       |   |           encode-shared.js
+|   |           |   |       |   |           encode-shared.js.map
+|   |           |   |       |   |           
+|   |           |   |       |   \---esm
+|   |           |   |       |       |   decode-codepoint.d.ts
+|   |           |   |       |       |   decode-codepoint.d.ts.map
+|   |           |   |       |       |   decode-codepoint.js
+|   |           |   |       |       |   decode-codepoint.js.map
+|   |           |   |       |       |   decode.d.ts
+|   |           |   |       |       |   decode.d.ts.map
+|   |           |   |       |       |   decode.js
+|   |           |   |       |       |   decode.js.map
+|   |           |   |       |       |   encode.d.ts
+|   |           |   |       |       |   encode.d.ts.map
+|   |           |   |       |       |   encode.js
+|   |           |   |       |       |   encode.js.map
+|   |           |   |       |       |   escape.d.ts
+|   |           |   |       |       |   escape.d.ts.map
+|   |           |   |       |       |   escape.js
+|   |           |   |       |       |   escape.js.map
+|   |           |   |       |       |   index.d.ts
+|   |           |   |       |       |   index.d.ts.map
+|   |           |   |       |       |   index.js
+|   |           |   |       |       |   index.js.map
+|   |           |   |       |       |   package.json
+|   |           |   |       |       |   
+|   |           |   |       |       +---generated
+|   |           |   |       |       |       decode-data-html.d.ts
+|   |           |   |       |       |       decode-data-html.d.ts.map
+|   |           |   |       |       |       decode-data-html.js
+|   |           |   |       |       |       decode-data-html.js.map
+|   |           |   |       |       |       decode-data-xml.d.ts
+|   |           |   |       |       |       decode-data-xml.d.ts.map
+|   |           |   |       |       |       decode-data-xml.js
+|   |           |   |       |       |       decode-data-xml.js.map
+|   |           |   |       |       |       encode-html.d.ts
+|   |           |   |       |       |       encode-html.d.ts.map
+|   |           |   |       |       |       encode-html.js
+|   |           |   |       |       |       encode-html.js.map
+|   |           |   |       |       |       
+|   |           |   |       |       \---internal
+|   |           |   |       |               bin-trie-flags.d.ts
+|   |           |   |       |               bin-trie-flags.d.ts.map
+|   |           |   |       |               bin-trie-flags.js
+|   |           |   |       |               bin-trie-flags.js.map
+|   |           |   |       |               decode-shared.d.ts
+|   |           |   |       |               decode-shared.d.ts.map
+|   |           |   |       |               decode-shared.js
+|   |           |   |       |               decode-shared.js.map
+|   |           |   |       |               encode-shared.d.ts
+|   |           |   |       |               encode-shared.d.ts.map
+|   |           |   |       |               encode-shared.js
+|   |           |   |       |               encode-shared.js.map
+|   |           |   |       |               
+|   |           |   |       \---src
+|   |           |   |           |   decode-codepoint.ts
+|   |           |   |           |   decode.ts
+|   |           |   |           |   encode.ts
+|   |           |   |           |   escape.ts
+|   |           |   |           |   index.ts
+|   |           |   |           |   
+|   |           |   |           +---generated
+|   |           |   |           |       .eslintrc.json
+|   |           |   |           |       decode-data-html.ts
+|   |           |   |           |       decode-data-xml.ts
+|   |           |   |           |       encode-html.ts
+|   |           |   |           |       
+|   |           |   |           \---internal
+|   |           |   |                   bin-trie-flags.ts
+|   |           |   |                   decode-shared.ts
+|   |           |   |                   encode-shared.ts
+|   |           |   |                   
+|   |           |   \---src
+|   |           |           index.ts
+|   |           |           Parser.ts
+|   |           |           Tokenizer.ts
+|   |           |           WritableStream.ts
+|   |           |           
+|   |           +---iconv-lite
+|   |           |   |   Changelog.md
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   README.md
+|   |           |   |   
+|   |           |   +---.github
+|   |           |   |       dependabot.yml
+|   |           |   |       
+|   |           |   +---.idea
+|   |           |   |   |   iconv-lite.iml
+|   |           |   |   |   modules.xml
+|   |           |   |   |   vcs.xml
+|   |           |   |   |   
+|   |           |   |   +---codeStyles
+|   |           |   |   |       codeStyleConfig.xml
+|   |           |   |   |       Project.xml
+|   |           |   |   |       
+|   |           |   |   \---inspectionProfiles
+|   |           |   |           Project_Default.xml
+|   |           |   |           
+|   |           |   +---encodings
+|   |           |   |   |   dbcs-codec.js
+|   |           |   |   |   dbcs-data.js
+|   |           |   |   |   index.js
+|   |           |   |   |   internal.js
+|   |           |   |   |   sbcs-codec.js
+|   |           |   |   |   sbcs-data-generated.js
+|   |           |   |   |   sbcs-data.js
+|   |           |   |   |   utf16.js
+|   |           |   |   |   utf32.js
+|   |           |   |   |   utf7.js
+|   |           |   |   |   
+|   |           |   |   \---tables
+|   |           |   |           big5-added.json
+|   |           |   |           cp936.json
+|   |           |   |           cp949.json
+|   |           |   |           cp950.json
+|   |           |   |           eucjp.json
+|   |           |   |           gb18030-ranges.json
+|   |           |   |           gbk-added.json
+|   |           |   |           shiftjis.json
+|   |           |   |           
+|   |           |   \---lib
+|   |           |           bom-handling.js
+|   |           |           index.d.ts
+|   |           |           index.js
+|   |           |           streams.js
+|   |           |           
+|   |           +---nth-check
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   README.md
+|   |           |   |   
+|   |           |   \---lib
+|   |           |       |   compile.d.ts
+|   |           |       |   compile.d.ts.map
+|   |           |       |   compile.js
+|   |           |       |   compile.js.map
+|   |           |       |   index.d.ts
+|   |           |       |   index.d.ts.map
+|   |           |       |   index.js
+|   |           |       |   index.js.map
+|   |           |       |   parse.d.ts
+|   |           |       |   parse.d.ts.map
+|   |           |       |   parse.js
+|   |           |       |   parse.js.map
+|   |           |       |   
+|   |           |       \---esm
+|   |           |               compile.d.ts
+|   |           |               compile.d.ts.map
+|   |           |               compile.js
+|   |           |               compile.js.map
+|   |           |               index.d.ts
+|   |           |               index.d.ts.map
+|   |           |               index.js
+|   |           |               index.js.map
+|   |           |               package.json
+|   |           |               parse.d.ts
+|   |           |               parse.d.ts.map
+|   |           |               parse.js
+|   |           |               parse.js.map
+|   |           |               
+|   |           +---parse5
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   README.md
+|   |           |   |   
+|   |           |   +---dist
+|   |           |   |   |   index.d.ts
+|   |           |   |   |   index.js
+|   |           |   |   |   
+|   |           |   |   +---cjs
+|   |           |   |   |   |   index.d.ts
+|   |           |   |   |   |   index.js
+|   |           |   |   |   |   package.json
+|   |           |   |   |   |   
+|   |           |   |   |   +---common
+|   |           |   |   |   |       doctype.d.ts
+|   |           |   |   |   |       doctype.js
+|   |           |   |   |   |       error-codes.d.ts
+|   |           |   |   |   |       error-codes.js
+|   |           |   |   |   |       foreign-content.d.ts
+|   |           |   |   |   |       foreign-content.js
+|   |           |   |   |   |       html.d.ts
+|   |           |   |   |   |       html.js
+|   |           |   |   |   |       token.d.ts
+|   |           |   |   |   |       token.js
+|   |           |   |   |   |       unicode.d.ts
+|   |           |   |   |   |       unicode.js
+|   |           |   |   |   |       
+|   |           |   |   |   +---parser
+|   |           |   |   |   |       formatting-element-list.d.ts
+|   |           |   |   |   |       formatting-element-list.js
+|   |           |   |   |   |       index.d.ts
+|   |           |   |   |   |       index.js
+|   |           |   |   |   |       open-element-stack.d.ts
+|   |           |   |   |   |       open-element-stack.js
+|   |           |   |   |   |       
+|   |           |   |   |   +---serializer
+|   |           |   |   |   |       index.d.ts
+|   |           |   |   |   |       index.js
+|   |           |   |   |   |       
+|   |           |   |   |   +---tokenizer
+|   |           |   |   |   |       index.d.ts
+|   |           |   |   |   |       index.js
+|   |           |   |   |   |       preprocessor.d.ts
+|   |           |   |   |   |       preprocessor.js
+|   |           |   |   |   |       
+|   |           |   |   |   \---tree-adapters
+|   |           |   |   |           default.d.ts
+|   |           |   |   |           default.js
+|   |           |   |   |           interface.d.ts
+|   |           |   |   |           interface.js
+|   |           |   |   |           
+|   |           |   |   +---common
+|   |           |   |   |       doctype.d.ts
+|   |           |   |   |       doctype.js
+|   |           |   |   |       error-codes.d.ts
+|   |           |   |   |       error-codes.js
+|   |           |   |   |       foreign-content.d.ts
+|   |           |   |   |       foreign-content.js
+|   |           |   |   |       html.d.ts
+|   |           |   |   |       html.js
+|   |           |   |   |       token.d.ts
+|   |           |   |   |       token.js
+|   |           |   |   |       unicode.d.ts
+|   |           |   |   |       unicode.js
+|   |           |   |   |       
+|   |           |   |   +---parser
+|   |           |   |   |       formatting-element-list.d.ts
+|   |           |   |   |       formatting-element-list.js
+|   |           |   |   |       index.d.ts
+|   |           |   |   |       index.js
+|   |           |   |   |       open-element-stack.d.ts
+|   |           |   |   |       open-element-stack.js
+|   |           |   |   |       
+|   |           |   |   +---serializer
+|   |           |   |   |       index.d.ts
+|   |           |   |   |       index.js
+|   |           |   |   |       
+|   |           |   |   +---tokenizer
+|   |           |   |   |       index.d.ts
+|   |           |   |   |       index.js
+|   |           |   |   |       preprocessor.d.ts
+|   |           |   |   |       preprocessor.js
+|   |           |   |   |       
+|   |           |   |   \---tree-adapters
+|   |           |   |           default.d.ts
+|   |           |   |           default.js
+|   |           |   |           interface.d.ts
+|   |           |   |           interface.js
+|   |           |   |           
+|   |           |   \---node_modules
+|   |           |       \---entities
+|   |           |           |   decode.d.ts
+|   |           |           |   decode.js
+|   |           |           |   escape.d.ts
+|   |           |           |   escape.js
+|   |           |           |   LICENSE
+|   |           |           |   package.json
+|   |           |           |   readme.md
+|   |           |           |   
+|   |           |           +---dist
+|   |           |           |   +---commonjs
+|   |           |           |   |   |   decode-codepoint.d.ts
+|   |           |           |   |   |   decode-codepoint.d.ts.map
+|   |           |           |   |   |   decode-codepoint.js
+|   |           |           |   |   |   decode-codepoint.js.map
+|   |           |           |   |   |   decode.d.ts
+|   |           |           |   |   |   decode.d.ts.map
+|   |           |           |   |   |   decode.js
+|   |           |           |   |   |   decode.js.map
+|   |           |           |   |   |   encode.d.ts
+|   |           |           |   |   |   encode.d.ts.map
+|   |           |           |   |   |   encode.js
+|   |           |           |   |   |   encode.js.map
+|   |           |           |   |   |   escape.d.ts
+|   |           |           |   |   |   escape.d.ts.map
+|   |           |           |   |   |   escape.js
+|   |           |           |   |   |   escape.js.map
+|   |           |           |   |   |   index.d.ts
+|   |           |           |   |   |   index.d.ts.map
+|   |           |           |   |   |   index.js
+|   |           |           |   |   |   index.js.map
+|   |           |           |   |   |   package.json
+|   |           |           |   |   |   
+|   |           |           |   |   \---generated
+|   |           |           |   |           decode-data-html.d.ts
+|   |           |           |   |           decode-data-html.d.ts.map
+|   |           |           |   |           decode-data-html.js
+|   |           |           |   |           decode-data-html.js.map
+|   |           |           |   |           decode-data-xml.d.ts
+|   |           |           |   |           decode-data-xml.d.ts.map
+|   |           |           |   |           decode-data-xml.js
+|   |           |           |   |           decode-data-xml.js.map
+|   |           |           |   |           encode-html.d.ts
+|   |           |           |   |           encode-html.d.ts.map
+|   |           |           |   |           encode-html.js
+|   |           |           |   |           encode-html.js.map
+|   |           |           |   |           
+|   |           |           |   \---esm
+|   |           |           |       |   decode-codepoint.d.ts
+|   |           |           |       |   decode-codepoint.d.ts.map
+|   |           |           |       |   decode-codepoint.js
+|   |           |           |       |   decode-codepoint.js.map
+|   |           |           |       |   decode.d.ts
+|   |           |           |       |   decode.d.ts.map
+|   |           |           |       |   decode.js
+|   |           |           |       |   decode.js.map
+|   |           |           |       |   encode.d.ts
+|   |           |           |       |   encode.d.ts.map
+|   |           |           |       |   encode.js
+|   |           |           |       |   encode.js.map
+|   |           |           |       |   escape.d.ts
+|   |           |           |       |   escape.d.ts.map
+|   |           |           |       |   escape.js
+|   |           |           |       |   escape.js.map
+|   |           |           |       |   index.d.ts
+|   |           |           |       |   index.d.ts.map
+|   |           |           |       |   index.js
+|   |           |           |       |   index.js.map
+|   |           |           |       |   package.json
+|   |           |           |       |   
+|   |           |           |       \---generated
+|   |           |           |               decode-data-html.d.ts
+|   |           |           |               decode-data-html.d.ts.map
+|   |           |           |               decode-data-html.js
+|   |           |           |               decode-data-html.js.map
+|   |           |           |               decode-data-xml.d.ts
+|   |           |           |               decode-data-xml.d.ts.map
+|   |           |           |               decode-data-xml.js
+|   |           |           |               decode-data-xml.js.map
+|   |           |           |               encode-html.d.ts
+|   |           |           |               encode-html.d.ts.map
+|   |           |           |               encode-html.js
+|   |           |           |               encode-html.js.map
+|   |           |           |               
+|   |           |           \---src
+|   |           |               |   decode-codepoint.ts
+|   |           |               |   decode.spec.ts
+|   |           |               |   decode.ts
+|   |           |               |   encode.spec.ts
+|   |           |               |   encode.ts
+|   |           |               |   escape.spec.ts
+|   |           |               |   escape.ts
+|   |           |               |   index.spec.ts
+|   |           |               |   index.ts
+|   |           |               |   
+|   |           |               \---generated
+|   |           |                       .eslintrc.json
+|   |           |                       decode-data-html.ts
+|   |           |                       decode-data-xml.ts
+|   |           |                       encode-html.ts
+|   |           |                       
+|   |           +---parse5-htmlparser2-tree-adapter
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   README.md
+|   |           |   |   
+|   |           |   \---dist
+|   |           |       |   index.d.ts
+|   |           |       |   index.js
+|   |           |       |   
+|   |           |       \---cjs
+|   |           |               index.d.ts
+|   |           |               index.js
+|   |           |               package.json
+|   |           |               
+|   |           +---parse5-parser-stream
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   README.md
+|   |           |   |   
+|   |           |   \---dist
+|   |           |       |   index.d.ts
+|   |           |       |   index.js
+|   |           |       |   
+|   |           |       \---cjs
+|   |           |               index.d.ts
+|   |           |               index.js
+|   |           |               package.json
+|   |           |               
+|   |           +---safer-buffer
+|   |           |       dangerous.js
+|   |           |       LICENSE
+|   |           |       package.json
+|   |           |       Porting-Buffer.md
+|   |           |       Readme.md
+|   |           |       safer.js
+|   |           |       tests.js
+|   |           |       
+|   |           +---undici
+|   |           |   |   index-fetch.js
+|   |           |   |   index.d.ts
+|   |           |   |   index.js
+|   |           |   |   LICENSE
+|   |           |   |   package.json
+|   |           |   |   README.md
+|   |           |   |   
+|   |           |   +---docs
+|   |           |   |   \---docs
+|   |           |   |       +---api
+|   |           |   |       |       Agent.md
+|   |           |   |       |       api-lifecycle.md
+|   |           |   |       |       BalancedPool.md
+|   |           |   |       |       CacheStorage.md
+|   |           |   |       |       CacheStore.md
+|   |           |   |       |       Client.md
+|   |           |   |       |       ClientStats.md
+|   |           |   |       |       Connector.md
+|   |           |   |       |       ContentType.md
+|   |           |   |       |       Cookies.md
+|   |           |   |       |       Debug.md
+|   |           |   |       |       DiagnosticsChannel.md
+|   |           |   |       |       Dispatcher.md
+|   |           |   |       |       EnvHttpProxyAgent.md
+|   |           |   |       |       Errors.md
+|   |           |   |       |       EventSource.md
+|   |           |   |       |       Fetch.md
+|   |           |   |       |       GlobalInstallation.md
+|   |           |   |       |       H2CClient.md
+|   |           |   |       |       MockAgent.md
+|   |           |   |       |       MockCallHistory.md
+|   |           |   |       |       MockCallHistoryLog.md
+|   |           |   |       |       MockClient.md
+|   |           |   |       |       MockErrors.md
+|   |           |   |       |       MockPool.md
+|   |           |   |       |       Pool.md
+|   |           |   |       |       PoolStats.md
+|   |           |   |       |       ProxyAgent.md
+|   |           |   |       |       RedirectHandler.md
+|   |           |   |       |       RetryAgent.md
+|   |           |   |       |       RetryHandler.md
+|   |           |   |       |       RoundRobinPool.md
+|   |           |   |       |       SnapshotAgent.md
+|   |           |   |       |       Socks5ProxyAgent.md
+|   |           |   |       |       Util.md
+|   |           |   |       |       WebSocket.md
+|   |           |   |       |       
+|   |           |   |       \---best-practices
+|   |           |   |               client-certificate.md
+|   |           |   |               crawling.md
+|   |           |   |               mocking-request.md
+|   |           |   |               proxy.md
+|   |           |   |               undici-vs-builtin-fetch.md
+|   |           |   |               writing-tests.md
+|   |           |   |               
+|   |           |   +---lib
+|   |           |   |   |   global.js
+|   |           |   |   |   
+|   |           |   |   +---api
+|   |           |   |   |       abort-signal.js
+|   |           |   |   |       api-connect.js
+|   |           |   |   |       api-pipeline.js
+|   |           |   |   |       api-request.js
+|   |           |   |   |       api-stream.js
+|   |           |   |   |       api-upgrade.js
+|   |           |   |   |       index.js
+|   |           |   |   |       readable.js
+|   |           |   |   |       
+|   |           |   |   +---cache
+|   |           |   |   |       memory-cache-store.js
+|   |           |   |   |       sqlite-cache-store.js
+|   |           |   |   |       
+|   |           |   |   +---core
+|   |           |   |   |       connect.js
+|   |           |   |   |       constants.js
+|   |           |   |   |       diagnostics.js
+|   |           |   |   |       errors.js
+|   |           |   |   |       request.js
+|   |           |   |   |       socks5-client.js
+|   |           |   |   |       socks5-utils.js
+|   |           |   |   |       symbols.js
+|   |           |   |   |       tree.js
+|   |           |   |   |       util.js
+|   |           |   |   |       
+|   |           |   |   +---dispatcher
+|   |           |   |   |       agent.js
+|   |           |   |   |       balanced-pool.js
+|   |           |   |   |       client-h1.js
+|   |           |   |   |       client-h2.js
+|   |           |   |   |       client.js
+|   |           |   |   |       dispatcher-base.js
+|   |           |   |   |       dispatcher.js
+|   |           |   |   |       env-http-proxy-agent.js
+|   |           |   |   |       fixed-queue.js
+|   |           |   |   |       h2c-client.js
+|   |           |   |   |       pool-base.js
+|   |           |   |   |       pool.js
+|   |           |   |   |       proxy-agent.js
+|   |           |   |   |       retry-agent.js
+|   |           |   |   |       round-robin-pool.js
+|   |           |   |   |       socks5-proxy-agent.js
+|   |           |   |   |       
+|   |           |   |   +---encoding
+|   |           |   |   |       index.js
+|   |           |   |   |       
+|   |           |   |   +---handler
+|   |           |   |   |       cache-handler.js
+|   |           |   |   |       cache-revalidation-handler.js
+|   |           |   |   |       decorator-handler.js
+|   |           |   |   |       deduplication-handler.js
+|   |           |   |   |       redirect-handler.js
+|   |           |   |   |       retry-handler.js
+|   |           |   |   |       unwrap-handler.js
+|   |           |   |   |       wrap-handler.js
+|   |           |   |   |       
+|   |           |   |   +---interceptor
+|   |           |   |   |       cache.js
+|   |           |   |   |       decompress.js
+|   |           |   |   |       deduplicate.js
+|   |           |   |   |       dns.js
+|   |           |   |   |       dump.js
+|   |           |   |   |       redirect.js
+|   |           |   |   |       response-error.js
+|   |           |   |   |       retry.js
+|   |           |   |   |       
+|   |           |   |   +---llhttp
+|   |           |   |   |       .gitkeep
+|   |           |   |   |       constants.d.ts
+|   |           |   |   |       constants.js
+|   |           |   |   |       llhttp-wasm.js
+|   |           |   |   |       llhttp_simd-wasm.js
+|   |           |   |   |       utils.d.ts
+|   |           |   |   |       utils.js
+|   |           |   |   |       
+|   |           |   |   +---mock
+|   |           |   |   |       mock-agent.js
+|   |           |   |   |       mock-call-history.js
+|   |           |   |   |       mock-client.js
+|   |           |   |   |       mock-errors.js
+|   |           |   |   |       mock-interceptor.js
+|   |           |   |   |       mock-pool.js
+|   |           |   |   |       mock-symbols.js
+|   |           |   |   |       mock-utils.js
+|   |           |   |   |       pending-interceptors-formatter.js
+|   |           |   |   |       snapshot-agent.js
+|   |           |   |   |       snapshot-recorder.js
+|   |           |   |   |       snapshot-utils.js
+|   |           |   |   |       
+|   |           |   |   +---util
+|   |           |   |   |       cache.js
+|   |           |   |   |       date.js
+|   |           |   |   |       promise.js
+|   |           |   |   |       runtime-features.js
+|   |           |   |   |       stats.js
+|   |           |   |   |       timers.js
+|   |           |   |   |       
+|   |           |   |   \---web
+|   |           |   |       +---cache
+|   |           |   |       |       cache.js
+|   |           |   |       |       cachestorage.js
+|   |           |   |       |       util.js
+|   |           |   |       |       
+|   |           |   |       +---cookies
+|   |           |   |       |       constants.js
+|   |           |   |       |       index.js
+|   |           |   |       |       parse.js
+|   |           |   |       |       util.js
+|   |           |   |       |       
+|   |           |   |       +---eventsource
+|   |           |   |       |       eventsource-stream.js
+|   |           |   |       |       eventsource.js
+|   |           |   |       |       util.js
+|   |           |   |       |       
+|   |           |   |       +---fetch
+|   |           |   |       |       body.js
+|   |           |   |       |       constants.js
+|   |           |   |       |       data-url.js
+|   |           |   |       |       formdata-parser.js
+|   |           |   |       |       formdata.js
+|   |           |   |       |       global.js
+|   |           |   |       |       headers.js
+|   |           |   |       |       index.js
+|   |           |   |       |       LICENSE
+|   |           |   |       |       request.js
+|   |           |   |       |       response.js
+|   |           |   |       |       util.js
+|   |           |   |       |       
+|   |           |   |       +---infra
+|   |           |   |       |       index.js
+|   |           |   |       |       
+|   |           |   |       +---subresource-integrity
+|   |           |   |       |       Readme.md
+|   |           |   |       |       subresource-integrity.js
+|   |           |   |       |       
+|   |           |   |       +---webidl
+|   |           |   |       |       index.js
+|   |           |   |       |       
+|   |           |   |       \---websocket
+|   |           |   |           |   connection.js
+|   |           |   |           |   constants.js
+|   |           |   |           |   events.js
+|   |           |   |           |   frame.js
+|   |           |   |           |   permessage-deflate.js
+|   |           |   |           |   receiver.js
+|   |           |   |           |   sender.js
+|   |           |   |           |   util.js
+|   |           |   |           |   websocket.js
+|   |           |   |           |   
+|   |           |   |           \---stream
+|   |           |   |                   websocketerror.js
+|   |           |   |                   websocketstream.js
+|   |           |   |                   
+|   |           |   +---scripts
+|   |           |   |       strip-comments.js
+|   |           |   |       
+|   |           |   \---types
+|   |           |           agent.d.ts
+|   |           |           api.d.ts
+|   |           |           balanced-pool.d.ts
+|   |           |           cache-interceptor.d.ts
+|   |           |           cache.d.ts
+|   |           |           client-stats.d.ts
+|   |           |           client.d.ts
+|   |           |           connector.d.ts
+|   |           |           content-type.d.ts
+|   |           |           cookies.d.ts
+|   |           |           diagnostics-channel.d.ts
+|   |           |           dispatcher.d.ts
+|   |           |           env-http-proxy-agent.d.ts
+|   |           |           errors.d.ts
+|   |           |           eventsource.d.ts
+|   |           |           fetch.d.ts
+|   |           |           formdata.d.ts
+|   |           |           global-dispatcher.d.ts
+|   |           |           global-origin.d.ts
+|   |           |           h2c-client.d.ts
+|   |           |           handlers.d.ts
+|   |           |           header.d.ts
+|   |           |           index.d.ts
+|   |           |           interceptors.d.ts
+|   |           |           mock-agent.d.ts
+|   |           |           mock-call-history.d.ts
+|   |           |           mock-client.d.ts
+|   |           |           mock-errors.d.ts
+|   |           |           mock-interceptor.d.ts
+|   |           |           mock-pool.d.ts
+|   |           |           patch.d.ts
+|   |           |           pool-stats.d.ts
+|   |           |           pool.d.ts
+|   |           |           proxy-agent.d.ts
+|   |           |           readable.d.ts
+|   |           |           README.md
+|   |           |           retry-agent.d.ts
+|   |           |           retry-handler.d.ts
+|   |           |           round-robin-pool.d.ts
+|   |           |           snapshot-agent.d.ts
+|   |           |           socks5-proxy-agent.d.ts
+|   |           |           util.d.ts
+|   |           |           utility.d.ts
+|   |           |           webidl.d.ts
+|   |           |           websocket.d.ts
+|   |           |           
+|   |           +---whatwg-encoding
+|   |           |   |   LICENSE.txt
+|   |           |   |   package.json
+|   |           |   |   README.md
+|   |           |   |   
+|   |           |   \---lib
+|   |           |           labels-to-names.json
+|   |           |           supported-names.json
+|   |           |           whatwg-encoding.js
+|   |           |           
+|   |           \---whatwg-mimetype
+|   |               |   LICENSE.txt
+|   |               |   package.json
+|   |               |   README.md
+|   |               |   
+|   |               \---lib
+|   |                       mime-type-parameters.js
+|   |                       mime-type.js
+|   |                       parser.js
+|   |                       serializer.js
+|   |                       utils.js
+|   |                       
+|   \---validation
+|           about-us-1440-local.png
+|           about-us-1440-original.png
+|           about-us-390-audit-crop.png
+|           about-us-390-local.png
+|           about-us-390-original.png
+|           about-us-768-audit-crop.png
+|           about-us-768-local.png
+|           about-us-768-original.png
+|           home-1440-local.png
+|           home-1440-original.png
+|           home-390-audit-crop.png
+|           home-390-local.png
+|           home-390-original.png
+|           home-768-audit-crop.png
+|           home-768-local.png
+|           home-768-original.png
+|           http-checks.json
+|           measurements.json
+|           relocated-http-checks.json
+|           restart-check.json
+|           server-error.log
+|           server.log
+|           services-my-nomad-lawyer-1440-local.png
+|           services-my-nomad-lawyer-1440-original.png
+|           services-my-nomad-lawyer-390-audit-crop.png
+|           services-my-nomad-lawyer-390-local.png
+|           services-my-nomad-lawyer-390-original.png
+|           services-my-nomad-lawyer-768-audit-crop.png
+|           services-my-nomad-lawyer-768-local.png
+|           services-my-nomad-lawyer-768-original.png
+|           
++---public
+|   +---fonts
+|   |       0348c5b8c3-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf
+|   |       0569c822ca-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+|   |       066b073354-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJtRSW3z.ttf
+|   |       091f1e65ee-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDV30TGI.ttf
+|   |       0aa657d289-latin.woff2
+|   |       0e814212f4-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+|   |       1046be7602-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1RSW3z.ttf
+|   |       13523a93dc-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf
+|   |       18e69125ce-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+|   |       190e133148-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm3z.ttf
+|   |       1ceddeab15-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9KnTOjw.ttf
+|   |       1d1b2dc337-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+|   |       1d4906a72b-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV30TGI.ttf
+|   |       1d93757d4a-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+|   |       212ed85bd6-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+|   |       21353ee092-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+|   |       2171226d5d-latin-ext.woff2
+|   |       24ba74e1b3-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+|   |       25f9e0e134-latin-ext-600.woff2
+|   |       27f3d81f0e-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW3z.ttf
+|   |       2c5c0bffea-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5LDf-iNM5.ttf
+|   |       3001ffbd8d-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+|   |       33da2dd2cc-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+|   |       374c6c52ce-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jDOjw.ttf
+|   |       3c93c68b7b-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+|   |       40cf398994-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5rDD-iNM5.ttf
+|   |       4115341c2f-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCl30TGI.ttf
+|   |       430bc50ffe-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+|   |       47620e6d59-devanagari-italic-600.woff2
+|   |       57840d188d-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+|   |       57b8628104-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZtRSW3z.ttf
+|   |       59f804a0f6-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+|   |       5b3d973cf4-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+|   |       5be0cab9a7-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5FTf-iNM5.ttf
+|   |       5d3a12fc90-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86KnTOjw.ttf
+|   |       5da69473dd-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+|   |       5e6e7a1784-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl30TGI.ttf
+|   |       5f87e563b3-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDV30TGI.ttf
+|   |       613415ecf5-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+|   |       6da1d0270e-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOjw.ttf
+|   |       6f59110dc1-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxRSW3z.ttf
+|   |       705776b623-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9GnM.ttf
+|   |       70e074455d-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+|   |       712df8cd03-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+|   |       718146c322-devanagari-600.woff2
+|   |       73152f8d0c-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDDOjw.ttf
+|   |       75407d2218-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06GnM.ttf
+|   |       8257aa2626-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+|   |       86b5709fc7-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+|   |       8b5dd3c6f5-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+|   |       8d315135e0-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCl30TGI.ttf
+|   |       8ebef1be98-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+|   |       911bf559d2-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6GnM.ttf
+|   |       953d52f7fa-latin-ext-italic.woff2
+|   |       9872c1a09b-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5LDfOjw.ttf
+|   |       98b910f020-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+|   |       9a061fd2c1-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRSW3z.ttf
+|   |       9bd8ba39c9-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+|   |       9ca12861e4-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf
+|   |       9d323db1de-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCl30TGI.ttf
+|   |       9d44391107-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+|   |       9eef09fb0c-latin-600.woff2
+|   |       a0ab9869be-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+|   |       a212f3396d-latin-italic.woff2
+|   |       a44854ad44-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+|   |       a91ed538c7-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9KnTOjw.ttf
+|   |       a94867f6c4-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+|   |       a9565983a6-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9GnM.ttf
+|   |       a9a89d88d7-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+|   |       acfcbeb83b-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5FTfOjw.ttf
+|   |       ae5fe26220-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+|   |       b1918663f0-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5rDDOjw.ttf
+|   |       b244372da1-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRSW3z.ttf
+|   |       b6d6d270b7-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDV30TGI.ttf
+|   |       bb8f3c3b0c-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86GnM.ttf
+|   |       bc745f8460-devanagari.woff2
+|   |       bcef0588e6-latin-ext-italic-600.woff2
+|   |       bd3286149a-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf
+|   |       bde69cf682-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxRSW3z.ttf
+|   |       bfd455f5a9-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM5.ttf
+|   |       c44a41dc0c-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+|   |       c961e282dd-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+|   |       d5826d83b5-latin-italic-600.woff2
+|   |       d834c54376-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6KnTOjw.ttf
+|   |       d8b35333e9-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+|   |       def8cea2b3-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+|   |       e7f62cb72d-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf
+|   |       ed22fb6d94-devanagari-italic.woff2
+|   |       eeb3191b4f-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+|   |       f4e8a65e4d-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG3z.ttf
+|   |       f5d666d1c6-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIptRSW3z.ttf
+|   |       f806d8eb08-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jD-iNM5.ttf
+|   |       f95ccbf472-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDF30TGI.ttf
+|   |       fa6d7d8703-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+|   |       fe5eb4d77e-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf
+|   |       
+|   +---icons
+|   |       0cebf4e396-s.svg
+|   |       161c70f7e6-ti-verified-black.svg
+|   |       1b83d6cf27-cky-placeholder.svg
+|   |       2159bb67f3-close.svg
+|   |       2cb2bb3a4d-poweredbtcky.svg
+|   |       60d0a76a46-f.svg
+|   |       6f6d23aefc-ti-verified.svg
+|   |       8b136d5373-ti-info-light.svg
+|   |       9142b4cc8f-ti-verified-green.svg
+|   |       a3e3bd3e1d-es.svg
+|   |       be969175fd-ti-info-regular.svg
+|   |       c47f9e32b4-submit-spin.svg
+|   |       c65b47bfb3-ti-quote.svg
+|   |       c6ee0349fc-icon.svg
+|   |       d9b7d679c6-en.svg
+|   |       df29beacd7-revisit.svg
+|   |       eddce22194-icon.svg
+|   |       recaptcha.png
+|   |       whatsapp.png
+|   |       
+|   +---images
+|   |       019abbe07a-ALV-UjWXpVHJRp9SUsEAwJhu0AbcZy15YAHUPGZPXppINNpjFUftFAdI-w80-h80-c-rp-mo-ba12-br100.bin
+|   |       0a22b66707-banner-about-us.jpg
+|   |       0da7ca79c9-ACg8ocIN7B69wGM9ipDj5BZlKHNuPi1P7p9DMOZ3JEit2o3ySuwM-w40-h40-c-rp-mo-br100.bin
+|   |       0fa084c3a2-Asega_Marca_Color_RGB.jpg
+|   |       100556268d-slider-contact.jpg
+|   |       15e16bb24e-estatua-justica-2-137x300.png
+|   |       16ac21f300-imagen-pasaporte.png
+|   |       1feeb3f07b-cropped-favicon-my-nomad-lawyer-192x192.jpg
+|   |       211a0c5a03-imagen-hero.jpg
+|   |       24da976884-06.png
+|   |       2534b2f7f8-ACg8ocLeteSreBRsmqwSPfGMcQyv2aodbajuN_DiMmclp-yUJPAoOw-w80-h80-c-rp-mo-br100.bin
+|   |       2856cdb288-logotipo-abogacia-de-malaga-ok.png
+|   |       2972f57ff6-imagen-slider-why-choose-us-2.jpg
+|   |       29c3149073-slider-why-choose-us-1-1024x314.jpg
+|   |       2f74d4ecfb-logo-KIT-DIGITAL-definitivo-color-2024-1024x61.jpg
+|   |       31d3376d74-ACg8ocKJRn3fSC1ulRMnF9kDFjnbhBjP0qG3O5PaMaJSz4S8xLcDrw-w80-h80-c-rp-mo-br100.bin
+|   |       337046c5ac-foto-gemma-202x300.png
+|   |       3465f5a576-martillo-justicia-300x276.png
+|   |       3569c3e55d-all-in-one.jpg
+|   |       369df1f266-Logo-FUPO-positivo-1024x794.jpg
+|   |       37dd9e1ca0-Logo-FUPO-positivo-768x596.jpg
+|   |       3f3f3a8d08-googlelogo_color_42x16dp.png
+|   |       401b4fbfbb-slider-martillo.jpg
+|   |       40993c585c-Asega_Marca_Color_RGB-1024x799.jpg
+|   |       4a6f470f2c-ACg8ocLNzeZxSD77PLL9SDMRDxmUUP-tDntyhzu1yGbcbZqRF3yNXw-w80-h80-c-rp-mo-br100.bin
+|   |       4d715bc1b8-fondo-espana.png
+|   |       4f82783af9-icono-residency-visas.jpg
+|   |       55d775ad9a-04.png
+|   |       5cd5b7ad4d-05.png
+|   |       61e706b268-slider-why-choose-us-1-1536x470.jpg
+|   |       641bbe6558-loading_dots.gif
+|   |       647ff8a166-ALV-UjWXpVHJRp9SUsEAwJhu0AbcZy15YAHUPGZPXppINNpjFUftFAdI-w40-h40-c-rp-mo-ba12-br100.bin
+|   |       64d5b1313c-logotipo-asega-ok-300x113.png
+|   |       6893fa6268-investment-and-real-estate.jpg
+|   |       6a004fd809-Logo-FUPO-positivo-300x233.jpg
+|   |       71717e13bc-nationality-y-residency-ties.jpg
+|   |       75059c60de-logo-KIT-DIGITAL-definitivo-color-2024.jpg
+|   |       782355ad53-testimonio-2-300x140.png
+|   |       7cc45cf39e-Asega_Marca_Color_RGB-768x599.jpg
+|   |       7d2d82a3d3-ACg8ocKJRn3fSC1ulRMnF9kDFjnbhBjP0qG3O5PaMaJSz4S8xLcDrw-w40-h40-c-rp-mo-br100.bin
+|   |       7d58228f4d-logotipo-asega-ok.png
+|   |       84e5eefaf2-cropped-favicon-my-nomad-lawyer-32x32.jpg
+|   |       8925305c66-03.png
+|   |       8c4365fa02-ACg8ocLNzeZxSD77PLL9SDMRDxmUUP-tDntyhzu1yGbcbZqRF3yNXw-w40-h40-c-rp-mo-br100.bin
+|   |       8e0a1a959e-Asega_Marca_Color_RGB-300x234.jpg
+|   |       91088eb8b1-cropped-favicon-my-nomad-lawyer-180x180.jpg
+|   |       91d63fc954-logo-KIT-DIGITAL-definitivo-color-2024-300x18.jpg
+|   |       962bea0b64-inheritance-y-wills.jpg
+|   |       997673ee6a-02.png
+|   |       9ab88385e6-testimonio-1-300x140.png
+|   |       9bc0dfddfe-Logo-FUPO-positivo.jpg
+|   |       9d2f5068cc-logotipo-footer.png
+|   |       9de361bd58-logotipo-abogacia-de-malaga-ok-300x113.png
+|   |       9fc826d241-ACg8ocIN7B69wGM9ipDj5BZlKHNuPi1P7p9DMOZ3JEit2o3ySuwM-w80-h80-c-rp-mo-br100.bin
+|   |       a324c08fed-testimonio-2.png
+|   |       a47a5c6dc4-slider-martillo-1024x314.jpg
+|   |       a4edee01c1-cropped-logotipo-my-nomad-lawyer.jpg
+|   |       a71a1455b9-slider-why-choose-us-1-768x235.jpg
+|   |       a7fdd4ce3b-ACg8ocKwhsTWjl1dLC9XhZ3XfzoNzSNk3LbYjVtbg357OJOrt_IF7g-w80-h80-c-rp-mo-br100.bin
+|   |       a9c115f7e2-slider-martillo-768x235.jpg
+|   |       ab72518faa-slider-martillo-1536x470.jpg
+|   |       abbb893e59-logotipo-uni-pablo-olavide-ok-300x113.png
+|   |       b426a3166d-slider-why-choose-us-1-300x92.jpg
+|   |       b4c1740dfb-ACg8ocKwhsTWjl1dLC9XhZ3XfzoNzSNk3LbYjVtbg357OJOrt_IF7g-w40-h40-c-rp-mo-br100.bin
+|   |       b4ebcbf6cc-logotipo-uni-pablo-olavide-ok.png
+|   |       b56841b2b9-prueba-1.png
+|   |       b639206c8b-testimonio-1.png
+|   |       b7bde3e850-slider-testimonials.jpg
+|   |       be0e892017-imagen-pasaporte-296x300.png
+|   |       cac2c894e6-slider-our-services.jpg
+|   |       cf6523d546-ALV-UjW_1D-Q2fzDEweBrSoBWzTDu9jBn6kPHueBcfzSqQA9Rz2GOw8-w80-h80-c-rp-mo-br100.bin
+|   |       d24c3a3996-slider-why-choose-us.jpg
+|   |       eace68076a-logo-KIT-DIGITAL-definitivo-color-2024-768x46.jpg
+|   |       ebc00aca4a-slider-martillo-300x92.jpg
+|   |       ee9cbe605f-martillo-justicia.png
+|   |       f005000452-slider-why-choose-us-1.jpg
+|   |       f215b5efd1-estatua-justica-2.png
+|   |       f2c02e77fb-ALV-UjW_1D-Q2fzDEweBrSoBWzTDu9jBn6kPHueBcfzSqQA9Rz2GOw8-w40-h40-c-rp-mo-br100.bin
+|   |       fbde8923ee-ACg8ocLeteSreBRsmqwSPfGMcQyv2aodbajuN_DiMmclp-yUJPAoOw-w40-h40-c-rp-mo-br100.bin
+|   |       fc3ccd7516-foto-gemma.png
+|   |       
+|   +---scripts
+|   |       app.js
+|   |       consent.js
+|   |       forms.js
+|   |       navigation.js
+|   |       reviews.js
+|   |       
+|   \---styles
+|           008a4ff4fb-post-418.css
+|           0ab471d16b-trustindex-google-widget.css
+|           17afc2f2ca-post-710.css
+|           23ea013a9a-css.css
+|           29973e4c18-post-495.css
+|           32a059a2d9-widget-heading.min.css
+|           352e87b7e7-widget-areas.min.css
+|           3bbb03f52b-fadeInDown.min.css
+|           45c8108c33-css2.css
+|           4ae34f319c-css.css
+|           589f25b091-style.css
+|           59b5a1cc98-post-3.css
+|           6069ad9ec6-wpforms-full.min.css
+|           64697660f7-custom-frontend.min.css
+|           6740ccaf21-post-697.css
+|           757f733146-css.css
+|           7a7082fe29-main.min.css
+|           7c1f654f1a-css.css
+|           85504d430d-post-504.css
+|           88e1a303e4-widget-divider.min.css
+|           8dbc24682e-css.css
+|           92fa0907df-post-702.css
+|           97523194a7-post-480.css
+|           9daacca608-widget-image.min.css
+|           a19da7451b-post-2.css
+|           a613691e7d-css2.css
+|           a80d27ba30-custom-widget-icon-list.min.css
+|           cafad2a778-post-354.css
+|           fc68fab282-post-5.css
+|           local.css
+|           observed-0198c17b36.css
+|           observed-01fd43cbec.css
+|           observed-0d9c879260.css
+|           observed-20e586a5ba.css
+|           observed-415c1d95cb.css
+|           observed-6b4b7dd4d9.css
+|           observed-873adc00d1.css
+|           observed-971440c8dc.css
+|           observed-9d1d741b1a.css
+|           observed-a00ee65ed5.css
+|           observed-ab27bae3ee.css
+|           observed-bb30c393cf.css
+|           observed-d8411b6a9e.css
+|           
++---scripts
+|       build.mjs
+|       check.mjs
+|       prepare-frontend.mjs
+|       serve.mjs
+|       
+\---src
+    +---components
+    |       ContactForm.html
+    |       CookieConsent.html
+    |       FloatingContact.html
+    |       Footer.html
+    |       Header.html
+    |       RecaptchaBadge.html
+    |       Reviews.html
+    |       
+    +---pages
+    |       about-us.json
+    |       accessibility-statement.json
+    |       contact.json
+    |       cookies-policy.json
+    |       home.json
+    |       legal-notice.json
+    |       privacy-policy.json
+    |       services-my-nomad-lawyer.json
+    |       testimonials.json
+    |       why-choose-us.json
+    |       
+    \---sections
+        +---about-us
+        |       01-Hero.html
+        |       02-Firm.html
+        |       03-Partners.html
+        |       
+        +---accessibility-statement
+        |       01-LegalContent.html
+        |       
+        +---contact
+        |       01-Hero.html
+        |       02-Consultation.html
+        |       
+        +---cookies-policy
+        |       01-LegalContent.html
+        |       
+        +---home
+        |       01-Hero.html
+        |       02-PartnerLogos.html
+        |       03-Benefits.html
+        |       04-Firm.html
+        |       05-Partners.html
+        |       06-GavelBanner.html
+        |       07-Services.html
+        |       08-Testimonials.html
+        |       09-Consultation.html
+        |       
+        +---legal-notice
+        |       01-LegalContent.html
+        |       
+        +---privacy-policy
+        |       01-LegalContent.html
+        |       
+        +---services-my-nomad-lawyer
+        |       01-Hero.html
+        |       02-Services.html
+        |       
+        +---testimonials
+        |       01-Hero.html
+        |       02-EmptySection.html
+        |       
+        \---why-choose-us
+                01-Hero.html
+                02-Introduction.html
+                03-Advantages.html
+                04-PersonalizedService.html
+                05-PhotoBanner.html
+                06-Expertise.html
+                07-ContactCTA.html
+                

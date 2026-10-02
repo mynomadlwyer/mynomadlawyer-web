@@ -1,0 +1,103 @@
+- link "Skip to content":
+  - /url: "#content"
+- banner "Site":
+  - link "Mynomadlawyer":
+    - /url: https://www.mynomadlawyer.com/
+    - img "Mynomadlawyer"
+  - navigation "Primary":
+    - list:
+      - link "Home":
+        - /url: https://www.mynomadlawyer.com/
+      - link "About us":
+        - /url: https://www.mynomadlawyer.com/about-us/
+      - link "Services":
+        - /url: https://www.mynomadlawyer.com/services-my-nomad-lawyer/
+      - link "Why choose us":
+        - /url: https://www.mynomadlawyer.com/why-choose-us/
+      - link "Contact":
+        - /url: https://www.mynomadlawyer.com/contact/
+      - generic: en
+- main:
+  - article:
+    - heading "Our services" [level=1]
+    - heading "Full legal services for international clients" [level=3]
+    - paragraph:
+      - text: At
+      - strong: My Nomad Lawyer
+      - text: ", we offer a complete and personalized service for digital nomads, investors, and international professionals. We cover every legal need a foreign client may have in Spain, providing fast, secure, and reliable solutions thanks to our experience and strong network of strategic partners."
+    - img "icono libro residencial"
+    - paragraph: Residency & Visas
+    - paragraph: Residence permits for digital nomads, highly qualified professionals, and families
+    - paragraph:
+      - text: Investments &
+      - text: Real Estate
+    - paragraph: Purchase and sale of properties with full legal guidance
+    - img "icono nationality y residency ties"
+    - paragraph:
+      - text: Nationality &
+      - text: Residency Ties
+    - paragraph: Processing of nationality applications and residence permits for international clients
+    - img "icono inheritance and wills"
+    - paragraph: Inheritance & Wills
+    - paragraph: Legal planning, inheritance, and cross-border succession matters
+    - img "icono all in one business"
+    - paragraph: All-In-One Services
+    - paragraph: Covering all legal needs of foreign clients in Spain
+    - paragraph: Book your consultation now
+    - link "Contact us":
+      - /url: https://www.mynomadlawyer.com/contact/
+      - generic: Contact us
+- complementary:
+  - figure
+  - paragraph: Your trusted law firm for digital nomads and international investors
+  - paragraph:
+    - strong: Navigation
+  - paragraph:
+    - link "Home":
+      - /url: http://mynomadlawyer.7por7.com/
+    - link "About us":
+      - /url: http://mynomadlawyer.7por7.com/about-us/
+    - link "Services":
+      - /url: http://mynomadlawyer.7por7.com/services-my-nomad-lawyer/
+    - link "Why choose us":
+      - /url: http://mynomadlawyer.7por7.com/why-choose-us/
+    - link "Testimonials":
+      - /url: http://mynomadlawyer.7por7.com/testimonials/
+    - link "Contact":
+      - /url: http://mynomadlawyer.7por7.com/contact/
+  - paragraph:
+    - strong: Contact
+  - paragraph:
+    - text: Av. Ricardo Soriano, 34, 29601 Marbella, Málaga
+    - text: gemmabueno@mynomadlawyer.com
+    - text: +34 637 456 466
+  - paragraph:
+    - strong: Navigation
+  - paragraph:
+    - link "Privacy policy":
+      - /url: https://www.mynomadlawyer.com/privacy-policy/
+    - link "Cookies policy":
+      - /url: https://www.mynomadlawyer.com/cookies-policy/
+    - link "Accessibility Statement":
+      - /url: https://www.mynomadlawyer.com/accessibility-statement/
+    - link "Legal notice":
+      - /url: https://www.mynomadlawyer.com/legal-notice/
+    - link "Site map":
+      - /url: https://www.mynomadlawyer.com/page-sitemap.xml
+- contentinfo "Site":
+  - complementary:
+    - figure:
+      - img "logotipo universidad pablo olavide"
+    - figure:
+      - img "logotipo asega"
+    - figure:
+      - img "logotipo abogacia de málaga"
+  - complementary:
+    - paragraph: Esta web está financiada por la Unión Europea- Next Generation EU
+  - complementary:
+    - figure:
+      - img "logo-KIT-DIGITAL-definitivo-color-2024"
+- generic: desktop
+- link "Whatsapp":
+  - /url: https://api.whatsapp.com/send?phone=34637456466
+  - img "Whatsapp"

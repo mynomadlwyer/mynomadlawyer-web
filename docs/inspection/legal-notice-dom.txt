@@ -1,0 +1,139 @@
+- link "Skip to content":
+  - /url: "#content"
+- banner "Site":
+  - link "Mynomadlawyer":
+    - /url: https://www.mynomadlawyer.com/
+    - img "Mynomadlawyer"
+  - navigation "Primary":
+    - list:
+      - link "Home":
+        - /url: https://www.mynomadlawyer.com/
+      - link "About us":
+        - /url: https://www.mynomadlawyer.com/about-us/
+      - link "Services":
+        - /url: https://www.mynomadlawyer.com/services-my-nomad-lawyer/
+      - link "Why choose us":
+        - /url: https://www.mynomadlawyer.com/why-choose-us/
+      - link "Contact":
+        - /url: https://www.mynomadlawyer.com/contact/
+      - generic: en
+- main:
+  - article:
+    - heading "Legal notice" [level=1]
+    - paragraph:
+      - emphasis: www.mynomadlawyer.com
+    - paragraph:
+      - strong: I. INFORMACIÓN GENERAL
+    - paragraph: "En cumplimiento con el deber de información dispuesto en la Ley 34/2002 de Servicios de la Sociedad de la Información y el Comercio Electrónico (LSSI-CE) de 11 de julio, se facilitan a continuación los siguientes datos de información general de este sitio web:"
+    - paragraph: "La titularidad de este sitio web, www.mynomadlawyer.com, (en adelante, Sitio Web) la ostenta: Gemma Bueno Lopez, con NIF: 80153253R, y cuyos datos de contacto son:"
+    - paragraph: "La titularidad de este sitio web, www.mynomadlawyer.com, (en adelante, Sitio Web) la ostenta: , provista de NIF: e inscrita en: con los siguientes datos registrales: , cuyo representante es: , y cuyos datos de contacto son:"
+    - paragraph: "Dirección:"
+    - paragraph: "Teléfono de contacto:"
+    - paragraph: "Fax:"
+    - paragraph: "Email de contacto: gemmabueno@mynomadlawyer.com"
+    - paragraph:
+      - strong: II. TÉRMINOS Y CONDICIONES GENERALES DE USO
+    - paragraph:
+      - strong: "El objeto de las condiciones: El Sitio Web"
+    - paragraph: "El objeto de las presentes Condiciones Generales de Uso (en adelante, Condiciones) es regular el acceso y la utilización del Sitio Web. A los efectos de las presentes Condiciones se entenderá como Sitio Web: la apariencia externa de los interfaces de pantalla, tanto de forma estática como de forma dinámica, es decir, el árbol de navegación; y todos los elementos integrados tanto en los interfaces de pantalla como en el árbol de navegación (en adelante, Contenidos) y todos aquellos servicios o recursos en línea que en su caso ofrezca a los Usuarios (en adelante, Servicios)."
+    - paragraph: My Nomad Lawyer se reserva la facultad de modificar, en cualquier momento, y sin aviso previo, la presentación y configuración del Sitio Web y de los Contenidos y Servicios que en él pudieran estar incorporados. El Usuario reconoce y acepta que en cualquier momento My Nomad Lawyer pueda interrumpir, desactivar y/o cancelar cualquiera de estos elementos que se integran en el Sitio Web o el acceso a los mismos.
+    - paragraph: El acceso al Sitio Web por el Usuario tiene carácter libre y, por regla general, es gratuito sin que el Usuario tenga que proporcionar una contraprestación para poder disfrutar de ello, salvo en lo relativo al coste de conexión a través de la red de telecomunicaciones suministrada por el proveedor de acceso que hubiere contratado el Usuario.
+    - paragraph: Aparte del coste de conexión a través de la red de telecomunicaciones suministrada por el proveedor de acceso, y que hubiere contratado el Usuario, algunos de los Contenidos o Servicios ofrecidos por My Nomad Lawyer o, en su caso, terceros a través del Sitio Web pueden encontrarse sujetos a la contratación previa del Contenido o Servicio, en cuyo caso se especificará de forma clara y/o se pondrá a disposición del Usuario las correspondientes Condiciones Generales o Particulares por las que esto se rija.
+    - paragraph: La utilización de alguno de los Contenidos o Servicios del Sitio Web podrá hacerse mediante la suscripción o registro previo del Usuario.
+    - paragraph: La utilización de los Contenidos no requiere previa suscripción o registro alguno.
+    - paragraph:
+      - strong: El Usuario
+    - paragraph: El acceso, la navegación y uso del Sitio Web, así como por los espacios habilitados para interactuar entre los Usuarios, y el Usuario y My Nomad Lawyer, como los comentarios y/o espacios de blogging, confiere la condición de Usuario, por lo que se aceptan, desde que se inicia la navegación por el Sitio Web, todas las Condiciones aquí establecidas, así como sus ulteriores modificaciones, sin perjuicio de la aplicación de la correspondiente normativa legal de obligado cumplimiento según el caso. Dada la relevancia de lo anterior, se recomienda al Usuario leerlas cada vez que visite el Sitio Web.
+    - paragraph: "El Sitio Web de My Nomad Lawyer proporciona gran diversidad de información, servicios y datos. El Usuario asume su responsabilidad para realizar un uso correcto del Sitio Web. Esta responsabilidad se extenderá a:"
+    - list:
+      - listitem: Un uso de la información, Contenidos y/o Servicios y datos ofrecidos por My Nomad Lawyer sin que sea contrario a lo dispuesto por las presentes Condiciones, la Ley, la moral o el orden público, o que de cualquier otro modo puedan suponer lesión de los derechos de terceros o del mismo funcionamiento del Sitio Web.
+      - listitem: La veracidad y licitud de las informaciones aportadas por el Usuario en los formularios extendidos por My Nomad Lawyer para el acceso a ciertos Contenidos o Servicios ofrecidos por el Sitio Web. En todo caso, el Usuario notificará de forma inmediata a My Nomad Lawyer acerca de cualquier hecho que permita el uso indebido de la información registrada en dichos formularios, tales como, pero no solo, el robo, extravío, o el acceso no autorizado a identificadores y/o contraseñas, con el fin de proceder a su inmediata cancelación.
+    - paragraph: My Nomad Lawyer se reserva el derecho de retirar todos aquellos comentarios y aportaciones que vulneren la ley, el respeto a la dignidad de la persona, que sean discriminatorios, xenófobos, racistas, pornográficos, spamming, que atenten contra la juventud o la infancia, el orden o la seguridad pública o que, a su juicio, no resultaran adecuados para su publicación.
+    - paragraph: En cualquier caso, My Nomad Lawyer no será responsable de las opiniones vertidas por los Usuarios a través de comentarios u otras herramientas de blogging o de participación que pueda haber.
+    - paragraph: El mero acceso a este Sitio Web no supone entablar ningún tipo de relación de carácter comercial entre My Nomad Lawyer y el Usuario.
+    - paragraph: El Usuario declara ser mayor de edad y disponer de la capacidad jurídica suficiente para vincularse por las presentes Condiciones. Por lo tanto, este Sitio Web de My Nomad Lawyer no se dirige a menores de edad. My Nomad Lawyer declina cualquier responsabilidad por el incumplimiento de este requisito.
+    - paragraph: Siempre en el respeto de la legislación vigente, este Sitio Web de My Nomad Lawyer se dirige a todas las personas, sin importar su edad, que puedan acceder y/o navegar por las páginas del Sitio Web.
+    - paragraph: El Sitio Web está dirigido principalmente a Usuarios residentes en . My Nomad Lawyer no asegura que el Sitio Web cumpla con legislaciones de otros países, ya sea total o parcialmente. Si el Usuario reside o tiene su domiciliado en otro lugar y decide acceder y/o navegar en el Sitio Web lo hará bajo su propia responsabilidad, deberá asegurarse de que tal acceso y navegación cumple con la legislación local que le es aplicable, no asumiendo My Nomad Lawyer responsabilidad alguna que se pueda derivar de dicho acceso.
+    - paragraph:
+      - strong: "III. ACCESO Y NAVEGACIÓN EN EL SITIO WEB: EXCLUSIÓN DE GARANTÍAS Y RESPONSABILIDAD"
+    - paragraph: My Nomad Lawyer no garantiza la continuidad, disponibilidad y utilidad del Sitio Web, ni de los Contenidos o Servicios. My Nomad Lawyer hará todo lo posible por el buen funcionamiento del Sitio Web, sin embargo, no se responsabiliza ni garantiza que el acceso a este Sitio Web no vaya a ser ininterrumpido o que esté libre de error.
+    - paragraph: Tampoco se responsabiliza o garantiza que el contenido o software al que pueda accederse a través de este Sitio Web, esté libre de error o cause un daño al sistema informático (software y hardware) del Usuario. En ningún caso My Nomad Lawyer será responsable por las pérdidas, daños o perjuicios de cualquier tipo que surjan por el acceso, navegación y el uso del Sitio Web, incluyéndose, pero no limitándose, a los ocasionados a los sistemas informáticos o los provocados por la introducción de virus.
+    - paragraph: My Nomad Lawyer tampoco se hace responsable de los daños que pudiesen ocasionarse a los usuarios por un uso inadecuado de este Sitio Web. En particular, no se hace responsable en modo alguno de las caídas, interrupciones, falta o defecto de las telecomunicaciones que pudieran ocurrir.
+    - paragraph:
+      - strong: IV. POLÍTICA DE ENLACES
+    - paragraph: Se informa que el Sitio Web de My Nomad Lawyer pone o puede poner a disposición de los Usuarios medios de enlace (como, entre otros, links, banners, botones), directorios y motores de búsqueda que permiten a los Usuarios acceder a sitios web pertenecientes y/o gestionados por terceros.
+    - paragraph: La instalación de estos enlaces, directorios y motores de búsqueda en el Sitio Web tiene por objeto facilitar a los Usuarios la búsqueda de y acceso a la información disponible en Internet, sin que pueda considerarse una sugerencia, recomendación o invitación para la visita de los mismos.
+    - paragraph: My Nomad Lawyer no ofrece ni comercializa por sí ni por medio de terceros los productos y/o servicios disponibles en dichos sitios enlazados.
+    - paragraph: My Nomad Lawyer ofrece contenidos patrocinados, anuncios y/o enlaces de afiliados. La información que aparece en estos enlaces de afiliados o los anuncios insertados, son facilitados por los propios anunciantes, por lo que My Nomad Lawyer no se hace responsable de posibles inexactitudes o errores que pudieran contener los anuncios, ni garantiza en modo alguno la experiencia, integridad o responsabilidad de los anunciantes o la calidad de sus productos y/o servicios.
+    - paragraph: Asimismo, tampoco garantizará la disponibilidad técnica, exactitud, veracidad, validez o legalidad de sitios ajenos a su propiedad a los que se pueda acceder por medio de los enlaces.
+    - paragraph: My Nomad Lawyer en ningún caso revisará o controlará el contenido de otros sitios web, así como tampoco aprueba, examina ni hace propios los productos y servicios, contenidos, archivos y cualquier otro material existente en los referidos sitios enlazados.
+    - paragraph: My Nomad Lawyer no asume ninguna responsabilidad por los daños y perjuicios que pudieran producirse por el acceso, uso, calidad o licitud de los contenidos, comunicaciones, opiniones, productos y servicios de los sitios web no gestionados por My Nomad Lawyer y que sean enlazados en este Sitio Web.
+    - paragraph: "El Usuario o tercero que realice un hipervínculo desde una página web de otro, distinto, sitio web al Sitio Web de My Nomad Lawyer deberá saber que:"
+    - paragraph: No se permite la reproducción —total o parcialmente— de ninguno de los Contenidos y/o Servicios del Sitio Web sin autorización expresa de My Nomad Lawyer.
+    - paragraph: No se permite tampoco ninguna manifestación falsa, inexacta o incorrecta sobre el Sitio Web de My Nomad Lawyer, ni sobre los Contenidos y/o Servicios del mismo.
+    - paragraph: A excepción del hipervínculo, el sitio web en el que se establezca dicho hiperenlace no contendrá ningún elemento, de este Sitio Web, protegido como propiedad intelectual por el ordenamiento jurídico español, salvo autorización expresa de My Nomad Lawyer.
+    - paragraph: El establecimiento del hipervínculo no implicará la existencia de relaciones entre My Nomad Lawyer y el titular del sitio web desde el cual se realice, ni el conocimiento y aceptación de My Nomad Lawyer de los contenidos, servicios y/o actividades ofrecidas en dicho sitio web, y viceversa.
+    - paragraph:
+      - strong: V. PROPIEDAD INTELECTUAL E INDUSTRIAL
+    - paragraph: My Nomad Lawyer por sí o como parte cesionaria, es titular de todos los derechos de propiedad intelectual e industrial del Sitio Web, así como de los elementos contenidos en el mismo (a título enunciativo y no exhaustivo, imágenes, sonido, audio, vídeo, software o textos, marcas o logotipos, combinaciones de colores, estructura y diseño, selección de materiales usados, programas de ordenador necesarios para su funcionamiento, acceso y uso, etc.). Serán, por consiguiente, obras protegidas como propiedad intelectual por el ordenamiento jurídico español, siéndoles aplicables tanto la normativa española y comunitaria en este campo, como los tratados internacionales relativos a la materia y suscritos por España.
+    - paragraph: Todos los derechos reservados. En virtud de lo dispuesto en la Ley de Propiedad Intelectual, quedan expresamente prohibidas la reproducción, la distribución y la comunicación pública, incluida su modalidad de puesta a disposición, de la totalidad o parte de los contenidos de esta página web, con fines comerciales, en cualquier soporte y por cualquier medio técnico, sin la autorización de My Nomad Lawyer.
+    - paragraph: El Usuario se compromete a respetar los derechos de propiedad intelectual e industrial de My Nomad Lawyer. Podrá visualizar los elementos del Sitio Web o incluso imprimirlos, copiarlos y almacenarlos en el disco duro de su ordenador o en cualquier otro soporte físico siempre y cuando sea, exclusivamente, para su uso personal. El Usuario, sin embargo, no podrá suprimir, alterar, o manipular cualquier dispositivo de protección o sistema de seguridad que estuviera instalado en el Sitio Web.
+    - paragraph: En caso de que el Usuario o tercero considere que cualquiera de los Contenidos del Sitio Web suponga una violación de los derechos de protección de la propiedad intelectual, deberá comunicarlo inmediatamente a My Nomad Lawyer a través de los datos de contacto del apartado de INFORMACIÓN GENERAL de este Aviso Legal y Condiciones Generales de Uso.
+    - paragraph:
+      - strong: VI. ACCIONES LEGALES, LEGISLACIÓN APLICABLE Y JURISDICCIÓN
+    - paragraph: My Nomad Lawyer se reserva la facultad de presentar las acciones civiles o penales que considere necesarias por la utilización indebida del Sitio Web y Contenidos, o por el incumplimiento de las presentes Condiciones.
+    - paragraph: La relación entre el Usuario y My Nomad Lawyer se regirá por la normativa vigente y de aplicación en el territorio español. De surgir cualquier controversia en relación con la interpretación y/o a la aplicación de estas Condiciones las partes someterán sus conflictos a la jurisdicción ordinaria sometiéndose a los jueces y tribunales que correspondan conforme a derecho.
+- complementary:
+  - figure
+  - paragraph: Your trusted law firm for digital nomads and international investors
+  - paragraph:
+    - strong: Navigation
+  - paragraph:
+    - link "Home":
+      - /url: http://mynomadlawyer.7por7.com/
+    - link "About us":
+      - /url: http://mynomadlawyer.7por7.com/about-us/
+    - link "Services":
+      - /url: http://mynomadlawyer.7por7.com/services-my-nomad-lawyer/
+    - link "Why choose us":
+      - /url: http://mynomadlawyer.7por7.com/why-choose-us/
+    - link "Testimonials":
+      - /url: http://mynomadlawyer.7por7.com/testimonials/
+    - link "Contact":
+      - /url: http://mynomadlawyer.7por7.com/contact/
+  - paragraph:
+    - strong: Contact
+  - paragraph:
+    - text: Av. Ricardo Soriano, 34, 29601 Marbella, Málaga
+    - text: gemmabueno@mynomadlawyer.com
+    - text: +34 637 456 466
+  - paragraph:
+    - strong: Navigation
+  - paragraph:
+    - link "Privacy policy":
+      - /url: https://www.mynomadlawyer.com/privacy-policy/
+    - link "Cookies policy":
+      - /url: https://www.mynomadlawyer.com/cookies-policy/
+    - link "Accessibility Statement":
+      - /url: https://www.mynomadlawyer.com/accessibility-statement/
+    - link "Legal notice":
+      - /url: https://www.mynomadlawyer.com/legal-notice/
+    - link "Site map":
+      - /url: https://www.mynomadlawyer.com/page-sitemap.xml
+- contentinfo "Site":
+  - complementary:
+    - figure:
+      - img "logotipo universidad pablo olavide"
+    - figure:
+      - img "logotipo asega"
+    - figure:
+      - img "logotipo abogacia de málaga"
+  - complementary:
+    - paragraph: Esta web está financiada por la Unión Europea- Next Generation EU
+  - complementary:
+    - figure:
+      - img "logo-KIT-DIGITAL-definitivo-color-2024"
+- generic: desktop
+- link "Whatsapp":
+  - /url: https://api.whatsapp.com/send?phone=34637456466
+  - img "Whatsapp"

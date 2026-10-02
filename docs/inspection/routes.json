@@ -1,0 +1,186 @@
+[
+  {
+    "url": "https://www.mynomadlawyer.com/",
+    "slug": "home",
+    "status": 200,
+    "title": "Home | My Nomad Lawyer",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "My Nomad Lawyer.\nYour Seamless Transition to Life &amp; Business in Spain."
+      },
+      {
+        "level": "h2",
+        "text": "Experts in immigration, investment, and international mobility, with a personalized approach."
+      },
+      {
+        "level": "h2",
+        "text": "Meet our specialized\nimmigration law firm"
+      },
+      {
+        "level": "h3",
+        "text": "Our network of strategic partners"
+      },
+      {
+        "level": "h3",
+        "text": "Full legal services for international clients"
+      },
+      {
+        "level": "h3",
+        "text": "What do our clients say?"
+      },
+      {
+        "level": "h3",
+        "text": "Request your profesional consultation"
+      },
+      {
+        "level": "h4",
+        "text": "Please fill out this form and we’ll get\nback to you as soon as possible."
+      }
+    ]
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/testimonials/",
+    "slug": "testimonials",
+    "status": 200,
+    "title": "Testimonials | My Nomad Lawyer",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Testimonials"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/services-my-nomad-lawyer/",
+    "slug": "services-my-nomad-lawyer",
+    "status": 200,
+    "title": "Services - Mynomadlawyer",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Our services"
+      },
+      {
+        "level": "h3",
+        "text": "Full legal services for international clients"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/why-choose-us/",
+    "slug": "why-choose-us",
+    "status": 200,
+    "title": "Why choose us | My Nomad Lawyer",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Why choose us?"
+      },
+      {
+        "level": "h2",
+        "text": "Some advantages..."
+      },
+      {
+        "level": "h3",
+        "text": "Personalized attention and real solutions for every client"
+      },
+      {
+        "level": "h3",
+        "text": "Proven expertise   in immigration"
+      },
+      {
+        "level": "h3",
+        "text": "Looking for an immigration lawyer who truly listens?"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/about-us/",
+    "slug": "about-us",
+    "status": 200,
+    "title": "About us | My Nomad Lawyer",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "About us"
+      },
+      {
+        "level": "h2",
+        "text": "Get to know our specialized\nlaw firm"
+      },
+      {
+        "level": "h2",
+        "text": "Our network of strategic partners"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/contact/",
+    "slug": "contact",
+    "status": 200,
+    "title": "Contact | My Nomad Lawyer",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Contact us"
+      },
+      {
+        "level": "h3",
+        "text": "Request your profesional consultation"
+      },
+      {
+        "level": "h4",
+        "text": "Please fill out this form and we’ll get\nback to you as soon as possible."
+      }
+    ]
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/privacy-policy/",
+    "slug": "privacy-policy",
+    "status": 200,
+    "title": "Privacy Policy | My Nomad Lawyer",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Privacy policy"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/cookies-policy/",
+    "slug": "cookies-policy",
+    "status": 200,
+    "title": "Cookies Policy | My Nomad Lawyer",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Cookies policy"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/accessibility-statement/",
+    "slug": "accessibility-statement",
+    "status": 200,
+    "title": "Accessibility Statement | My Nomad Lawyer",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Accessibility Statement"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/legal-notice/",
+    "slug": "legal-notice",
+    "status": 200,
+    "title": "Legal notice | My Nomad Lawyer",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Legal notice"
+      }
+    ]
+  }
+]

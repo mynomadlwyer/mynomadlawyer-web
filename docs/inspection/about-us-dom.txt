@@ -1,0 +1,100 @@
+- link "Skip to content":
+  - /url: "#content"
+- banner "Site":
+  - link "Mynomadlawyer":
+    - /url: https://www.mynomadlawyer.com/
+    - img "Mynomadlawyer"
+  - navigation "Primary":
+    - list:
+      - link "Home":
+        - /url: https://www.mynomadlawyer.com/
+      - link "About us":
+        - /url: https://www.mynomadlawyer.com/about-us/
+      - link "Services":
+        - /url: https://www.mynomadlawyer.com/services-my-nomad-lawyer/
+      - link "Why choose us":
+        - /url: https://www.mynomadlawyer.com/why-choose-us/
+      - link "Contact":
+        - /url: https://www.mynomadlawyer.com/contact/
+      - generic: en
+- main:
+  - article:
+    - heading "About us" [level=1]
+    - img "foto gemma bueno"
+    - heading "Get to know our specialized law firm" [level=2]
+    - paragraph: led by gemma bueno
+    - paragraph:
+      - strong: My Nomad Lawyer
+      - text: is a growing law firm that combines international experience, in-depth knowledge of immigration and investment law, and a comprehensive, personalized approach. Led by
+      - strong: Gemma Bueno
+      - text: ", an expert immigration lawyer and member of the Immigration Subcommittee of the Malaga Bar Association, we provide reliable and efficient solutions for"
+      - strong: digital nomads and foreign investors.
+    - paragraph:
+      - text: Gemma holds the
+      - strong: European Lawyer’s Card (CCBE)
+      - text: ", certifying her status as a recognized lawyer in any EU Member State. This allows her to represent clients before European courts and institutions, ensuring a legal service that meets the highest European standards."
+    - link "Our services":
+      - /url: https://www.mynomadlawyer.com/services-my-nomad-lawyer/
+      - generic: Our services
+    - heading "Our network of strategic partners" [level=2]
+    - paragraph:
+      - text: Through our network of strategic partners –
+      - strong: Asega Consulting, Pablo de Olavide University, and Dipla Partner
+      - text: – we offer a
+      - strong: comprehensive and professional service
+      - text: ", providing confidence and peace of mind every step of the way."
+    - img "Logotipo Asega"
+- complementary:
+  - figure
+  - paragraph: Your trusted law firm for digital nomads and international investors
+  - paragraph:
+    - strong: Navigation
+  - paragraph:
+    - link "Home":
+      - /url: http://mynomadlawyer.7por7.com/
+    - link "About us":
+      - /url: http://mynomadlawyer.7por7.com/about-us/
+    - link "Services":
+      - /url: http://mynomadlawyer.7por7.com/services-my-nomad-lawyer/
+    - link "Why choose us":
+      - /url: http://mynomadlawyer.7por7.com/why-choose-us/
+    - link "Testimonials":
+      - /url: http://mynomadlawyer.7por7.com/testimonials/
+    - link "Contact":
+      - /url: http://mynomadlawyer.7por7.com/contact/
+  - paragraph:
+    - strong: Contact
+  - paragraph:
+    - text: Av. Ricardo Soriano, 34, 29601 Marbella, Málaga
+    - text: gemmabueno@mynomadlawyer.com
+    - text: +34 637 456 466
+  - paragraph:
+    - strong: Navigation
+  - paragraph:
+    - link "Privacy policy":
+      - /url: https://www.mynomadlawyer.com/privacy-policy/
+    - link "Cookies policy":
+      - /url: https://www.mynomadlawyer.com/cookies-policy/
+    - link "Accessibility Statement":
+      - /url: https://www.mynomadlawyer.com/accessibility-statement/
+    - link "Legal notice":
+      - /url: https://www.mynomadlawyer.com/legal-notice/
+    - link "Site map":
+      - /url: https://www.mynomadlawyer.com/page-sitemap.xml
+- contentinfo "Site":
+  - complementary:
+    - figure:
+      - img "logotipo universidad pablo olavide"
+    - figure:
+      - img "logotipo asega"
+    - figure:
+      - img "logotipo abogacia de málaga"
+  - complementary:
+    - paragraph: Esta web está financiada por la Unión Europea- Next Generation EU
+  - complementary:
+    - figure:
+      - img "logo-KIT-DIGITAL-definitivo-color-2024"
+- generic: desktop
+- link "Whatsapp":
+  - /url: https://api.whatsapp.com/send?phone=34637456466
+  - img "Whatsapp"

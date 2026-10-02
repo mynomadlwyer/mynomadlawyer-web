@@ -1,0 +1,136 @@
+{
+  "controls": [
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Menu"
+    },
+    {
+      "src": null,
+      "tag": "BUTTON",
+      "text": "Menu"
+    }
+  ],
+  "headings": [
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+      "text": "Our services"
+    },
+    {
+      "color": "rgb(0, 0, 0)",
+      "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+      "text": "Full legal services for international clients"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.mynomadlawyer.com/services-my-nomad-lawyer/#content",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/",
+      "text": "Home"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/about-us/",
+      "text": "About us"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/services-my-nomad-lawyer/",
+      "text": "Services"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/why-choose-us/",
+      "text": "Why choose us"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/contact/",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/services-my-nomad-lawyer/#",
+      "text": "English"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/services-my-nomad-lawyer/#",
+      "text": "Spanish"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/contact/",
+      "text": "Contact us"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/",
+      "text": "Home"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/about-us/",
+      "text": "About us"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/services-my-nomad-lawyer/",
+      "text": "Services"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/why-choose-us/",
+      "text": "Why choose us"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/testimonials/",
+      "text": "Testimonials"
+    },
+    {
+      "href": "http://mynomadlawyer.7por7.com/contact/",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/privacy-policy/",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/cookies-policy/",
+      "text": "Cookies policy"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/accessibility-statement/",
+      "text": "Accessibility Statement"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/legal-notice/",
+      "text": "Legal notice"
+    },
+    {
+      "href": "https://www.mynomadlawyer.com/page-sitemap.xml",
+      "text": "Site map"
+    },
+    {
+      "href": "https://api.whatsapp.com/send?phone=34637456466",
+      "text": ""
+    }
+  ],
+  "sections": [
+    {
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-00d5c11 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+      "css": {
+        "background": "rgba(0, 0, 0, 0) url(\"https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-our-services.jpg\") repeat scroll 50% 50% / cover padding-box border-box",
+        "padding": "80px 0px"
+      },
+      "id": "00d5c11",
+      "text": "Our services"
+    },
+    {
+      "cls": "elementor-section elementor-top-section elementor-element elementor-element-4b9289c elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+      "css": {
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "padding": "60px 0px"
+      },
+      "id": "4b9289c",
+      "text": "Full legal services for international clients\n\nAt My Nomad Lawyer, we offer a complete and personalized service for digital nomads, investors, and international professionals. We cover every legal need a foreign client may have in Spain, providing fast, secure, and reliable solutions thanks to our experience and strong network of strategic partners.\n\nResidency & Visas\n\nResidence permits for digital nomads, highly qualified professionals, and families\n\nInvestments &\nReal Estate\n\nPurchase and sale of properties with full legal guidance\n\nNationality &\nResidency Ties\n\nProcessing of nationality applications and residence permits for international clients\n\nInheritance & Wills\n\nLegal planning, inheritance, and cross-border succession matters\n\nAll-In-One Services\n\nCovering all legal needs of foreign clients in Spain\n\nBook your consultation now\n\nContact us"
+    }
+  ]
+}

@@ -1,0 +1,1770 @@
+[
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css?ver=3.6.1",
+    "local": "/styles/352e87b7e7-widget-areas.min.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 3356,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.6.1",
+    "local": "/styles/7a7082fe29-main.min.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 19512,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/themes/generatepress_child/style.css?ver=1733140411",
+    "local": "/styles/589f25b091-style.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 255,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=DM+Sans:regular,italic,500,500italic,700,700italic&display=auto&ver=3.6.1",
+    "local": "/styles/7c1f654f1a-css.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 1299,
+    "contentType": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1789249137",
+    "local": "/styles/64697660f7-custom-frontend.min.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 54847,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/post-5.css?ver=1789275985",
+    "local": "/styles/fc68fab282-post-5.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 1164,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=4.2.4",
+    "local": "/styles/3bbb03f52b-fadeInDown.min.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 137,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.2.4",
+    "local": "/styles/32a059a2d9-widget-heading.min.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 560,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.2.4",
+    "local": "/styles/9daacca608-widget-image.min.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 214,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.2.4",
+    "local": "/styles/88e1a303e4-widget-divider.min.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 4258,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1789249137",
+    "local": "/styles/a80d27ba30-custom-widget-icon-list.min.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 10282,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/post-2.css?ver=1789275985",
+    "local": "/styles/a19da7451b-post-2.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 64342,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+    "local": "/styles/8dbc24682e-css.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 4689,
+    "contentType": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+    "local": "/styles/4ae34f319c-css.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 2097,
+    "contentType": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+    "local": "/styles/757f733146-css.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 2580,
+    "contentType": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=DM+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+    "local": "/styles/23ea013a9a-css.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 4293,
+    "contentType": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/trustindex-google-widget.css?1787324009",
+    "local": "/styles/0ab471d16b-trustindex-google-widget.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 70469,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/plugins/wpforms-lite/assets/css/frontend/modern/wpforms-full.min.css?ver=2.0.1.1",
+    "local": "/styles/6069ad9ec6-wpforms-full.min.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 169642,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/cropped-favicon-my-nomad-lawyer-32x32.jpg",
+    "local": "/images/84e5eefaf2-cropped-favicon-my-nomad-lawyer-32x32.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1448,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/cropped-favicon-my-nomad-lawyer-192x192.jpg",
+    "local": "/images/1feeb3f07b-cropped-favicon-my-nomad-lawyer-192x192.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 6437,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/cropped-favicon-my-nomad-lawyer-180x180.jpg",
+    "local": "/images/91088eb8b1-cropped-favicon-my-nomad-lawyer-180x180.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 5933,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/cropped-logotipo-my-nomad-lawyer.jpg",
+    "local": "/images/a4edee01c1-cropped-logotipo-my-nomad-lawyer.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 70320,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2026/03/logotipo-uni-pablo-olavide-ok.png",
+    "local": "/images/b4ebcbf6cc-logotipo-uni-pablo-olavide-ok.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 43706,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2026/03/logotipo-uni-pablo-olavide-ok-300x113.png",
+    "local": "/images/abbb893e59-logotipo-uni-pablo-olavide-ok-300x113.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 13038,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2026/03/logotipo-asega-ok.png",
+    "local": "/images/7d58228f4d-logotipo-asega-ok.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 7648,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2026/03/logotipo-asega-ok-300x113.png",
+    "local": "/images/64d5b1313c-logotipo-asega-ok-300x113.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 3337,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2026/03/logotipo-abogacia-de-malaga-ok.png",
+    "local": "/images/2856cdb288-logotipo-abogacia-de-malaga-ok.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 16375,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2026/03/logotipo-abogacia-de-malaga-ok-300x113.png",
+    "local": "/images/9de361bd58-logotipo-abogacia-de-malaga-ok-300x113.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 5996,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/imagen-pasaporte.png",
+    "local": "/images/16ac21f300-imagen-pasaporte.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 134320,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/imagen-pasaporte-296x300.png",
+    "local": "/images/be0e892017-imagen-pasaporte-296x300.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 27137,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/Asega_Marca_Color_RGB-1024x799.jpg",
+    "local": "/images/40993c585c-Asega_Marca_Color_RGB-1024x799.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 66331,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/Asega_Marca_Color_RGB-300x234.jpg",
+    "local": "/images/8e0a1a959e-Asega_Marca_Color_RGB-300x234.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 36355,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/Asega_Marca_Color_RGB-768x599.jpg",
+    "local": "/images/7cc45cf39e-Asega_Marca_Color_RGB-768x599.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 54662,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/Asega_Marca_Color_RGB.jpg",
+    "local": "/images/0fa084c3a2-Asega_Marca_Color_RGB.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 141478,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/Logo-FUPO-positivo-1024x794.jpg",
+    "local": "/images/369df1f266-Logo-FUPO-positivo-1024x794.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 81532,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/Logo-FUPO-positivo-300x233.jpg",
+    "local": "/images/6a004fd809-Logo-FUPO-positivo-300x233.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 35665,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/Logo-FUPO-positivo-768x596.jpg",
+    "local": "/images/37dd9e1ca0-Logo-FUPO-positivo-768x596.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 64892,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/Logo-FUPO-positivo.jpg",
+    "local": "/images/9bc0dfddfe-Logo-FUPO-positivo.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 175779,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-martillo.jpg",
+    "local": "/images/401b4fbfbb-slider-martillo.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 223094,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-martillo-300x92.jpg",
+    "local": "/images/ebc00aca4a-slider-martillo-300x92.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 8445,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-martillo-1024x314.jpg",
+    "local": "/images/a47a5c6dc4-slider-martillo-1024x314.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 44600,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-martillo-768x235.jpg",
+    "local": "/images/a9c115f7e2-slider-martillo-768x235.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 29637,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-martillo-1536x470.jpg",
+    "local": "/images/ab72518faa-slider-martillo-1536x470.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 82357,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/icono-residency-visas.jpg",
+    "local": "/images/4f82783af9-icono-residency-visas.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 47537,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/investment-and-real-estate.jpg",
+    "local": "/images/6893fa6268-investment-and-real-estate.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 49001,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/nationality-y-residency-ties.jpg",
+    "local": "/images/71717e13bc-nationality-y-residency-ties.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 48835,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/inheritance-y-wills.jpg",
+    "local": "/images/962bea0b64-inheritance-y-wills.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 48839,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/all-in-one.jpg",
+    "local": "/images/3569c3e55d-all-in-one.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 49434,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/platform/Google/icon.svg",
+    "local": "/icons/c6ee0349fc-icon.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 51351,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a-/ALV-UjWXpVHJRp9SUsEAwJhu0AbcZy15YAHUPGZPXppINNpjFUftFAdI=w40-h40-c-rp-mo-ba12-br100",
+    "local": "/images/647ff8a166-ALV-UjWXpVHJRp9SUsEAwJhu0AbcZy15YAHUPGZPXppINNpjFUftFAdI-w40-h40-c-rp-mo-ba12-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 4349,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a-/ALV-UjWXpVHJRp9SUsEAwJhu0AbcZy15YAHUPGZPXppINNpjFUftFAdI=w80-h80-c-rp-mo-ba12-br100",
+    "local": "/images/019abbe07a-ALV-UjWXpVHJRp9SUsEAwJhu0AbcZy15YAHUPGZPXppINNpjFUftFAdI-w80-h80-c-rp-mo-ba12-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 15104,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+    "local": "/icons/60d0a76a46-f.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1726,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a/ACg8ocKJRn3fSC1ulRMnF9kDFjnbhBjP0qG3O5PaMaJSz4S8xLcDrw=w40-h40-c-rp-mo-br100",
+    "local": "/images/7d2d82a3d3-ACg8ocKJRn3fSC1ulRMnF9kDFjnbhBjP0qG3O5PaMaJSz4S8xLcDrw-w40-h40-c-rp-mo-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1368,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a/ACg8ocKJRn3fSC1ulRMnF9kDFjnbhBjP0qG3O5PaMaJSz4S8xLcDrw=w80-h80-c-rp-mo-br100",
+    "local": "/images/31d3376d74-ACg8ocKJRn3fSC1ulRMnF9kDFjnbhBjP0qG3O5PaMaJSz4S8xLcDrw-w80-h80-c-rp-mo-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 2751,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a/ACg8ocIN7B69wGM9ipDj5BZlKHNuPi1P7p9DMOZ3JEit2o3ySuwM=w40-h40-c-rp-mo-br100",
+    "local": "/images/0da7ca79c9-ACg8ocIN7B69wGM9ipDj5BZlKHNuPi1P7p9DMOZ3JEit2o3ySuwM-w40-h40-c-rp-mo-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1501,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a/ACg8ocIN7B69wGM9ipDj5BZlKHNuPi1P7p9DMOZ3JEit2o3ySuwM=w80-h80-c-rp-mo-br100",
+    "local": "/images/9fc826d241-ACg8ocIN7B69wGM9ipDj5BZlKHNuPi1P7p9DMOZ3JEit2o3ySuwM-w80-h80-c-rp-mo-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 2852,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a/ACg8ocKwhsTWjl1dLC9XhZ3XfzoNzSNk3LbYjVtbg357OJOrt_IF7g=w40-h40-c-rp-mo-br100",
+    "local": "/images/b4c1740dfb-ACg8ocKwhsTWjl1dLC9XhZ3XfzoNzSNk3LbYjVtbg357OJOrt_IF7g-w40-h40-c-rp-mo-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1255,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a/ACg8ocKwhsTWjl1dLC9XhZ3XfzoNzSNk3LbYjVtbg357OJOrt_IF7g=w80-h80-c-rp-mo-br100",
+    "local": "/images/a7fdd4ce3b-ACg8ocKwhsTWjl1dLC9XhZ3XfzoNzSNk3LbYjVtbg357OJOrt_IF7g-w80-h80-c-rp-mo-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 2447,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a/ACg8ocLeteSreBRsmqwSPfGMcQyv2aodbajuN_DiMmclp-yUJPAoOw=w40-h40-c-rp-mo-br100",
+    "local": "/images/fbde8923ee-ACg8ocLeteSreBRsmqwSPfGMcQyv2aodbajuN_DiMmclp-yUJPAoOw-w40-h40-c-rp-mo-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1022,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a/ACg8ocLeteSreBRsmqwSPfGMcQyv2aodbajuN_DiMmclp-yUJPAoOw=w80-h80-c-rp-mo-br100",
+    "local": "/images/2534b2f7f8-ACg8ocLeteSreBRsmqwSPfGMcQyv2aodbajuN_DiMmclp-yUJPAoOw-w80-h80-c-rp-mo-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1941,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a-/ALV-UjW_1D-Q2fzDEweBrSoBWzTDu9jBn6kPHueBcfzSqQA9Rz2GOw8=w40-h40-c-rp-mo-br100",
+    "local": "/images/f2c02e77fb-ALV-UjW_1D-Q2fzDEweBrSoBWzTDu9jBn6kPHueBcfzSqQA9Rz2GOw8-w40-h40-c-rp-mo-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 3275,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a-/ALV-UjW_1D-Q2fzDEweBrSoBWzTDu9jBn6kPHueBcfzSqQA9Rz2GOw8=w80-h80-c-rp-mo-br100",
+    "local": "/images/cf6523d546-ALV-UjW_1D-Q2fzDEweBrSoBWzTDu9jBn6kPHueBcfzSqQA9Rz2GOw8-w80-h80-c-rp-mo-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 10905,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a/ACg8ocLNzeZxSD77PLL9SDMRDxmUUP-tDntyhzu1yGbcbZqRF3yNXw=w40-h40-c-rp-mo-br100",
+    "local": "/images/8c4365fa02-ACg8ocLNzeZxSD77PLL9SDMRDxmUUP-tDntyhzu1yGbcbZqRF3yNXw-w40-h40-c-rp-mo-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1328,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://lh3.googleusercontent.com/a/ACg8ocLNzeZxSD77PLL9SDMRDxmUUP-tDntyhzu1yGbcbZqRF3yNXw=w80-h80-c-rp-mo-br100",
+    "local": "/images/4a6f470f2c-ACg8ocLNzeZxSD77PLL9SDMRDxmUUP-tDntyhzu1yGbcbZqRF3yNXw-w80-h80-c-rp-mo-br100.bin",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 2521,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+    "local": "/icons/c47f9e32b4-submit-spin.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 509,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/logotipo-footer.png",
+    "local": "/images/9d2f5068cc-logotipo-footer.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 2082,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2026/03/logo-KIT-DIGITAL-definitivo-color-2024-1024x61.jpg",
+    "local": "/images/2f74d4ecfb-logo-KIT-DIGITAL-definitivo-color-2024-1024x61.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 20998,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2026/03/logo-KIT-DIGITAL-definitivo-color-2024-300x18.jpg",
+    "local": "/images/91d63fc954-logo-KIT-DIGITAL-definitivo-color-2024-300x18.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 4157,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2026/03/logo-KIT-DIGITAL-definitivo-color-2024-768x46.jpg",
+    "local": "/images/eace68076a-logo-KIT-DIGITAL-definitivo-color-2024-768x46.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 14166,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2026/03/logo-KIT-DIGITAL-definitivo-color-2024.jpg",
+    "local": "/images/75059c60de-logo-KIT-DIGITAL-definitivo-color-2024.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 29103,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap",
+    "local": "/styles/a613691e7d-css2.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 4248,
+    "contentType": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap",
+    "local": "/styles/45c8108c33-css2.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 2555,
+    "contentType": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/post-480.css?ver=1789332616",
+    "local": "/styles/97523194a7-post-480.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 6518,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/testimonio-2.png",
+    "local": "/images/a324c08fed-testimonio-2.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 10791,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/testimonio-2-300x140.png",
+    "local": "/images/782355ad53-testimonio-2-300x140.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 5968,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/testimonio-1.png",
+    "local": "/images/b639206c8b-testimonio-1.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 8235,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/testimonio-1-300x140.png",
+    "local": "/images/9ab88385e6-testimonio-1-300x140.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 4554,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/post-418.css?ver=1789325759",
+    "local": "/styles/008a4ff4fb-post-418.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 24359,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/post-504.css?ver=1789328429",
+    "local": "/styles/85504d430d-post-504.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 65493,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/martillo-justicia.png",
+    "local": "/images/ee9cbe605f-martillo-justicia.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 85883,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/martillo-justicia-300x276.png",
+    "local": "/images/3465f5a576-martillo-justicia-300x276.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 18927,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-why-choose-us-1.jpg",
+    "local": "/images/f005000452-slider-why-choose-us-1.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 766098,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-why-choose-us-1-300x92.jpg",
+    "local": "/images/b426a3166d-slider-why-choose-us-1-300x92.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 67307,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-why-choose-us-1-1024x314.jpg",
+    "local": "/images/29c3149073-slider-why-choose-us-1-1024x314.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 112172,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-why-choose-us-1-768x235.jpg",
+    "local": "/images/a71a1455b9-slider-why-choose-us-1-768x235.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 92664,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-why-choose-us-1-1536x470.jpg",
+    "local": "/images/61e706b268-slider-why-choose-us-1-1536x470.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 162376,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/estatua-justica-2.png",
+    "local": "/images/f215b5efd1-estatua-justica-2.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 103425,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/estatua-justica-2-137x300.png",
+    "local": "/images/15e16bb24e-estatua-justica-2-137x300.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 17721,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/post-354.css?ver=1789298324",
+    "local": "/styles/cafad2a778-post-354.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 13492,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/foto-gemma.png",
+    "local": "/images/fc3ccd7516-foto-gemma.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 145396,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/foto-gemma-202x300.png",
+    "local": "/images/337046c5ac-foto-gemma-202x300.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 28971,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/post-495.css?ver=1789330379",
+    "local": "/styles/29973e4c18-post-495.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 9990,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/post-3.css?ver=1789286809",
+    "local": "/styles/59b5a1cc98-post-3.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 2810,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/post-697.css?ver=1789286827",
+    "local": "/styles/6740ccaf21-post-697.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 2844,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/post-702.css?ver=1789286811",
+    "local": "/styles/92fa0907df-post-702.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 2844,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/elementor/css/post-710.css?ver=1789286818",
+    "local": "/styles/17afc2f2ca-post-710.css",
+    "type": "css",
+    "status": "downloaded",
+    "bytes": 2844,
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://cdn-cookieyes.com/assets/images/cky-placeholder.svg",
+    "local": "/icons/1b83d6cf27-cky-placeholder.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 826,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://cdn-cookieyes.com/assets/images/close.svg",
+    "local": "/icons/2159bb67f3-close.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1345,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://cdn-cookieyes.com/assets/images/poweredbtcky.svg",
+    "local": "/icons/2cb2bb3a4d-poweredbtcky.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 3762,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://cdn-cookieyes.com/assets/images/revisit.svg",
+    "local": "/icons/df29beacd7-revisit.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 2339,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png",
+    "local": "/images/3f3f3a8d08-googlelogo_color_42x16dp.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 910,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/plugins/gtranslate/flags/svg/en.svg",
+    "local": "/icons/d9b7d679c6-en.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 862,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/plugins/gtranslate/flags/svg/es.svg",
+    "local": "/icons/a3e3bd3e1d-es.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 48089,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDV30TGI.ttf",
+    "local": "/fonts/b6d6d270b7-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDV30TGI.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33332,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV30TGI.ttf",
+    "local": "/fonts/1d4906a72b-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DV30TGI.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33448,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCl30TGI.ttf",
+    "local": "/fonts/8d315135e0-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCl30TGI.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33296,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRSW3z.ttf",
+    "local": "/fonts/9a061fd2c1-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRSW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33100,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW3z.ttf",
+    "local": "/fonts/27f3d81f0e-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRSW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33132,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZtRSW3z.ttf",
+    "local": "/fonts/57b8628104-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZtRSW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33016,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf",
+    "local": "/fonts/def8cea2b3-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 45952,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf",
+    "local": "/fonts/5da69473dd-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 46164,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf",
+    "local": "/fonts/a44854ad44-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 46220,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf",
+    "local": "/fonts/57840d188d-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 46152,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf",
+    "local": "/fonts/3c93c68b7b-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 46324,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf",
+    "local": "/fonts/8b5dd3c6f5-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 46444,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf",
+    "local": "/fonts/a94867f6c4-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 46392,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf",
+    "local": "/fonts/d8b35333e9-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 46516,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf",
+    "local": "/fonts/1d93757d4a-KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 46556,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf",
+    "local": "/fonts/fa6d7d8703-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 44744,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf",
+    "local": "/fonts/8ebef1be98-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 44820,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf",
+    "local": "/fonts/212ed85bd6-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 44792,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+    "local": "/fonts/98b910f020-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 44724,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+    "local": "/fonts/3001ffbd8d-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 44796,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf",
+    "local": "/fonts/c44a41dc0c-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 44900,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf",
+    "local": "/fonts/a0ab9869be-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 44864,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf",
+    "local": "/fonts/5b3d973cf4-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 44964,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf",
+    "local": "/fonts/c961e282dd-KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 44948,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/imagen-hero.jpg",
+    "local": "/images/211a0c5a03-imagen-hero.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 237575,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/fondo-espana.png",
+    "local": "/images/4d715bc1b8-fondo-espana.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 8877,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5rDD-iNM5.ttf",
+    "local": "/fonts/40cf398994-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5rDD-iNM5.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 79052,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jD-iNM5.ttf",
+    "local": "/fonts/f806d8eb08-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jD-iNM5.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 78956,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM5.ttf",
+    "local": "/fonts/bfd455f5a9-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM5.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 79152,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5LDf-iNM5.ttf",
+    "local": "/fonts/2c5c0bffea-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5LDf-iNM5.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 79148,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5FTf-iNM5.ttf",
+    "local": "/fonts/5be0cab9a7-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5FTf-iNM5.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 79016,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6KnTOjw.ttf",
+    "local": "/fonts/d834c54376-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6KnTOjw.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 76472,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86KnTOjw.ttf",
+    "local": "/fonts/5d3a12fc90-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86KnTOjw.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 76648,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOjw.ttf",
+    "local": "/fonts/6da1d0270e-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOjw.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 76756,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9KnTOjw.ttf",
+    "local": "/fonts/a91ed538c7-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9KnTOjw.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 76748,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9KnTOjw.ttf",
+    "local": "/fonts/1ceddeab15-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9KnTOjw.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 76604,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDF30TGI.ttf",
+    "local": "/fonts/f95ccbf472-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDF30TGI.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33400,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDV30TGI.ttf",
+    "local": "/fonts/091f1e65ee-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDV30TGI.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33488,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDV30TGI.ttf",
+    "local": "/fonts/5f87e563b3-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDV30TGI.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33440,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCl30TGI.ttf",
+    "local": "/fonts/4115341c2f-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCl30TGI.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33388,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCl30TGI.ttf",
+    "local": "/fonts/9d323db1de-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCl30TGI.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33424,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl30TGI.ttf",
+    "local": "/fonts/5e6e7a1784-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCl30TGI.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33352,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1RSW3z.ttf",
+    "local": "/fonts/1046be7602-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1RSW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33112,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxRSW3z.ttf",
+    "local": "/fonts/6f59110dc1-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxRSW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33176,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxRSW3z.ttf",
+    "local": "/fonts/bde69cf682-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxRSW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33112,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJtRSW3z.ttf",
+    "local": "/fonts/066b073354-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJtRSW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33100,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIptRSW3z.ttf",
+    "local": "/fonts/f5d666d1c6-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIptRSW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33088,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRSW3z.ttf",
+    "local": "/fonts/b244372da1-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5tRSW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 33092,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf",
+    "local": "/fonts/0e814212f4-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 27732,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf",
+    "local": "/fonts/59f804a0f6-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 28036,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf",
+    "local": "/fonts/712df8cd03-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 27992,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf",
+    "local": "/fonts/a9a89d88d7-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 27856,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf",
+    "local": "/fonts/eeb3191b4f-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 27868,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf",
+    "local": "/fonts/9d44391107-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 27952,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf",
+    "local": "/fonts/33da2dd2cc-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 27872,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf",
+    "local": "/fonts/ae5fe26220-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 27980,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf",
+    "local": "/fonts/430bc50ffe-BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 28000,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG3z.ttf",
+    "local": "/fonts/f4e8a65e4d-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 51252,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf",
+    "local": "/fonts/bd3286149a-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 51316,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf",
+    "local": "/fonts/9ca12861e4-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 51264,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf",
+    "local": "/fonts/24ba74e1b3-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 51144,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf",
+    "local": "/fonts/1d1b2dc337-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 51284,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf",
+    "local": "/fonts/0348c5b8c3-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 51156,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf",
+    "local": "/fonts/70e074455d-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 51128,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf",
+    "local": "/fonts/e7f62cb72d-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 51236,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm3z.ttf",
+    "local": "/fonts/190e133148-rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm3z.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 51148,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf",
+    "local": "/fonts/fe5eb4d77e-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 48292,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf",
+    "local": "/fonts/21353ee092-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 48356,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf",
+    "local": "/fonts/86b5709fc7-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 48296,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf",
+    "local": "/fonts/0569c822ca-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 48280,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf",
+    "local": "/fonts/9bd8ba39c9-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 48308,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf",
+    "local": "/fonts/18e69125ce-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 48280,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf",
+    "local": "/fonts/8257aa2626-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 48200,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf",
+    "local": "/fonts/613415ecf5-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 48272,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf",
+    "local": "/fonts/13523a93dc-rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 48296,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5rDDOjw.ttf",
+    "local": "/fonts/b1918663f0-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5rDDOjw.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 292904,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jDOjw.ttf",
+    "local": "/fonts/374c6c52ce-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jDOjw.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 293036,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDDOjw.ttf",
+    "local": "/fonts/73152f8d0c-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDDOjw.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 293244,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5LDfOjw.ttf",
+    "local": "/fonts/9872c1a09b-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5LDfOjw.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 293312,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5FTfOjw.ttf",
+    "local": "/fonts/acfcbeb83b-co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5FTfOjw.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 293116,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6GnM.ttf",
+    "local": "/fonts/911bf559d2-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6GnM.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 289788,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86GnM.ttf",
+    "local": "/fonts/bb8f3c3b0c-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86GnM.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 290236,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06GnM.ttf",
+    "local": "/fonts/75407d2218-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06GnM.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 290496,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9GnM.ttf",
+    "local": "/fonts/705776b623-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9GnM.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 290392,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9GnM.ttf",
+    "local": "/fonts/a9565983a6-co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9GnM.ttf",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 289992,
+    "contentType": "font/ttf"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-why-choose-us.jpg",
+    "local": "/images/d24c3a3996-slider-why-choose-us.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 135300,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/prueba-1.png",
+    "local": "/images/b56841b2b9-prueba-1.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 2898,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/02.png",
+    "local": "/images/997673ee6a-02.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 3632,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/03.png",
+    "local": "/images/8925305c66-03.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 3609,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/04.png",
+    "local": "/images/55d775ad9a-04.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 3362,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/05.png",
+    "local": "/images/5cd5b7ad4d-05.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 3577,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/06.png",
+    "local": "/images/24da976884-06.png",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 3837,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/imagen-slider-why-choose-us-2.jpg",
+    "local": "/images/2972f57ff6-imagen-slider-why-choose-us-2.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 273878,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/banner-about-us.jpg",
+    "local": "/images/0a22b66707-banner-about-us.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 148157,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-testimonials.jpg",
+    "local": "/images/b7bde3e850-slider-testimonials.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 179460,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-our-services.jpg",
+    "local": "/images/cac2c894e6-slider-our-services.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 410847,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/fonts/poppins/devanagari-italic.woff2",
+    "local": "/fonts/ed22fb6d94-devanagari-italic.woff2",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 45968,
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-ext-italic.woff2",
+    "local": "/fonts/953d52f7fa-latin-ext-italic.woff2",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 5964,
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-italic.woff2",
+    "local": "/fonts/a212f3396d-latin-italic.woff2",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 8668,
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/fonts/poppins/devanagari-italic-600.woff2",
+    "local": "/fonts/47620e6d59-devanagari-italic-600.woff2",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 45596,
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-ext-italic-600.woff2",
+    "local": "/fonts/bcef0588e6-latin-ext-italic-600.woff2",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 6012,
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-italic-600.woff2",
+    "local": "/fonts/d5826d83b5-latin-italic-600.woff2",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 8724,
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/fonts/poppins/devanagari.woff2",
+    "local": "/fonts/bc745f8460-devanagari.woff2",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 39660,
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-ext.woff2",
+    "local": "/fonts/2171226d5d-latin-ext.woff2",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 5644,
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin.woff2",
+    "local": "/fonts/0aa657d289-latin.woff2",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 7884,
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/fonts/poppins/devanagari-600.woff2",
+    "local": "/fonts/718146c322-devanagari-600.woff2",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 39292,
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-ext-600.woff2",
+    "local": "/fonts/25f9e0e134-latin-ext-600.woff2",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 5524,
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-600.woff2",
+    "local": "/fonts/9eef09fb0c-latin-600.woff2",
+    "type": "font",
+    "status": "downloaded",
+    "bytes": 8000,
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/icon/ti-info-light.svg",
+    "local": "/icons/8b136d5373-ti-info-light.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 535,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/icon/ti-info-regular.svg",
+    "local": "/icons/be969175fd-ti-info-regular.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 834,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/platform/Trustindex/icon.svg",
+    "local": "/icons/eddce22194-icon.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 864,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/icon/ti-quote.svg",
+    "local": "/icons/c65b47bfb3-ti-quote.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1502,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/platform/Trustindex/star/s.svg",
+    "local": "/icons/0cebf4e396-s.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1467,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/icon/ti-verified.svg",
+    "local": "/icons/6f6d23aefc-ti-verified.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1894,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/icon/ti-verified-green.svg",
+    "local": "/icons/9142b4cc8f-ti-verified-green.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1894,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/icon/ti-verified-black.svg",
+    "local": "/icons/161c70f7e6-ti-verified-black.svg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 1894,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "url": "https://cdn.trustindex.io/assets/img/loading_dots.gif",
+    "local": "/images/641bbe6558-loading_dots.gif",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 28757,
+    "contentType": "image/gif"
+  },
+  {
+    "url": "https://www.mynomadlawyer.com/wp-content/uploads/2025/11/slider-contact.jpg",
+    "local": "/images/100556268d-slider-contact.jpg",
+    "type": "image",
+    "status": "downloaded",
+    "bytes": 148984,
+    "contentType": "image/jpeg"
+  }
+]

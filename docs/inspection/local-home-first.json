@@ -1,0 +1,118 @@
+{
+  "broken": [],
+  "headings": [
+    {
+      "font": "600 70px / 70px \"Cormorant Garamond\", serif",
+      "h": 210,
+      "text": "My Nomad Lawyer.\nYour Seamless Transition to Life & Business in Spain.",
+      "w": 855,
+      "x": 284.8999938964844,
+      "y": 300
+    },
+    {
+      "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+      "h": 94,
+      "text": "Experts in immigration, investment, and international mobility, with a personalized approach.",
+      "w": 1120,
+      "x": 152.40000915527344,
+      "y": 991.7125244140624
+    },
+    {
+      "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+      "h": 104,
+      "text": "Meet our specialized\nimmigration law firm",
+      "w": 741.7750244140625,
+      "x": 540.4000244140625,
+      "y": 2085.8125
+    },
+    {
+      "font": "700 47px / 47px \"Cormorant Garamond\", serif",
+      "h": 47,
+      "text": "Our network of strategic partners",
+      "w": 1120,
+      "x": 152.40000915527344,
+      "y": 2737.91259765625
+    },
+    {
+      "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+      "h": 52,
+      "text": "Full legal services for international clients",
+      "w": 1380,
+      "x": 22.399999618530273,
+      "y": 3500.949951171875
+    },
+    {
+      "font": "600 60px / 52px \"Cormorant Garamond\", serif",
+      "h": 52,
+      "text": "What do our clients say?",
+      "w": 1380,
+      "x": 22.399999618530273,
+      "y": 4094.362548828125
+    },
+    {
+      "font": "600 60px / 71px \"Cormorant Garamond\", serif",
+      "h": 142,
+      "text": "Request your profesional consultation",
+      "w": 555,
+      "x": 12.40000057220459,
+      "y": 5045.0625
+    },
+    {
+      "font": "700 40px / 40px \"Cormorant Garamond\", serif",
+      "h": 80,
+      "text": "Please fill out this form and we’ll get\nback to you as soon as possible.",
+      "w": 680,
+      "x": 722.4000244140625,
+      "y": 5055.0625
+    }
+  ],
+  "height": 6543,
+  "sections": [
+    {
+      "h": 622.6000366210938,
+      "id": "efccdb1",
+      "y": 180
+    },
+    {
+      "h": 154.3125,
+      "id": "706e6e7",
+      "y": 802.6000366210938
+    },
+    {
+      "h": 1018.9000244140624,
+      "id": "48862c4",
+      "y": 956.9125366210938
+    },
+    {
+      "h": 692.1000366210938,
+      "id": "7ed5c57",
+      "y": 1975.8125
+    },
+    {
+      "h": 425.7875061035156,
+      "id": "5cdd9e4",
+      "y": 2667.91259765625
+    },
+    {
+      "h": 337.25,
+      "id": "6810e21",
+      "y": 3093.699951171875
+    },
+    {
+      "h": 553.4125366210938,
+      "id": "06fe8d0",
+      "y": 3430.949951171875
+    },
+    {
+      "h": 960.7000122070312,
+      "id": "30570c4",
+      "y": 3984.362548828125
+    },
+    {
+      "h": 989.2000122070312,
+      "id": "aba63b4",
+      "y": 4945.0625
+    }
+  ],
+  "width": 1440
+}

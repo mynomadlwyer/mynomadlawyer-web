@@ -1,0 +1,65 @@
+{
+  "date": "2026-09-19T15:29:56.108Z",
+  "checks": [
+    {
+      "route": "/",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/testimonials/",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/services-my-nomad-lawyer/",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/why-choose-us/",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/about-us/",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/contact/",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/privacy-policy/",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/cookies-policy/",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/accessibility-statement/",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/legal-notice/",
+      "status": 200,
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/not-a-real-page/",
+      "method": "GET",
+      "status": 404
+    },
+    {
+      "route": "/contact/",
+      "method": "POST",
+      "status": 405
+    }
+  ]
+}

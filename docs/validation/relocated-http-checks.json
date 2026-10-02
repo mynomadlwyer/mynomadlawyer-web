@@ -1,0 +1,52 @@
+[
+  {
+    "route": "/about-us/",
+    "status": 200,
+    "htmlExists": true
+  },
+  {
+    "route": "/accessibility-statement/",
+    "status": 200,
+    "htmlExists": true
+  },
+  {
+    "route": "/contact/",
+    "status": 200,
+    "htmlExists": true
+  },
+  {
+    "route": "/cookies-policy/",
+    "status": 200,
+    "htmlExists": true
+  },
+  {
+    "route": "/",
+    "status": 200,
+    "htmlExists": true
+  },
+  {
+    "route": "/legal-notice/",
+    "status": 200,
+    "htmlExists": true
+  },
+  {
+    "route": "/privacy-policy/",
+    "status": 200,
+    "htmlExists": true
+  },
+  {
+    "route": "/services-my-nomad-lawyer/",
+    "status": 200,
+    "htmlExists": true
+  },
+  {
+    "route": "/testimonials/",
+    "status": 200,
+    "htmlExists": true
+  },
+  {
+    "route": "/why-choose-us/",
+    "status": 200,
+    "htmlExists": true
+  }
+]

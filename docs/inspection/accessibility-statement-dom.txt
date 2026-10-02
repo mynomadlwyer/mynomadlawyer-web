@@ -1,0 +1,298 @@
+- link "Skip to content":
+  - /url: "#content"
+- banner "Site":
+  - link "Mynomadlawyer":
+    - /url: https://www.mynomadlawyer.com/
+    - img "Mynomadlawyer"
+  - navigation "Primary":
+    - list:
+      - link "Home":
+        - /url: https://www.mynomadlawyer.com/
+      - link "About us":
+        - /url: https://www.mynomadlawyer.com/about-us/
+      - link "Services":
+        - /url: https://www.mynomadlawyer.com/services-my-nomad-lawyer/
+      - link "Why choose us":
+        - /url: https://www.mynomadlawyer.com/why-choose-us/
+      - link "Contact":
+        - /url: https://www.mynomadlawyer.com/contact/
+      - generic: en
+- main:
+  - article:
+    - heading "Accessibility Statement" [level=1]
+    - paragraph:
+      - emphasis: www.mynomadlawyer.com
+    - paragraph:
+      - strong: Situación de cumplimiento
+    - paragraph: My Nomad Lawyer (en adelante, también Sitio Web) es parcialmente conforme con el Real Decreto 1112/2018, de 7 de septiembre, debido a la falta de conformidad de los aspectos que se indican a continuación.
+    - paragraph:
+      - strong: Contenido no accesible
+    - paragraph: "El contenido que se recoge a continuación no es accesible por los siguientes motivos:"
+    - paragraph:
+      - strong: "a. Falta de conformidad con el RD 1112/2018:"
+      - text: No aplica. Cumple el 100% de los criterios de accesibilidad web.
+    - list:
+      - list:
+        - listitem: "Criterio 5 – Requisitos generales: No aplica."
+    - list:
+      - listitem: Pueden requerirse medios no compatibles para activar alguna característica de accesibilidad [requisito número 5.2 Activación de características de accesibilidad, de UNE-EN 301549:2022].
+    - list:
+      - list:
+        - listitem: "Criterio 6 – Capacidad de comunicación bidireccional por voz: No aplica."
+    - list:
+      - listitem: Es posible que no pueda garantizarse un rango de frecuencia cuyo límite superior sea al menos de 7000Hz [requisito número 6.1 Anchura de banda para voz, de UNE-EN 301549:2022].
+      - listitem: Es posible que no pueda proporcionarse un modo de comunicación bidireccional mediante RTT [requisito número 6.2.1.1 Comunicación mediante RTT, de UNE-EN 301549:2022].
+      - listitem: Es posible que no pueda proporcionarse un modo de comunicación bidireccional de voz y texto simultáneamente [requisito número 6.2.1.2 Voz y texto simultáneos, de UNE-EN 301549:2022].
+      - listitem: Es posible que no muestre de forma claramente diferenciada el texto enviado del texto recibido en las comunicaciones RTT [requisito número 6.2.2.1 Presentación en pantalla diferenciable visualmente, de UNE-EN 301549:2022].
+      - listitem: Es posible que no pueda determinarse por software la dirección de envío y recepción de RTT [requisito número 6.2.2.2 Dirección de envío y recepción determinable por software, de UNE-EN 301549:2022].
+      - listitem: Es posible que no pueda proporcionarse la identificación del hablando por RTT [requisito número 6.2.2.3 Identificación del hablante, de UNE-EN 301549:2022].
+      - listitem: Es posible que no haya un indicador visual en pantalla de la actividad de audio en tiempo real [requisito número 6.2.2.4 Indicador visual de audio con texto en tiempo real, de UNE-EN 301549:2022].
+      - listitem: Es posible que no pueda garantizar la compatibilidad con otros sistemas con funcionalidades de RTT [requisito número 6.2.3 Interoperabilidad, de UNE-EN 301549:2022].
+      - listitem: Es posible que no pueda garantizar que la entrada de RTT se transmita a la red dentro de los 500ms [requisito número 6.2.4 Capacidad de respuesta de RTT, de UNE-EN 301549:2022].
+      - listitem: Es posible que no se proporcione una alternativa a la voz para realizar las tareas de asistencia o respuesta interactiva [requisito número 6.4 Alternativas a servicios basados en voz, de UNE-EN 301549:2022].
+      - listitem: Es posible que no se pueda garantizar una resolución mínima de QVGA en las funcionalidades de video [requisito número 6.5.2 Resolución, de UNE-EN 301549:2022].
+      - listitem: Es posible que no se pueda garantizar una frecuencia de video mínima de 20 FPS durante las comunicaciones [requisito número 6.5.3 Frecuencia de imagen, de UNE-EN 301549:2022].
+      - listitem: Es posible que no se supere el tiempo máximo de 100ms entre la presentación de la voz y el vídeo al usuario [requisito número 6.5.4 Sincronización de audio y video, de UNE-EN 301549:2022].
+      - listitem: Es posible que no haya un modo para la identificación del hablante para los usuarios de lengua de signos en tiempo real [requisito número 6.5.6 Identificación del hablante con comunicación con vídeo, de UNE-EN 301549:2022].
+    - list:
+      - list:
+        - listitem: "Criterio 7 – Capacidad de vídeo: No aplica."
+    - list:
+      - listitem: Es posible que exista algún reproductor de vídeo que no dispone de un modo de operación que permita mostrar los subtítulos existentes [requisito número 7.1.1 Reproducción de subtítulos, de UNE-EN 301549:2022].
+      - listitem: Es posible que exista algún reproductor de vídeo que no dispone de un modo de operación que permita sincronizar el audio con los subtítulos [requisito número 7.1.2 Sincronización de subtítulos, de UNE-EN 301549:2022].
+      - listitem: Es posible que exista algún reproductor de vídeo que no disponga de un sistema de guardado de subtítulos [requisito número 7.1.3 Preservación del subtitulado, de UNE-EN 301549:2022].
+      - listitem: Es posible que el usuario no pueda adaptar las características de los subtítulos a sus requisitos individuales [requisito número 7.1.4 Características de los subtítulos, de UNE-EN 301549:2022].
+      - listitem: Es posible que no se proporcionen en todos los casos un modo de operación que facilite una salida hablada de los subtítulos disponibles [requisito número 7.1.5 Subtítulos hablados, de UNE-EN 301549:2022].
+      - listitem: Es posible que exista algún reproductor que no disponga de un modo para seleccionar y reproducir audiodescripciones disponibles [requisito número 7.2.1 Reproducción de la audiodescripción, de UNE-EN 301549:2022].
+      - listitem: Es posible que exista algún reproductor que no disponga de un modo para sincronizar audiodescripciones disponibles [requisito número 7.2.2 Sincronización de la audiodescripción, de UNE-EN 301549:2022].
+      - listitem: Es posible que exista algún reproductor que no disponga de un modo para guardar audiodescripciones disponibles [requisito número 7.2.3 Preservación de la audiodescripción, de UNE-EN 301549:2022].
+      - listitem: Alguna página incorpora reproductor de vídeo que no proporciona controles para la reproducción de subtítulos y audiodescripción al mismo nivel de interacción que el resto de controles [requisito número 7.3 Controles de usuario para subtítulos y audiodescripción, de UNE-EN 301549:2022].
+    - list:
+      - list:
+        - listitem: "Criterio 9 – Requisitos aplicables a páginas web: No aplica."
+    - list:
+      - listitem: Existen contenidos no textuales que carecen de una alternativa textual, o que tienen una alternativa que no es adecuada [requisito número 9.1.1.1 Contenido no textual, de UNE-EN 301549:2022].
+      - listitem: Algunos vídeos grabados no disponen de alternativas basadas en texto o alternativa de audio [requisito número 9.1.2.1 Solo audio y solo vídeo, de UNE-EN 301549:2022].
+      - listitem: Algunos vídeos grabados pueden no contener subtítulos [requisito número 9.1.2.2 Subtítulos (grabados), de UNE-EN 301549:2022].
+      - listitem: Algunos vídeos pregrabados en el sitio web no disponen de audiodescripción o medios alternativos [requisito número 9.1.2.3 Audiodescripción o medio alternativo, de UNE-EN 301549:2022].
+      - listitem: Algunos vídeos pregrabados en el sitio web no disponen de audiodescripción o medios alternativos [requisito número 9.1.2.5 Audiodescripción (grabado), de UNE-EN 301549:2022].
+      - listitem: En algunas páginas la información, estructura y relaciones no están determinadas por software o no tienen alternativa como texto [requisito número 9.1.3.1 Información y relaciones, de UNE-EN 301549:2022].
+      - listitem: Alguna página no tiene definida por programa al menos una secuencia correcta de lectura [requisito número 9.1.3.2 Secuencia significativa, de UNE-EN 301549:2022].
+      - listitem: Identificación de elementos solamente característica sensoriales como la forma, el color, el tamaño, la ubicación visual, la orientación o el sonido [requisito número 9.1.3.3 Características sensoriales, de UNE-EN 301549:2022].
+      - listitem: El contenido no se adapta al cambiar la orientación de la pantalla [requisito número 9.1.3.4 Orientación, de UNE-EN 301549:2022].
+      - listitem: Existen elementos de formularios en los cuales no se identifica el propósito de la entrada [requisito número 9.1.3.5 Identificar el propósito de entrada, de UNE-EN 301549:2022].
+      - listitem: En alguna página se ha utilizado el color como único medio visual para transmitir información, indicar una acción, provocar una respuesta o distinguir un elemento visual [requisito número 9.1.4.1 Uso del color, de UNE-EN 301549:2022].
+      - listitem: Existen elementos de sonido que se reproducen automáticamente y no existe un mecanismo para pausarlo o detenerlo [requisito número 9.1.4.2 Control del audio, de UNE-EN 301549:2022].
+      - listitem: En alguna página la relación de contraste en texto podría no ser de al menos 4.5:1 [requisito número 9.1.4.3 Contraste (mínimo), de UNE-EN 301549:2022].
+      - listitem: Existen errores en algunas páginas relacionadas con el tamaño de texto y su posibilidad de personalización al hacer zoom [requisito número 9.1.4.4 Cambio de tamaño del texto, de UNE-EN 301549:2022].
+      - listitem: Existen imágenes prediseñadas basadas sólo en texto [requisito número 9.1.4.5 Imágenes de texto, de UNE-EN 301549:2022].
+      - listitem: Existen errores al personalizar el tamaño de letra, el nivel zoom o el espaciado del texto [requisito número 9.1.4.10 Reajuste del texto, de UNE-EN 301549:2022].
+      - listitem: Contraste insuficiente en componentes de la interfaz o en objetos gráficos [requisito número 9.1.4.11 Contraste del contenido no textual, de UNE-EN 301549:2022].
+      - listitem: Existe texto que al cambiar los espacios y alturas de línea no se visualiza correctamente [requisito número 9.1.4.12 Espaciado del texto, de UNE-EN 301549:2022].
+      - listitem: Cuando un elemento recibe el puntero o el foco del teclado se muestra contenido adicional que no es posible descartar sin necesidad de mover el puntero o cambiar el foco del ratón [requisito número 9.1.4.13 Contenido con hover o focus, de UNE-EN 301549:2022].
+      - listitem: Existen páginas donde la navegación por teclado no es la óptima y aparecen errores [requisito número 9.2.1.1 Teclado, de UNE-EN 301549:2022].
+      - listitem: Existen componentes que al recibir el foco impiden pasarlo a otro solo con el tabulador o teclas teclas de dirección [requisito número 9.2.1.2 Sin trampas para el foco , de UNE-EN 301549:2022].
+      - listitem: Existen atajos de teclado que no funcionan [requisito número 9.2.1.4 Atajos con teclas de caracteres, de UNE-EN 301549:2022].
+      - listitem: Hay establecido alguna limitación de tiempo que no se puede detener, ajustar o extender [requisito número 9.2.2.1 Tiempo ajustable, de UNE-EN 301549:2022].
+      - listitem: Puede haber alguna información en movimiento automático que no disponga de controles para pausar, controlar u ocultar [requisito número 9.2.2.2 Pausar, detener y ocultar, de UNE-EN 301549:2022].
+      - listitem: Pueden haber elementos que destellen más de tres veces en un segundo o por encima del umbral general [requisito número 9.2.3.1 Umbral de tres destellos o menos, de UNE-EN 301549:2022].
+      - listitem: En algunas páginas no existe el mecanismo para omitir bloques de contenido que se repiten en varias páginas [requisito número 9.2.4.1 Evitar bloques, de UNE-EN 301549:2022].
+      - listitem: Inadecuada descripción de algunos de los títulos de las páginas web [requisito número 9.2.4.2 Titulado de páginas, de UNE-EN 301549:2022].
+      - listitem: En algún documento la navegación secuencial mediante el teclado podría no tener un orden consistente [requisito número 9.2.4.3 Orden del foco, de UNE-EN 301549:2022].
+      - listitem: El propósito de los enlaces, encabezados o etiquetas del portal puede no ser siempre lo suficientemente descriptivo o consistente para todos los usuarios [requisito número 9.2.4.4 Propósito de los enlaces (en contexto), de UNE-EN 301549:2022].
+      - listitem: No siempre se ofrecen enlaces a páginas de contenido relacionado o formas alternativas de navegación [requisito número 9.2.4.5 Múltiples vías, de UNE-EN 301549:2022].
+      - listitem: Hay encabezados con texto repetido y/o poco descriptivo [requisito número 9.2.4.6 Encabezados y etiquetas, de UNE-EN 301549:2022].
+      - listitem: La ubicación del foco no es siempre visible cuando se navega con teclado [requisito número 9.2.4.7 Foco visible, de UNE-EN 301549:2022].
+      - listitem: Existen elementos que utilizan multipunto o basados en ruta que no se pueden operar con solo un puntero o sin un gesto basado en ruta [requisito número 9.2.5.1 Gestos del puntero, de UNE-EN 301549:2022].
+      - listitem: Existen páginas donde no se puede cancelar un evento al pulsar el ratón [requisito número 9.2.5.2 Cancelación del puntero, de UNE-EN 301549:2022].
+      - listitem: Existen componentes de interfaz que no tienen etiquetas visibles [requisito número 9.2.5.3 Etiqueta del nombre, de UNE-EN 301549:2022].
+      - listitem: Hay funcionalidad solo operable mediante el movimiento [requisito número 9.2.5.4 Activación mediante movimiento, de UNE-EN 301549:2022].
+      - listitem: En alguna página no se indica el lenguaje por defecto que se utiliza [requisito número 9.3.1.1 Idioma de la página , de UNE-EN 301549:2022].
+      - listitem: Podrían existir fallos puntuales de edición e identificación del idioma en alguna parte de la página web [requisito número 9.3.1.2 Idioma de las partes, de UNE-EN 301549:2022].
+      - listitem: Existen componentes que cuando recibe el foco, inician un cambio de contexto [requisito número 9.3.2.1 Al recibir el foco, de UNE-EN 301549:2022].
+      - listitem: La interacción del usuario con algún control, provoca cambios de página sin advertirlo previamente [requisito número 9.3.2.2 Al recibir entradas, de UNE-EN 301549:2022].
+      - listitem: Pueden existir páginas con navegación incoherente, debido a enlaces diferentes con el mismo destino [requisito número 9.3.2.3 Navegación coherente, de UNE-EN 301549:2022].
+      - listitem: Ciertos elementos interactivos no se presentan de forma coherente en todos los casos, ya que se muestran con diferentes estilos visuales [requisito número 9.3.2.4 Identificación coherente, de UNE-EN 301549:2022].
+      - listitem: Existen mensajes de error poco descriptivos, o mensajes de error que no están agrupados en un único mensaje así como falta de sugerencias en formulario para rellenar los campos correctamente [requisito número 9.3.3.1 Identificación de errores, de UNE-EN 301549:2022].
+      - listitem: Existen formularios con campos obligatorios donde no se informa al usuario de ello, así como campos donde falta un ejemplo textual del formato del campo [requisito número 9.3.3.2 Etiquetas o instrucciones, de UNE-EN 301549:2022].
+      - listitem: Podría existir algún error de entrada en algún campo/formulario del que no se notificase al usuario la sugerencia para solucionarlo [requisito número 9.3.3.3 Sugerencias ante errores 333, de UNE-EN 301549:2022].
+      - listitem: En la entrada de datos no detecta errores ni se proporciona al usuario una oportunidad de corregirlos [requisito número 9.3.3.4 Prevención de errores (legales, financieros, datos), de UNE-EN 301549:2022].
+      - listitem: Pueden existir errores en el uso de las etiquetas y atributos de HTML y WAI-ARIA 1.1 [requisito número 9.4.1.1 Procesamiento , de UNE-EN 301549:2022].
+      - listitem: En alguna página los componentes de interfaz de usuario como elementos de formulario, enlaces y componentes generados por script no siguen la estructura recomendada por las pautas de accesibilidad [requisito número 9.4.1.2 Nombre, función, valor, de UNE-EN 301549:2022].
+      - listitem: En algunas páginas los mensajes de estado podrían no estar determinados mediante programación a través de funciones o propiedades [requisito número 9.4.1.3 Mensajes de estado, de UNE-EN 301549:2022].
+      - listitem: Se incumplen algunos de los requisitos WCAG 2.1 [requisito número 9.6 Requisitos de conformidad de las pautas WCAG, de UNE-EN 301549:2022].
+    - list:
+      - list:
+        - listitem: "Criterio 10 – Requisitos aplicables a documentos no web: No aplica."
+    - list:
+      - listitem: Pueden existir documentos con imágenes que no disponen de una adecuada alternativa textual [requisito número 10.1.1.1 Contenido no textual, de UNE-EN 301549:2022].
+      - listitem: Puede no haber alternativa equivalente para los contenido de solo audio o solo video grabado [requisito número 10.1.2.1 Solo audio y solo vídeo, de UNE-EN 301549:2022].
+      - listitem: Puede que los videos carezcan de subtítulos y descripciones de audio [requisito número 10.1.2.2 Subtítulos (grabados), de UNE-EN 301549:2022].
+      - listitem: Puede no haber una alternativa para los medios tempodependientes o una audiodescripción para el contenido de vídeo grabado en los multimedia sincronizados [requisito número 10.1.2.3 Audiodescripción o medio alternativo, de UNE-EN 301549:2022].
+      - listitem: Puede que no se proporcione una audiodescripción para todo el contenido de vídeo grabado dentro de contenido multimedia sincronizado [requisito número 10.1.2.5 Audiodescripción (grabado), de UNE-EN 301549:2022].
+      - listitem: En algún documento la información, estructura y relaciones no están determinadas por software o no tienen alternativa como texto [requisito número 10.1.3.1 Información y relaciones, de UNE-EN 301549:2022].
+      - listitem: Algún documento no tiene definido por programa al menos una secuencia correcta de lectura [requisito número 10.1.3.2 Secuencia significativa, de UNE-EN 301549:2022].
+      - listitem: Puede que haya documentos los cuales no exista otra alternativa accesible con la que operar y entender el contenido [requisito número 10.1.3.3 Características sensoriales, de UNE-EN 301549:2022].
+      - listitem: Puede que haya documentos cuyo contenido no se adapte al cambiar la orientación de la pantalla [requisito número 10.1.3.4 Orientación, de UNE-EN 301549:2022].
+      - listitem: En algunos formularios el campo de entrada que recopila información sobre el usuario no tiene identificado el propósito [requisito número 10.1.3.5 Identificar el propósito de entrada, de UNE-EN 301549:2022].
+      - listitem: En algún documento se ha utilizado el color como único medio visual para transmitir información, indicar una acción, provocar una respuesta o distinguir un elemento visual [requisito número 10.1.4.1 Uso del color, de UNE-EN 301549:2022].
+      - listitem: Existen elementos de audio en algún documento que se reproducen automáticamente y no existe un mecanismo para pausarlo o detenerlo [requisito número 10.1.4.2 Control del audio, de UNE-EN 301549:2022].
+      - listitem: En algún documento la relación de contraste en texto podría no ser de al menos 4.5:1 [requisito número 10.1.4.3 Contraste (mínimo), de UNE-EN 301549:2022].
+      - listitem: En algunos textos el tamaño no se puede cambiar hasta en un 200 por ciento sin pérdidas de contenido o funcionalidad y en algún documento el contenido puede perder funcionalidad o información al ampliar el contenido [requisito número 10.1.4.4 Cambio de tamaño del texto, de UNE-EN 301549:2022].
+      - listitem: En algún documento se han podido utilizar imágenes de texto en lugar de texto para transmitir información [requisito número 10.1.4.5 Imágenes de texto, de UNE-EN 301549:2022].
+      - listitem: En algún documento el contenido puede perder funcionalidad o información al ampliar el contenido [requisito número 10.1.4.10 Reajuste del texto, de UNE-EN 301549:2022].
+      - listitem: En algún documento el contraste de los componentes de interfaz de usuario y de objetos gráficos podría no llegar al 3:1 con los colores adyacentes [requisito número 10.1.4.11 Contraste del contenido no textual, de UNE-EN 301549:2022].
+      - listitem: En algunos textos no es posible anular el espaciado de texto especificado [requisito número 10.1.4.12 Espaciado del texto, de UNE-EN 301549:2022].
+      - listitem: El contenido de algunos documentos no reciben foco de teclado con el que poder realizar ninguna acción [requisito número 10.1.4.13 Contenido con hover o focus, de UNE-EN 301549:2022].
+      - listitem: Existen documentos en los que no se puede operar totalmente a través del teclado [requisito número 10.2.1.1 Teclado, de UNE-EN 301549:2022].
+      - listitem: En algunos documentos no se han definido los encabezados y no se puede navegar por el teclado [requisito número 10.2.1.2 Sin trampas para el foco , de UNE-EN 301549:2022].
+      - listitem: En algunos documentos existen atajos de teclado que no funcionan [requisito número 10.2.1.4 Atajos con teclas de caracteres, de UNE-EN 301549:2022].
+      - listitem: En algún documento hay establecido alguna limitación de tiempo que no se puede detener, ajustar o extender [requisito número 10.2.2.1 Tiempo ajustable, de UNE-EN 301549:2022].
+      - listitem: Algún documento puede contener información en movimiento automático que no disponga de controles para pausar, controlar u ocultar [requisito número 10.2.2.2 Pausar, detener y ocultar, de UNE-EN 301549:2022].
+      - listitem: Algún documento puede contener elementos que destellen más de tres veces en un segundo o por encima del umbral general [requisito número 10.2.3.1 Umbral de tres destellos o menos, de UNE-EN 301549:2022].
+      - listitem: Pueden existir documentos que no disponen de título [requisito número 10.2.4.2 Titulado de páginas, de UNE-EN 301549:2022].
+      - listitem: En algunos documentos no se han definido los encabezados y no se puede navegar por el teclado [requisito número 10.2.4.3 Orden del foco, de UNE-EN 301549:2022].
+      - listitem: Algún documento puede contener algún enlace que podría no tener definido el propósito específico de manera textual [requisito número 10.2.4.4 Propósito de los enlaces (en contexto), de UNE-EN 301549:2022].
+      - listitem: En algún documento puede haber algún encabezado o algún nombre de control que no sea suficientemente descriptivo de su propósito [requisito número 10.2.4.6 Encabezados y etiquetas, de UNE-EN 301549:2022].
+      - listitem: La ubicación del foco no es siempre visible cuando se navega con teclado por algún documento [requisito número 10.2.4.7 Foco visible, de UNE-EN 301549:2022].
+      - listitem: En algún documento pueden existir elementos que utilizan multipunto o basados en ruta que no se pueden operar con solo un puntero o sin un gesto basado en ruta [requisito número 10.2.5.1 Gestos del puntero, de UNE-EN 301549:2022].
+      - listitem: Existen documentos donde no se puede cancelar un evento al pulsar el ratón [requisito número 10.2.5.2 Cancelación del puntero, de UNE-EN 301549:2022].
+      - listitem: Existen documentos que tienen algunas etiquetas que acompañan a los controles no tienen el mismo nombre [requisito número 10.2.5.3 Etiqueta del nombre, de UNE-EN 301549:2022].
+      - listitem: Existen documentos cuya funcionalidad es solo operable mediante el movimiento [requisito número 10.2.5.4 Activación mediante movimiento, de UNE-EN 301549:2022].
+      - listitem: Pueden existir documentos en los que no se identifica el idioma principal [requisito número 10.3.1.1 Idioma de la página, de UNE-EN 301549:2022].
+      - listitem: Pueden haber contenidos o frases dentro de algunos documentos cuyo idioma no puede determinarse por programa [requisito número 10.3.2.1 Idioma de las partes, de UNE-EN 301549:2022].
+      - listitem: Puede haber componentes en algún documento que cuando recibe el foco, inician un cambio de contexto [requisito número 10.3.2.1 Al recibir el foco, de UNE-EN 301549:2022].
+      - listitem: La interacción del usuario con algún control, provoca cambios de página sin advertirlo previamente [requisito número 10.3.2.2 Al recibir entradas, de UNE-EN 301549:2022].
+      - listitem: Hay campos de entrada de datos con capacidad de detección automática de errores que no identifican dónde o cómo se produce dicho error [requisito número 10.3.3.1 Identificación de errores, de UNE-EN 301549:2022].
+      - listitem: En algún formulario de algún documento, se podría producir algún cambio de contexto automático sin advertir al usuario [requisito número 10.3.3.2 Etiquetas o instrucciones, de UNE-EN 301549:2022].
+      - listitem: En algún documento podría existir algún error de entrada en algún campo/formulario del que no se notificase al usuario la sugerencia para solucionarlo [requisito número 10.3.3.3 Sugerencias ante errores , de UNE-EN 301549:2022].
+      - listitem: En algún documento puede existir algún formulario para recopilación de datos o que comprometen legal o financieramente que no son reversibles, revisables o tienen confirmación antes de enviarlos [requisito número 10.3.3.4 Prevención de errores (legales, financieros, datos), de UNE-EN 301549:2022].
+      - listitem: En algún documento puede haber atributos e ID duplicados [requisito número 10.4.1.1 Procesamiento, de UNE-EN 301549:2022].
+      - listitem: En algún documento los componentes de interfaz de usuario como elementos de formulario, enlaces y componentes generados por script no siguen la estructura recomendada por las pautas de accesibilidad [requisito número 10.4.1.2 Nombre, función, valor, de UNE-EN 301549:2022].
+      - listitem: En algunos documentos los mensajes de estado podrían no estar determinados mediante programación a través de funciones o propiedades [requisito número 10.4.1.3 Mensajes de estado, de UNE-EN 301549:2022].
+    - list:
+      - list:
+        - listitem: "Criterio 11 – Requisitos aplicables a software: No aplica."
+    - list:
+      - listitem: Las preferencias visuales de usuario del navegador no son respetadas en la página [requisito número 11.7 Preferencias de usuario, de UNE-EN 301549:2022].
+      - listitem: Puede que la información necesaria para la accesibilidad no sea compatible con el formato que se utiliza para la salida de la herramienta de autor [requisito número 11.8.1 Tecnología de gestión de contenidos, de UNE-EN 301549:2022].
+      - listitem: Puede que no exista un mecanismo que permita crear contenido de una forma accesible [requisito número 11.8.2 Creación de contenidos accesibles, de UNE-EN 301549:2022].
+      - listitem: No existe un mecanismo de preservación de la información de accesibilidad durante las transformaciones [requisito número 11.8.3 Preservación de la información de accesibilidad durante las transformaciones, de UNE-EN 301549:2022].
+      - listitem: Puede que no exista un mecanismo de reparación del verificador de accesibilidad [requisito número 11.8.4 Servicio de reparación, de UNE-EN 301549:2022].
+      - listitem: Puede que no esté disponible ninguna plantilla que sea compatible con la creación de contenido conforme a los requisitos de los capítulos 9 (Web) o 10 (Documentos no web) [requisito número 11.8.5 Plantillas, de UNE-EN 301549:2022].
+    - list:
+      - list:
+        - listitem: "Criterio 12 – Requisitos aplicables a documentación y servicios de apoyo: No aplica."
+    - list:
+      - listitem: La documentación del producto no enumera o explica todas las características de accesibilidad disponibles [requisito número 12.1.1 Características de accesibilidad y compatibilidad, de UNE-EN 301549:2022].
+      - listitem: La documentación del producto puede no estar completamente en formatos accesibles [requisito número 12.1.2 Documentación accesible, de UNE-EN 301549:2022].
+      - listitem: Los servicios de apoyo no proporcionan toda la información de las características de accesibilidad que se incluyen en la documentación del producto [requisito número 12.2.2 Información sobre las características de accesibilidad y compatibilidad, de UNE-EN 301549:2022].
+      - listitem: Los servicios de apoyo no siempre se pueden adaptar a las necesidades de comunicación de los usuarios con discapacidad [requisito número 12.2.3 Comunicación efectiva, de UNE-EN 301549:2022].
+      - listitem: Puede haber documentación suministrada por los servicios de apoyo que no esté en un formato accesible [requisito número 12.2.4 Documentación accesible, de UNE-EN 301549:2022].
+    - paragraph:
+      - strong: "b. Carga desproporcionada:"
+      - text: No aplica.
+    - paragraph:
+      - strong: "c. Contenido no entra dentro del ámbito de la legislación aplicable:"
+    - list:
+      - listitem: Pueden existir archivos de ofimática en PDF y otros formatos publicados antes del 20 de septiembre de 2018 que no cumplan en su totalidad todos los requisitos de accesibilidad. Aunque se ha procurado que la mayoría de ellos sí lo cumplan.
+      - listitem: Puede haber contenidos de terceros que no estén desarrollados en esta Unidad ni bajo su control como imágenes, mapas interactivos, videos, documentos, reproductores, etc.
+      - listitem: Pueden existir archivos pregrabados publicados antes del 20 de septiembre de 2018 que no cumplan en su totalidad todos los requisitos de accesibilidad.
+      - listitem: Partes o la totalidad del sitio web puede estar creado con un CMS (WordPress, Shopify, PrestaShop, etc), por lo que debido a alguna actualización o cambio en los sistemas, puede que no todo el contenido generado o autogenerado cumpla con todas las normativas de accesibilidad.
+    - paragraph:
+      - strong: Preparación de la presente declaración de accesibilidad
+    - paragraph: La presente declaración fue preparada el día 10/11/2025
+    - paragraph: El método empleado para preparar la declaración ha sido una autoevaluación llevada a cabo por la propia empresa.
+    - paragraph: "Última revisión de la declaración: 10/11/2025"
+    - paragraph:
+      - strong: Observaciones y datos de contacto
+    - paragraph: "Puede realizar comunicaciones sobre requisitos de accesibilidad (artículo 10.2.a del Real Decreto 1112/2018, de 7 de septiembre) como, por ejemplo:"
+    - list:
+      - listitem: Informar sobre cualquier posible incumplimiento por parte de este sitio web.
+      - listitem: Transmitir otras dificultades de acceso al contenido.
+      - listitem: Formular cualquier otra consulta o sugerencia de mejora relativa a la accesibilidad del sitio web.
+    - paragraph: "A través de las siguientes vías:"
+    - list:
+      - listitem: "Correo electrónico: gemmabueno@mynomadlawyer.com"
+      - listitem: "Teléfono:"
+    - paragraph: "Acorde al artículo 10.2.b del RD 1112/2018, también puedes presentar:"
+    - list:
+      - listitem: Una queja relativa al cumplimiento de los requisitos del RD 1112/2018.
+      - text: "Una solicitud de información accesible relativa a:"
+      - list:
+        - listitem: Contenidos que están excluidos del ámbito de aplicación del RD 1112/2018 según lo establecido por el artículo 3, apartado 4.
+        - listitem: Contenidos que están exentos del cumplimiento de los requisitos de accesibilidad por imponer una carga desproporcionada.
+    - paragraph: En la Solicitud de información accesible, se debe concretar, con toda claridad, los hechos, razones y petición que permitan constatar que se trata de una solicitud razonable y legítima.
+    - paragraph: Las comunicaciones serán recibidas y tratadas por la dirección de la empresa, como unidad responsable de los contenidos de este sitio web.
+    - paragraph:
+      - strong: Contenido opcional
+    - paragraph: La versión actualmente visible de este sitio web es del día 10/11/2025 y en esa fecha se hizo la revisión del nivel de accesibilidad vigente en aquel momento.
+    - paragraph: A partir de dicha fecha se llevan a cabo revisiones parciales diarias del contenido web nuevo o modificado, tanto de las plantillas como de las páginas y documentos finales publicados, a fin de asegurar el cumplimiento de los requerimientos de accesibilidad de la Norma UNE-EN 301549:2022, considerando las excepciones del Real Decreto 1112/2018, de 7 de septiembre.
+    - paragraph: "Entre otras se adoptan las siguientes medidas para facilitar la accesibilidad:"
+    - list:
+      - listitem: Utilización de texto alternativo en las imágenes.
+      - listitem: Los enlaces ofrecen detalles de la función o destino del hipervínculo.
+      - listitem: "Uso de los estándares del W3C: XHTML 1.0, CSS 3.0, WAI AA."
+    - paragraph:
+      - strong: Compatibilidad
+    - paragraph: "El sitio web:"
+    - list:
+      - listitem: se ha diseñado adaptándose a los estándares y normativas vigentes en relación a la accesibilidad, cumpliendo con los puntos de verificación de prioridad 2 (AA) definidos en la especificación de Pautas de Accesibilidad al Contenido en la Web (WCAG 2.1)
+      - listitem: está optimizado para las últimas versiones vigentes de Chrome, Edge, Firefox, Safari y Opera
+      - listitem: está diseñado para su correcta visualización en cualquier resolución y dispositivo de escritorio, tabletas o móviles (diseño responsive)
+      - listitem: se ha realizado utilizando HTML5 como lenguaje de marcado y hojas de estilo CSS 3 para su diseño.
+    - paragraph: Además, se realiza un trabajo continuo de auditoría y revisión de contenidos para facilitar su interpretación y mejorar la navegación por el portal web.
+- complementary:
+  - figure
+  - paragraph: Your trusted law firm for digital nomads and international investors
+  - paragraph:
+    - strong: Navigation
+  - paragraph:
+    - link "Home":
+      - /url: http://mynomadlawyer.7por7.com/
+    - link "About us":
+      - /url: http://mynomadlawyer.7por7.com/about-us/
+    - link "Services":
+      - /url: http://mynomadlawyer.7por7.com/services-my-nomad-lawyer/
+    - link "Why choose us":
+      - /url: http://mynomadlawyer.7por7.com/why-choose-us/
+    - link "Testimonials":
+      - /url: http://mynomadlawyer.7por7.com/testimonials/
+    - link "Contact":
+      - /url: http://mynomadlawyer.7por7.com/contact/
+  - paragraph:
+    - strong: Contact
+  - paragraph:
+    - text: Av. Ricardo Soriano, 34, 29601 Marbella, Málaga
+    - text: gemmabueno@mynomadlawyer.com
+    - text: +34 637 456 466
+  - paragraph:
+    - strong: Navigation
+  - paragraph:
+    - link "Privacy policy":
+      - /url: https://www.mynomadlawyer.com/privacy-policy/
+    - link "Cookies policy":
+      - /url: https://www.mynomadlawyer.com/cookies-policy/
+    - link "Accessibility Statement":
+      - /url: https://www.mynomadlawyer.com/accessibility-statement/
+    - link "Legal notice":
+      - /url: https://www.mynomadlawyer.com/legal-notice/
+    - link "Site map":
+      - /url: https://www.mynomadlawyer.com/page-sitemap.xml
+- contentinfo "Site":
+  - complementary:
+    - figure:
+      - img "logotipo universidad pablo olavide"
+    - figure:
+      - img "logotipo asega"
+    - figure:
+      - img "logotipo abogacia de málaga"
+  - complementary:
+    - paragraph: Esta web está financiada por la Unión Europea- Next Generation EU
+  - complementary:
+    - figure:
+      - img "logo-KIT-DIGITAL-definitivo-color-2024"
+- generic: desktop
+- link "Whatsapp":
+  - /url: https://api.whatsapp.com/send?phone=34637456466
+  - img "Whatsapp"

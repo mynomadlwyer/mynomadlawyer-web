@@ -1,7 +1,11 @@
 /* Local replacements for remote runtime behavior. Observed visual styles stay in separate files. */
 main.site-content{display:block}main:focus{outline:none}
 [hidden]{display:none!important}
-.gt-current-lang{cursor:pointer}.gt-current-lang:focus-visible,.ti-read-more:focus-visible,.ti-next:focus-visible,.ti-prev:focus-visible{outline:2px solid #083d04;outline-offset:3px}
+.gt-current-lang,.gt_current-lang{cursor:pointer}.gt-current-lang:focus-visible,.gt_current-lang:focus-visible,.ti-read-more:focus-visible,.ti-next:focus-visible,.ti-prev:focus-visible{outline:2px solid #083d04;outline-offset:3px}
+.main-navigation .main-nav ul li.menu-item-gtranslate .gt_current-lang img{display:block!important;width:16px;height:16px;border-radius:2px;vertical-align:middle}
+.main-navigation .main-nav ul li.menu-item-gtranslate .gt_options{display:none;min-width:132px}
+.main-navigation .main-nav ul li.menu-item-gtranslate .gt_options.gt-open{display:block}
+.main-navigation .main-nav ul li.menu-item-gtranslate .gt_options a:hover{background:#f2f6f2}
 .language-status{position:fixed;right:24px;top:150px;max-width:340px;padding:16px;background:#fff;color:#383838;box-shadow:0 3px 18px #0003;z-index:10000;font-size:14px;border:1px solid #083d04}
 .consent-open{overflow:hidden}.cky-modal.cky-hide,.cky-overlay.cky-hide,.cky-consent-container.cky-hide{display:none!important}
 .cky-accordion-active .cky-accordion-body{display:block}.cky-accordion-active .cky-chevron-right{transform:rotate(45deg)}

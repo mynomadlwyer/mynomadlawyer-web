@@ -75,6 +75,32 @@ mynomadlawyer-web/
 └── wrangler.toml           # Configuración Cloudflare Pages
 ```
 
+## Modo Mantenimiento (proyecto parado)
+
+El sitio se puede poner en "ventana de mantenimiento" con una sola bandera en `src/config.json`:
+
+```json
+{ "maintenance": true }
+```
+
+Con `maintenance: true` el build (`node scripts/build.mjs`) genera:
+
+- La **ventana de mantenimiento** (`src/components/Maintenance.html`) en **todas** las rutas
+  (`/`, `/es/`, `/about-us/`, …) más un `404.html` para rutas desconocidas.
+- `robots.txt` con `Disallow: /` (bloquea a todos los rastreadores).
+- Cabecera `X-Robots-Tag: noindex, nofollow, noarchive` en todas las respuestas
+  (archivo `dist/_headers`).
+- Meta `<meta name="robots" content="noindex, nofollow, noarchive, noimageindex, nosnippet">`
+  en cada página.
+- `page-sitemap.xml` **vacío** (sin URLs) para que no se pueda indexar nada.
+
+Para volver a publicar la web: poner `"maintenance": false`, reconstruir y desplegar.
+
+```bash
+node scripts/build.mjs
+wrangler pages deploy dist --project-name=mynomadlawyer --branch=master --commit-dirty=true
+```
+
 ## Comandos útiles
 
 ```bash
@@ -92,7 +118,7 @@ npm run check
 
 - El sitio es 100% estático (sin backend)
 - El formulario de contacto es estático (muestra mensaje de éxito sin enviar datos)
-- El selector de idiomas es estático (sin funcionalidad backend)
+- El selector de idiomas (EN/ES) apunta a `/` y `/es/` (páginas estáticas en español)
 - Google Analytics está configurado con ID G-H58VFG64ML
 - El sitemap está en `/page-sitemap.xml`
-- robots.txt permite indexación completa
+- Con `maintenance: true` el sitio queda bloqueado para indexadores (ver sección anterior)

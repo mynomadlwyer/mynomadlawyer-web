@@ -101,6 +101,23 @@ node scripts/build.mjs
 wrangler pages deploy dist --project-name=mynomadlawyer --branch=master --commit-dirty=true
 ```
 
+### URLs de despliegues antiguos
+
+Cada despliegue de Cloudflare Pages conserva su propia URL (`https://<id>.mynomadlawyer.pages.dev`).
+Aunque se borre el despliegue, el edge de Cloudflare puede seguir sirviendo su contenido antiguo
+durante un tiempo (caché interna). Para neutralizarlas, se creó una *preview deployment* con el
+**mismo nombre que el hostname antiguo** como nombre de rama; Cloudflare asigna entonces ese
+hostname como alias de rama y pasa a servir el contenido nuevo (mantenimiento):
+
+```bash
+# Una vez por cada hostname antiguo que aún sirva contenido
+wrangler pages deploy dist --project-name=mynomadlawyer --branch=<id-antiguo> --commit-dirty=true
+```
+
+Hostnames ya neutralizados: `425190b3`, `db9f745a`, `f5de5101`, `c8e8e0d6`.
+Estos despliegues de rama deben mantenerse mientras dure el mantenimiento; si se borran, las URLs
+antiguas volverían a 404 (o al contenido cacheado).
+
 ## Comandos útiles
 
 ```bash

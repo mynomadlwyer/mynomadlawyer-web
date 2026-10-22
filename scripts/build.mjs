@@ -122,7 +122,7 @@ function renderTemplate(str,vars){
 export async function build(){
   const config=await loadConfig();
   const maintenance=Boolean(config.maintenance);
-  const out=path.join(root,'dist');await fs.mkdir(out,{recursive:true});await fs.cp(path.join(root,'public'),out,{recursive:true});
+  const out=path.join(root,'dist');await fs.rm(out,{recursive:true,force:true});await fs.mkdir(out,{recursive:true});await fs.cp(path.join(root,'public'),out,{recursive:true});
   const components={};for(const name of await fs.readdir(path.join(root,'src/components')))if(name.endsWith('.html'))components[name.slice(0,-5)]=await fs.readFile(path.join(root,'src/components',name),'utf8');
   const expand=html=>html.replace(/<!-- component:(\w+) -->/g,(_,name)=>{if(!(name in components))throw Error('Unknown component '+name);return components[name];});
   const pages=[];
@@ -231,6 +231,7 @@ export async function build(){
     await fs.writeFile(sitemapPath,'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+routes.map(r=>'<url><loc>'+SITE_URL+r+'</loc></url>').join('')+'</urlset>');
     await fs.writeFile(path.join(out,'robots.txt'),'User-agent: *\nAllow: /\nSitemap: '+SITE_URL+'/page-sitemap.xml\n');
     await fs.rm(path.join(out,'_headers'),{force:true});
+    await fs.rm(path.join(out,'_redirects'),{force:true});
     await fs.rm(path.join(out,'404.html'),{force:true});
   }
   return {routes,maintenance};

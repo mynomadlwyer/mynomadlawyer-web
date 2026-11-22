@@ -145,7 +145,8 @@ export async function build(){
     const esPath=esByEnPath.get(enPath)||'/es/';
     const enUrl=SITE_URL+enPath;
     const esUrl=SITE_URL+esPath;
-    const header=renderTemplate(components.Header,{
+    const headerComponent=isSpanish?'Header-es':'Header';
+    const header=renderTemplate(components[headerComponent],{
       ALT_EN:enPath,
       ALT_ES:esPath,
       LANG_CODE:isSpanish?'ES':'EN',

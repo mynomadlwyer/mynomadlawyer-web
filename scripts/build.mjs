@@ -228,13 +228,53 @@ export async function build(){
     await fs.writeFile(path.join(out,'404.html'),maintenancePage(components.Maintenance));
     await fs.writeFile(path.join(out,'robots.txt'),'User-agent: *\nDisallow: /\n');
     await fs.writeFile(path.join(out,'_headers'),'/*\n  X-Robots-Tag: noindex, nofollow, noarchive\n');
-  }else{
-    await fs.writeFile(sitemapPath,'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+routes.map(r=>'<url><loc>'+SITE_URL+r+'</loc></url>').join('')+'</urlset>');
-    await fs.writeFile(path.join(out,'robots.txt'),'User-agent: *\nAllow: /\nSitemap: '+SITE_URL+'/page-sitemap.xml\n');
-    await fs.rm(path.join(out,'_headers'),{force:true});
-    await fs.rm(path.join(out,'_redirects'),{force:true});
-    await fs.rm(path.join(out,'404.html'),{force:true});
-  }
+  } else {
+      // 1. sitemap.xml (standard name)
+      await fs.writeFile(path.join(out,'sitemap.xml'),
+        '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+
+        routes.map(r=>'<url><loc>'+SITE_URL+r+'</loc></url>').join('')+'</urlset>');
+
+      // 2. sitemap_index.xml (references the single sitemap)
+      await fs.writeFile(path.join(out,'sitemap_index.xml'),
+        `<?xml version="1.0" encoding="UTF-8"?>
+  <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap><loc>${SITE_URL}/sitemap.xml</loc></sitemap>
+  </sitemapindex>`);
+
+      // 3. feed.xml (RSS 2.0 minimal)
+      const enPages = pages.filter(p => !p.slug.endsWith('-es')).slice(0, 10);
+      const feedItems = enPages.map(p => `
+    <item>
+      <title>${escape(p.title)}</title>
+      <link>${SITE_URL+p.path}</link>
+      <guid isPermaLink="true">${SITE_URL+p.path}</guid>
+      <description>${escape(p.description||SITE_DESC)}</description>
+      <pubDate>${new Date().toUTCString()}</pubDate>
+    </item>`).join('');
+      await fs.writeFile(path.join(out,'feed.xml'),
+        `<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0"><channel>
+    <title>${SITE_NAME}</title>
+    <link>${SITE_URL}/</link>
+    <description>${SITE_DESC}</description>
+    <language>en-US</language>
+    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+    ${feedItems}
+  </channel></rss>`);
+
+      // 4. robots.txt updated to point to sitemap.xml
+      await fs.writeFile(path.join(out,'robots.txt'),
+        `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
+
+      // 5. /feed/index.html with redirect to feed.xml
+      await fs.mkdir(path.join(out,'feed'),{recursive:true});
+      await fs.writeFile(path.join(out,'feed','index.html'),
+        `<!doctype html><meta http-equiv="refresh" content="0;url=/feed.xml"><link rel="canonical" href="/feed.xml">`);
+
+      await fs.rm(path.join(out,'_headers'),{force:true});
+      await fs.rm(path.join(out,'_redirects'),{force:true});
+      await fs.rm(path.join(out,'404.html'),{force:true});
+    }
   return {routes,maintenance};
 }
 if(process.argv[1]===path.join(import.meta.dirname,'build.mjs')){

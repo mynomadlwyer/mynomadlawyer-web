@@ -271,6 +271,9 @@ export async function build(){
       await fs.writeFile(path.join(out,'feed','index.html'),
         `<!doctype html><meta http-equiv="refresh" content="0;url=/feed.xml"><link rel="canonical" href="/feed.xml">`);
 
+      // 6. /feed/index.xml (XML directo para monitores que exigen XML en /feed/)
+      await fs.copyFile(path.join(out,'feed.xml'), path.join(out,'feed','index.xml'));
+
       await fs.rm(path.join(out,'_headers'),{force:true});
       await fs.rm(path.join(out,'_redirects'),{force:true});
       await fs.rm(path.join(out,'404.html'),{force:true});

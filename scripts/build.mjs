@@ -266,12 +266,9 @@ export async function build(){
       await fs.writeFile(path.join(out,'robots.txt'),
         `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
 
-      // 5. /feed/index.xml (XML directo para /feed/ — sin index.html para que CF Pages lo sirva)
+      // 5. /feed/index.xml (copia para compatibilidad, la Function sirve /feed/ directo)
       await fs.mkdir(path.join(out,'feed'),{recursive:true});
       await fs.copyFile(path.join(out,'feed.xml'), path.join(out,'feed','index.xml'));
-
-      // 6. _redirects: /feed/ -> /feed.xml (CF Pages no sirve index.xml en directorios)
-      await fs.writeFile(path.join(out,'_redirects'),'/feed/  /feed.xml  301\n');
 
       await fs.rm(path.join(out,'_headers'),{force:true});
       await fs.rm(path.join(out,'404.html'),{force:true});

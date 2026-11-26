@@ -270,8 +270,10 @@ export async function build(){
       await fs.mkdir(path.join(out,'feed'),{recursive:true});
       await fs.copyFile(path.join(out,'feed.xml'), path.join(out,'feed','index.xml'));
 
+      // 6. _redirects: /feed/ -> /feed.xml (CF Pages no sirve index.xml en directorios)
+      await fs.writeFile(path.join(out,'_redirects'),'/feed/  /feed.xml  301\n');
+
       await fs.rm(path.join(out,'_headers'),{force:true});
-      await fs.rm(path.join(out,'_redirects'),{force:true});
       await fs.rm(path.join(out,'404.html'),{force:true});
     }
   return {routes,maintenance};

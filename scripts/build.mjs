@@ -263,15 +263,19 @@ export async function build(){
   </channel></rss>`);
 
       // 4. robots.txt updated to point to sitemap.xml
-      await fs.writeFile(path.join(out,'robots.txt'),
-        `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
+            await fs.writeFile(path.join(out,'robots.txt'),
+              `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
 
-      // 5. /feed/index.xml (copia para compatibilidad, la Function sirve /feed/ directo)
-      await fs.mkdir(path.join(out,'feed'),{recursive:true});
-      await fs.copyFile(path.join(out,'feed.xml'), path.join(out,'feed','index.xml'));
+            // 5. /feed/index.html con contenido XML (CF Pages sirve index.html en directorios)
+            //    + _headers para Content-Type correcto
+            await fs.mkdir(path.join(out,'feed'),{recursive:true});
+            await fs.copyFile(path.join(out,'feed.xml'), path.join(out,'feed','index.html'));
 
-      await fs.rm(path.join(out,'_headers'),{force:true});
-      await fs.rm(path.join(out,'404.html'),{force:true});
+            // 6. _headers: Content-Type application/xml para /feed/
+            await fs.writeFile(path.join(out,'_headers'),
+              '/feed/\n  Content-Type: application/xml; charset=utf-8\n  Cache-Control: public, max-age=3600, must-revalidate\n');
+
+            await fs.rm(path.join(out,'404.html'),{force:true});
     }
   return {routes,maintenance};
 }

@@ -256,7 +256,7 @@ export async function build(){
   <rss version="2.0"><channel>
     <title>${SITE_NAME}</title>
     <link>${SITE_URL}/</link>
-    <description>${SITE_DESC}</description>
+    <description>${escape(SITE_DESC)}</description>
     <language>en-US</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     ${feedItems}
